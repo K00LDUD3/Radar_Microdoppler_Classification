@@ -1,0 +1,2249 @@
+[2026-02-25 00:01:53] [INFO] [MET]: START Session 1
+[2026-02-25 00:01:53] [INFO] [DEF]: ============================================================
+[2026-02-25 00:01:53] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:03:22] [INFO] [MET]: END Session 1
+[2026-02-25 00:03:22] [INFO] [MET]: START Session 2
+[2026-02-25 00:03:22] [INFO] [DEF]: ============================================================
+[2026-02-25 00:03:22] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:03:22] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:03:22] [INFO] [DEF]: ============================================================
+[2026-02-25 00:03:50] [INFO] [MET]: END Session 2
+[2026-02-25 00:03:50] [INFO] [MET]: START Session 3
+[2026-02-25 00:03:50] [INFO] [DEF]: ============================================================
+[2026-02-25 00:03:50] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:03:50] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:03:50] [INFO] [DEF]: ============================================================
+[2026-02-25 00:05:57] [INFO] [MET]: END Session 3
+[2026-02-25 00:05:57] [INFO] [MET]: START Session 4
+[2026-02-25 00:05:57] [INFO] [DEF]: ============================================================
+[2026-02-25 00:05:57] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:05:57] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:05:57] [INFO] [DEF]: ============================================================
+[2026-02-25 00:08:04] [INFO] [MET]: END Session 4
+[2026-02-25 00:08:04] [INFO] [MET]: START Session 5
+[2026-02-25 00:08:04] [INFO] [DEF]: ============================================================
+[2026-02-25 00:08:04] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:08:04] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:08:04] [INFO] [DEF]: ============================================================
+[2026-02-25 00:08:05] [INFO] [MET]: Train: (8931, 1, 32, 256)
+[2026-02-25 00:08:05] [INFO] [MET]: Val  : (995, 1, 32, 256)
+[2026-02-25 00:08:05] [INFO] [MET]: Test : (1272, 1, 32, 256)
+[2026-02-25 00:08:37] [INFO] [MET]: END Session 5
+[2026-02-25 00:08:37] [INFO] [MET]: START Session 6
+[2026-02-25 00:08:37] [INFO] [DEF]: ============================================================
+[2026-02-25 00:08:37] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:08:37] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:08:37] [INFO] [DEF]: ============================================================
+[2026-02-25 00:08:38] [INFO] [MET]: Train: (8931, 1, 32, 256)
+[2026-02-25 00:08:38] [INFO] [MET]: Val  : (995, 1, 32, 256)
+[2026-02-25 00:08:38] [INFO] [MET]: Test : (1272, 1, 32, 256)
+[2026-02-25 00:08:38] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:08:38] [INFO] [DEF]: ============================================================
+[2026-02-25 00:09:08] [WARN] [MET]: END Session 6
+[2026-02-25 00:09:08] [WARN] [MET]: Auto-repairing incomplete sessions: [6]
+[2026-02-25 00:09:09] [INFO] [MET]: START Session 7
+[2026-02-25 00:09:09] [INFO] [DEF]: ============================================================
+[2026-02-25 00:09:09] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:09:09] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:09:09] [INFO] [DEF]: ============================================================
+[2026-02-25 00:09:11] [INFO] [MET]: Train: (8931, 1, 32, 256)
+[2026-02-25 00:09:11] [INFO] [MET]: Val  : (995, 1, 32, 256)
+[2026-02-25 00:09:11] [INFO] [MET]: Test : (1272, 1, 32, 256)
+[2026-02-25 00:09:11] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:09:11] [INFO] [DEF]: ============================================================
+[2026-02-25 00:09:13] [INFO] [BEG]: Starting Training...
+[2026-02-25 00:09:16] [INFO] [DEF]: Epoch [1/25]
+[2026-02-25 00:09:16] [INFO] [DEF]: Train Loss: 117.4244
+[2026-02-25 00:09:16] [INFO] [DEF]: Train Acc: 0.6470
+[2026-02-25 00:09:16] [INFO] [DEF]: Val Loss: 22.4683
+[2026-02-25 00:09:16] [INFO] [DEF]: Val Acc: 0.3879
+[2026-02-25 00:09:18] [INFO] [DEF]: Epoch [2/25]
+[2026-02-25 00:09:18] [INFO] [DEF]: Train Loss: 66.7510
+[2026-02-25 00:09:18] [INFO] [DEF]: Train Acc: 0.8046
+[2026-02-25 00:09:18] [INFO] [DEF]: Val Loss: 26.4866
+[2026-02-25 00:09:18] [INFO] [DEF]: Val Acc: 0.5809
+[2026-02-25 00:09:19] [INFO] [DEF]: Epoch [3/25]
+[2026-02-25 00:09:19] [INFO] [DEF]: Train Loss: 50.2971
+[2026-02-25 00:09:19] [INFO] [DEF]: Train Acc: 0.8597
+[2026-02-25 00:09:19] [INFO] [DEF]: Val Loss: 21.6304
+[2026-02-25 00:09:19] [INFO] [DEF]: Val Acc: 0.6412
+[2026-02-25 00:09:21] [INFO] [DEF]: Epoch [4/25]
+[2026-02-25 00:09:21] [INFO] [DEF]: Train Loss: 44.5600
+[2026-02-25 00:09:21] [INFO] [DEF]: Train Acc: 0.8719
+[2026-02-25 00:09:21] [INFO] [DEF]: Val Loss: 11.0690
+[2026-02-25 00:09:21] [INFO] [DEF]: Val Acc: 0.8161
+[2026-02-25 00:09:23] [INFO] [DEF]: Epoch [5/25]
+[2026-02-25 00:09:23] [INFO] [DEF]: Train Loss: 38.9992
+[2026-02-25 00:09:23] [INFO] [DEF]: Train Acc: 0.8888
+[2026-02-25 00:09:23] [INFO] [DEF]: Val Loss: 9.0951
+[2026-02-25 00:09:23] [INFO] [DEF]: Val Acc: 0.8322
+[2026-02-25 00:09:24] [INFO] [DEF]: Epoch [6/25]
+[2026-02-25 00:09:24] [INFO] [DEF]: Train Loss: 34.1831
+[2026-02-25 00:09:24] [INFO] [DEF]: Train Acc: 0.9026
+[2026-02-25 00:09:24] [INFO] [DEF]: Val Loss: 29.0531
+[2026-02-25 00:09:24] [INFO] [DEF]: Val Acc: 0.5206
+[2026-02-25 00:09:26] [INFO] [DEF]: Epoch [7/25]
+[2026-02-25 00:09:26] [INFO] [DEF]: Train Loss: 33.1023
+[2026-02-25 00:09:26] [INFO] [DEF]: Train Acc: 0.9075
+[2026-02-25 00:09:26] [INFO] [DEF]: Val Loss: 6.5209
+[2026-02-25 00:09:26] [INFO] [DEF]: Val Acc: 0.9166
+[2026-02-25 00:09:28] [INFO] [DEF]: Epoch [8/25]
+[2026-02-25 00:09:28] [INFO] [DEF]: Train Loss: 29.6746
+[2026-02-25 00:09:28] [INFO] [DEF]: Train Acc: 0.9164
+[2026-02-25 00:09:28] [INFO] [DEF]: Val Loss: 10.7475
+[2026-02-25 00:09:28] [INFO] [DEF]: Val Acc: 0.8382
+[2026-02-25 00:09:30] [INFO] [DEF]: Epoch [9/25]
+[2026-02-25 00:09:30] [INFO] [DEF]: Train Loss: 30.0400
+[2026-02-25 00:09:30] [INFO] [DEF]: Train Acc: 0.9131
+[2026-02-25 00:09:30] [INFO] [DEF]: Val Loss: 8.5308
+[2026-02-25 00:09:30] [INFO] [DEF]: Val Acc: 0.9126
+[2026-02-25 00:09:31] [INFO] [DEF]: Epoch [10/25]
+[2026-02-25 00:09:31] [INFO] [DEF]: Train Loss: 30.6649
+[2026-02-25 00:09:31] [INFO] [DEF]: Train Acc: 0.9128
+[2026-02-25 00:09:31] [INFO] [DEF]: Val Loss: 63.3969
+[2026-02-25 00:09:31] [INFO] [DEF]: Val Acc: 0.4090
+[2026-02-25 00:09:33] [INFO] [DEF]: Epoch [11/25]
+[2026-02-25 00:09:33] [INFO] [DEF]: Train Loss: 26.1971
+[2026-02-25 00:09:33] [INFO] [DEF]: Train Acc: 0.9242
+[2026-02-25 00:09:33] [INFO] [DEF]: Val Loss: 4.5234
+[2026-02-25 00:09:33] [INFO] [DEF]: Val Acc: 0.9377
+[2026-02-25 00:09:35] [INFO] [DEF]: Epoch [12/25]
+[2026-02-25 00:09:35] [INFO] [DEF]: Train Loss: 23.2814
+[2026-02-25 00:09:35] [INFO] [DEF]: Train Acc: 0.9305
+[2026-02-25 00:09:35] [INFO] [DEF]: Val Loss: 21.5192
+[2026-02-25 00:09:35] [INFO] [DEF]: Val Acc: 0.6281
+[2026-02-25 00:09:36] [INFO] [DEF]: Epoch [13/25]
+[2026-02-25 00:09:36] [INFO] [DEF]: Train Loss: 22.1924
+[2026-02-25 00:09:36] [INFO] [DEF]: Train Acc: 0.9344
+[2026-02-25 00:09:36] [INFO] [DEF]: Val Loss: 18.0954
+[2026-02-25 00:09:36] [INFO] [DEF]: Val Acc: 0.7799
+[2026-02-25 00:09:38] [INFO] [DEF]: Epoch [14/25]
+[2026-02-25 00:09:38] [INFO] [DEF]: Train Loss: 21.9948
+[2026-02-25 00:09:38] [INFO] [DEF]: Train Acc: 0.9346
+[2026-02-25 00:09:38] [INFO] [DEF]: Val Loss: 8.4637
+[2026-02-25 00:09:38] [INFO] [DEF]: Val Acc: 0.8543
+[2026-02-25 00:09:40] [INFO] [DEF]: Epoch [15/25]
+[2026-02-25 00:09:40] [INFO] [DEF]: Train Loss: 20.2896
+[2026-02-25 00:09:40] [INFO] [DEF]: Train Acc: 0.9413
+[2026-02-25 00:09:40] [INFO] [DEF]: Val Loss: 30.5259
+[2026-02-25 00:09:40] [INFO] [DEF]: Val Acc: 0.7538
+[2026-02-25 00:09:41] [INFO] [DEF]: Epoch [16/25]
+[2026-02-25 00:09:41] [INFO] [DEF]: Train Loss: 17.5909
+[2026-02-25 00:09:41] [INFO] [DEF]: Train Acc: 0.9510
+[2026-02-25 00:09:41] [INFO] [DEF]: Val Loss: 8.1329
+[2026-02-25 00:09:41] [INFO] [DEF]: Val Acc: 0.8864
+[2026-02-25 00:09:43] [INFO] [DEF]: Epoch [17/25]
+[2026-02-25 00:09:43] [INFO] [DEF]: Train Loss: 15.0803
+[2026-02-25 00:09:43] [INFO] [DEF]: Train Acc: 0.9557
+[2026-02-25 00:09:43] [INFO] [DEF]: Val Loss: 6.0126
+[2026-02-25 00:09:43] [INFO] [DEF]: Val Acc: 0.9528
+[2026-02-25 00:09:45] [INFO] [DEF]: Epoch [18/25]
+[2026-02-25 00:09:45] [INFO] [DEF]: Train Loss: 14.6386
+[2026-02-25 00:09:45] [INFO] [DEF]: Train Acc: 0.9564
+[2026-02-25 00:09:45] [INFO] [DEF]: Val Loss: 6.4794
+[2026-02-25 00:09:45] [INFO] [DEF]: Val Acc: 0.9216
+[2026-02-25 00:09:47] [INFO] [DEF]: Epoch [19/25]
+[2026-02-25 00:09:47] [INFO] [DEF]: Train Loss: 18.0766
+[2026-02-25 00:09:47] [INFO] [DEF]: Train Acc: 0.9506
+[2026-02-25 00:09:47] [INFO] [DEF]: Val Loss: 52.7478
+[2026-02-25 00:09:47] [INFO] [DEF]: Val Acc: 0.6442
+[2026-02-25 00:09:48] [INFO] [DEF]: Epoch [20/25]
+[2026-02-25 00:09:48] [INFO] [DEF]: Train Loss: 15.8863
+[2026-02-25 00:09:48] [INFO] [DEF]: Train Acc: 0.9511
+[2026-02-25 00:09:48] [INFO] [DEF]: Val Loss: 8.9942
+[2026-02-25 00:09:48] [INFO] [DEF]: Val Acc: 0.9266
+[2026-02-25 00:09:50] [INFO] [DEF]: Epoch [21/25]
+[2026-02-25 00:09:50] [INFO] [DEF]: Train Loss: 14.4056
+[2026-02-25 00:09:50] [INFO] [DEF]: Train Acc: 0.9611
+[2026-02-25 00:09:50] [INFO] [DEF]: Val Loss: 27.0802
+[2026-02-25 00:09:50] [INFO] [DEF]: Val Acc: 0.7869
+[2026-02-25 00:09:51] [INFO] [DEF]: Epoch [22/25]
+[2026-02-25 00:09:51] [INFO] [DEF]: Train Loss: 13.9875
+[2026-02-25 00:09:51] [INFO] [DEF]: Train Acc: 0.9589
+[2026-02-25 00:09:51] [INFO] [DEF]: Val Loss: 8.6731
+[2026-02-25 00:09:51] [INFO] [DEF]: Val Acc: 0.8935
+[2026-02-25 00:09:53] [INFO] [DEF]: Epoch [23/25]
+[2026-02-25 00:09:53] [INFO] [DEF]: Train Loss: 14.3923
+[2026-02-25 00:09:53] [INFO] [DEF]: Train Acc: 0.9594
+[2026-02-25 00:09:53] [INFO] [DEF]: Val Loss: 6.2020
+[2026-02-25 00:09:53] [INFO] [DEF]: Val Acc: 0.9296
+[2026-02-25 00:09:55] [INFO] [DEF]: Epoch [24/25]
+[2026-02-25 00:09:55] [INFO] [DEF]: Train Loss: 13.7644
+[2026-02-25 00:09:55] [INFO] [DEF]: Train Acc: 0.9585
+[2026-02-25 00:09:55] [INFO] [DEF]: Val Loss: 55.3413
+[2026-02-25 00:09:55] [INFO] [DEF]: Val Acc: 0.6683
+[2026-02-25 00:09:56] [INFO] [DEF]: Epoch [25/25]
+[2026-02-25 00:09:56] [INFO] [DEF]: Train Loss: 9.3594
+[2026-02-25 00:09:56] [INFO] [DEF]: Train Acc: 0.9728
+[2026-02-25 00:09:56] [INFO] [DEF]: Val Loss: 20.1043
+[2026-02-25 00:09:56] [INFO] [DEF]: Val Acc: 0.8513
+[2026-02-25 00:09:56] [INFO] [DEF]: Training Complete.
+[2026-02-25 00:09:56] [INFO] [DEF]: Best Val Accuracy: 0.9527638190954774
+[2026-02-25 00:09:56] [INFO] [DEF]: Test Accuracy: 0.9441823899371069
+[2026-02-25 00:09:56] [INFO] [FIN]: Execution Complete.
+[2026-02-25 00:09:57] [INFO] [MET]: END Session 7
+[2026-02-25 00:12:45] [INFO] [MET]: START Session 8
+[2026-02-25 00:12:45] [INFO] [DEF]: ============================================================
+[2026-02-25 00:12:45] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:12:45] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:12:45] [INFO] [DEF]: ============================================================
+[2026-02-25 00:12:46] [INFO] [MET]: Train: (8931, 1, 32, 256)
+[2026-02-25 00:12:46] [INFO] [MET]: Val  : (995, 1, 32, 256)
+[2026-02-25 00:12:46] [INFO] [MET]: Test : (1272, 1, 32, 256)
+[2026-02-25 00:12:46] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:12:46] [INFO] [DEF]: ============================================================
+[2026-02-25 00:12:47] [INFO] [BEG]: Starting Training...
+[2026-02-25 00:12:49] [INFO] [DEF]: Epoch [1/100]
+[2026-02-25 00:12:49] [INFO] [DEF]: Train Loss: 117.4843
+[2026-02-25 00:12:49] [INFO] [DEF]: Train Acc: 0.6474
+[2026-02-25 00:12:49] [INFO] [DEF]: Val Loss: 22.0001
+[2026-02-25 00:12:49] [INFO] [DEF]: Val Acc: 0.4000
+[2026-02-25 00:12:50] [INFO] [DEF]: Epoch [2/100]
+[2026-02-25 00:12:50] [INFO] [DEF]: Train Loss: 66.7288
+[2026-02-25 00:12:50] [INFO] [DEF]: Train Acc: 0.8058
+[2026-02-25 00:12:50] [INFO] [DEF]: Val Loss: 29.1955
+[2026-02-25 00:12:50] [INFO] [DEF]: Val Acc: 0.5548
+[2026-02-25 00:12:52] [INFO] [DEF]: Epoch [3/100]
+[2026-02-25 00:12:52] [INFO] [DEF]: Train Loss: 50.0876
+[2026-02-25 00:12:52] [INFO] [DEF]: Train Acc: 0.8595
+[2026-02-25 00:12:52] [INFO] [DEF]: Val Loss: 5.0262
+[2026-02-25 00:12:52] [INFO] [DEF]: Val Acc: 0.9246
+[2026-02-25 00:12:54] [INFO] [DEF]: Epoch [4/100]
+[2026-02-25 00:12:54] [INFO] [DEF]: Train Loss: 44.9325
+[2026-02-25 00:12:54] [INFO] [DEF]: Train Acc: 0.8693
+[2026-02-25 00:12:54] [INFO] [DEF]: Val Loss: 10.9674
+[2026-02-25 00:12:54] [INFO] [DEF]: Val Acc: 0.7990
+[2026-02-25 00:12:55] [INFO] [DEF]: Epoch [5/100]
+[2026-02-25 00:12:55] [INFO] [DEF]: Train Loss: 39.1548
+[2026-02-25 00:12:55] [INFO] [DEF]: Train Acc: 0.8914
+[2026-02-25 00:12:55] [INFO] [DEF]: Val Loss: 16.2570
+[2026-02-25 00:12:55] [INFO] [DEF]: Val Acc: 0.8010
+[2026-02-25 00:12:57] [INFO] [DEF]: Epoch [6/100]
+[2026-02-25 00:12:57] [INFO] [DEF]: Train Loss: 34.5720
+[2026-02-25 00:12:57] [INFO] [DEF]: Train Acc: 0.8997
+[2026-02-25 00:12:57] [INFO] [DEF]: Val Loss: 17.2079
+[2026-02-25 00:12:57] [INFO] [DEF]: Val Acc: 0.6231
+[2026-02-25 00:12:59] [INFO] [DEF]: Epoch [7/100]
+[2026-02-25 00:12:59] [INFO] [DEF]: Train Loss: 32.1027
+[2026-02-25 00:12:59] [INFO] [DEF]: Train Acc: 0.9058
+[2026-02-25 00:12:59] [INFO] [DEF]: Val Loss: 6.1360
+[2026-02-25 00:12:59] [INFO] [DEF]: Val Acc: 0.9005
+[2026-02-25 00:13:00] [INFO] [DEF]: Epoch [8/100]
+[2026-02-25 00:13:00] [INFO] [DEF]: Train Loss: 29.0846
+[2026-02-25 00:13:00] [INFO] [DEF]: Train Acc: 0.9183
+[2026-02-25 00:13:00] [INFO] [DEF]: Val Loss: 4.8856
+[2026-02-25 00:13:00] [INFO] [DEF]: Val Acc: 0.9156
+[2026-02-25 00:13:02] [INFO] [DEF]: Epoch [9/100]
+[2026-02-25 00:13:02] [INFO] [DEF]: Train Loss: 32.1874
+[2026-02-25 00:13:02] [INFO] [DEF]: Train Acc: 0.9094
+[2026-02-25 00:13:02] [INFO] [DEF]: Val Loss: 11.0875
+[2026-02-25 00:13:02] [INFO] [DEF]: Val Acc: 0.8784
+[2026-02-25 00:13:04] [INFO] [DEF]: Epoch [10/100]
+[2026-02-25 00:13:04] [INFO] [DEF]: Train Loss: 29.8038
+[2026-02-25 00:13:04] [INFO] [DEF]: Train Acc: 0.9137
+[2026-02-25 00:13:04] [INFO] [DEF]: Val Loss: 17.1948
+[2026-02-25 00:13:04] [INFO] [DEF]: Val Acc: 0.7317
+[2026-02-25 00:13:05] [INFO] [DEF]: Epoch [11/100]
+[2026-02-25 00:13:05] [INFO] [DEF]: Train Loss: 25.3371
+[2026-02-25 00:13:05] [INFO] [DEF]: Train Acc: 0.9249
+[2026-02-25 00:13:05] [INFO] [DEF]: Val Loss: 8.3732
+[2026-02-25 00:13:05] [INFO] [DEF]: Val Acc: 0.8724
+[2026-02-25 00:13:07] [INFO] [DEF]: Epoch [12/100]
+[2026-02-25 00:13:07] [INFO] [DEF]: Train Loss: 22.6033
+[2026-02-25 00:13:07] [INFO] [DEF]: Train Acc: 0.9340
+[2026-02-25 00:13:07] [INFO] [DEF]: Val Loss: 46.5862
+[2026-02-25 00:13:07] [INFO] [DEF]: Val Acc: 0.5176
+[2026-02-25 00:13:08] [INFO] [DEF]: Epoch [13/100]
+[2026-02-25 00:13:08] [INFO] [DEF]: Train Loss: 21.5322
+[2026-02-25 00:13:08] [INFO] [DEF]: Train Acc: 0.9407
+[2026-02-25 00:13:08] [INFO] [DEF]: Val Loss: 23.3908
+[2026-02-25 00:13:08] [INFO] [DEF]: Val Acc: 0.7568
+[2026-02-25 00:13:10] [INFO] [DEF]: Epoch [14/100]
+[2026-02-25 00:13:10] [INFO] [DEF]: Train Loss: 20.8265
+[2026-02-25 00:13:10] [INFO] [DEF]: Train Acc: 0.9403
+[2026-02-25 00:13:10] [INFO] [DEF]: Val Loss: 20.0723
+[2026-02-25 00:13:10] [INFO] [DEF]: Val Acc: 0.7799
+[2026-02-25 00:13:11] [INFO] [DEF]: Epoch [15/100]
+[2026-02-25 00:13:11] [INFO] [DEF]: Train Loss: 21.3179
+[2026-02-25 00:13:11] [INFO] [DEF]: Train Acc: 0.9404
+[2026-02-25 00:13:11] [INFO] [DEF]: Val Loss: 49.7335
+[2026-02-25 00:13:11] [INFO] [DEF]: Val Acc: 0.6824
+[2026-02-25 00:13:13] [INFO] [DEF]: Epoch [16/100]
+[2026-02-25 00:13:13] [INFO] [DEF]: Train Loss: 17.9983
+[2026-02-25 00:13:13] [INFO] [DEF]: Train Acc: 0.9463
+[2026-02-25 00:13:13] [INFO] [DEF]: Val Loss: 71.7690
+[2026-02-25 00:13:13] [INFO] [DEF]: Val Acc: 0.5739
+[2026-02-25 00:13:15] [INFO] [DEF]: Epoch [17/100]
+[2026-02-25 00:13:15] [INFO] [DEF]: Train Loss: 15.5411
+[2026-02-25 00:13:15] [INFO] [DEF]: Train Acc: 0.9535
+[2026-02-25 00:13:15] [INFO] [DEF]: Val Loss: 12.3597
+[2026-02-25 00:13:15] [INFO] [DEF]: Val Acc: 0.8593
+[2026-02-25 00:13:16] [INFO] [DEF]: Epoch [18/100]
+[2026-02-25 00:13:16] [INFO] [DEF]: Train Loss: 14.3703
+[2026-02-25 00:13:16] [INFO] [DEF]: Train Acc: 0.9578
+[2026-02-25 00:13:16] [INFO] [DEF]: Val Loss: 21.2585
+[2026-02-25 00:13:16] [INFO] [DEF]: Val Acc: 0.6884
+[2026-02-25 00:13:18] [INFO] [DEF]: Epoch [19/100]
+[2026-02-25 00:13:18] [INFO] [DEF]: Train Loss: 17.9910
+[2026-02-25 00:13:18] [INFO] [DEF]: Train Acc: 0.9470
+[2026-02-25 00:13:18] [INFO] [DEF]: Val Loss: 68.2908
+[2026-02-25 00:13:18] [INFO] [DEF]: Val Acc: 0.5910
+[2026-02-25 00:13:19] [INFO] [DEF]: Epoch [20/100]
+[2026-02-25 00:13:19] [INFO] [DEF]: Train Loss: 13.7632
+[2026-02-25 00:13:19] [INFO] [DEF]: Train Acc: 0.9595
+[2026-02-25 00:13:19] [INFO] [DEF]: Val Loss: 22.7509
+[2026-02-25 00:13:19] [INFO] [DEF]: Val Acc: 0.8020
+[2026-02-25 00:13:21] [INFO] [DEF]: Epoch [21/100]
+[2026-02-25 00:13:21] [INFO] [DEF]: Train Loss: 12.0827
+[2026-02-25 00:13:21] [INFO] [DEF]: Train Acc: 0.9639
+[2026-02-25 00:13:21] [INFO] [DEF]: Val Loss: 16.8534
+[2026-02-25 00:13:21] [INFO] [DEF]: Val Acc: 0.8302
+[2026-02-25 00:13:22] [INFO] [DEF]: Epoch [22/100]
+[2026-02-25 00:13:22] [INFO] [DEF]: Train Loss: 12.3953
+[2026-02-25 00:13:22] [INFO] [DEF]: Train Acc: 0.9628
+[2026-02-25 00:13:22] [INFO] [DEF]: Val Loss: 49.9163
+[2026-02-25 00:13:22] [INFO] [DEF]: Val Acc: 0.7417
+[2026-02-25 00:13:24] [INFO] [DEF]: Epoch [23/100]
+[2026-02-25 00:13:24] [INFO] [DEF]: Train Loss: 12.3139
+[2026-02-25 00:13:24] [INFO] [DEF]: Train Acc: 0.9648
+[2026-02-25 00:13:24] [INFO] [DEF]: Val Loss: 20.1648
+[2026-02-25 00:13:24] [INFO] [DEF]: Val Acc: 0.8613
+[2026-02-25 00:13:26] [INFO] [DEF]: Epoch [24/100]
+[2026-02-25 00:13:26] [INFO] [DEF]: Train Loss: 12.0956
+[2026-02-25 00:13:26] [INFO] [DEF]: Train Acc: 0.9642
+[2026-02-25 00:13:26] [INFO] [DEF]: Val Loss: 14.3031
+[2026-02-25 00:13:26] [INFO] [DEF]: Val Acc: 0.8663
+[2026-02-25 00:13:27] [INFO] [DEF]: Epoch [25/100]
+[2026-02-25 00:13:27] [INFO] [DEF]: Train Loss: 9.8753
+[2026-02-25 00:13:27] [INFO] [DEF]: Train Acc: 0.9699
+[2026-02-25 00:13:27] [INFO] [DEF]: Val Loss: 4.8086
+[2026-02-25 00:13:27] [INFO] [DEF]: Val Acc: 0.9618
+[2026-02-25 00:13:29] [INFO] [DEF]: Epoch [26/100]
+[2026-02-25 00:13:29] [INFO] [DEF]: Train Loss: 11.1460
+[2026-02-25 00:13:29] [INFO] [DEF]: Train Acc: 0.9688
+[2026-02-25 00:13:29] [INFO] [DEF]: Val Loss: 10.2202
+[2026-02-25 00:13:29] [INFO] [DEF]: Val Acc: 0.9085
+[2026-02-25 00:13:31] [INFO] [DEF]: Epoch [27/100]
+[2026-02-25 00:13:31] [INFO] [DEF]: Train Loss: 9.7493
+[2026-02-25 00:13:31] [INFO] [DEF]: Train Acc: 0.9702
+[2026-02-25 00:13:31] [INFO] [DEF]: Val Loss: 4.7826
+[2026-02-25 00:13:31] [INFO] [DEF]: Val Acc: 0.9467
+[2026-02-25 00:13:32] [INFO] [DEF]: Epoch [28/100]
+[2026-02-25 00:13:32] [INFO] [DEF]: Train Loss: 7.6200
+[2026-02-25 00:13:32] [INFO] [DEF]: Train Acc: 0.9782
+[2026-02-25 00:13:32] [INFO] [DEF]: Val Loss: 4.4146
+[2026-02-25 00:13:32] [INFO] [DEF]: Val Acc: 0.9628
+[2026-02-25 00:13:34] [INFO] [DEF]: Epoch [29/100]
+[2026-02-25 00:13:34] [INFO] [DEF]: Train Loss: 7.7613
+[2026-02-25 00:13:34] [INFO] [DEF]: Train Acc: 0.9759
+[2026-02-25 00:13:34] [INFO] [DEF]: Val Loss: 42.4319
+[2026-02-25 00:13:34] [INFO] [DEF]: Val Acc: 0.7417
+[2026-02-25 00:13:36] [INFO] [DEF]: Epoch [30/100]
+[2026-02-25 00:13:36] [INFO] [DEF]: Train Loss: 9.6766
+[2026-02-25 00:13:36] [INFO] [DEF]: Train Acc: 0.9718
+[2026-02-25 00:13:36] [INFO] [DEF]: Val Loss: 14.1433
+[2026-02-25 00:13:36] [INFO] [DEF]: Val Acc: 0.8513
+[2026-02-25 00:13:37] [INFO] [DEF]: Epoch [31/100]
+[2026-02-25 00:13:37] [INFO] [DEF]: Train Loss: 8.0888
+[2026-02-25 00:13:37] [INFO] [DEF]: Train Acc: 0.9768
+[2026-02-25 00:13:37] [INFO] [DEF]: Val Loss: 5.1541
+[2026-02-25 00:13:37] [INFO] [DEF]: Val Acc: 0.9518
+[2026-02-25 00:13:39] [INFO] [DEF]: Epoch [32/100]
+[2026-02-25 00:13:39] [INFO] [DEF]: Train Loss: 9.4645
+[2026-02-25 00:13:39] [INFO] [DEF]: Train Acc: 0.9731
+[2026-02-25 00:13:39] [INFO] [DEF]: Val Loss: 5.5792
+[2026-02-25 00:13:39] [INFO] [DEF]: Val Acc: 0.9558
+[2026-02-25 00:13:41] [INFO] [DEF]: Epoch [33/100]
+[2026-02-25 00:13:41] [INFO] [DEF]: Train Loss: 6.8400
+[2026-02-25 00:13:41] [INFO] [DEF]: Train Acc: 0.9789
+[2026-02-25 00:13:41] [INFO] [DEF]: Val Loss: 10.1858
+[2026-02-25 00:13:41] [INFO] [DEF]: Val Acc: 0.8935
+[2026-02-25 00:13:42] [INFO] [DEF]: Epoch [34/100]
+[2026-02-25 00:13:42] [INFO] [DEF]: Train Loss: 5.9372
+[2026-02-25 00:13:42] [INFO] [DEF]: Train Acc: 0.9813
+[2026-02-25 00:13:42] [INFO] [DEF]: Val Loss: 11.3891
+[2026-02-25 00:13:42] [INFO] [DEF]: Val Acc: 0.8784
+[2026-02-25 00:13:44] [INFO] [DEF]: Epoch [35/100]
+[2026-02-25 00:13:44] [INFO] [DEF]: Train Loss: 6.6073
+[2026-02-25 00:13:44] [INFO] [DEF]: Train Acc: 0.9814
+[2026-02-25 00:13:44] [INFO] [DEF]: Val Loss: 61.1540
+[2026-02-25 00:13:44] [INFO] [DEF]: Val Acc: 0.8191
+[2026-02-25 00:13:46] [INFO] [DEF]: Epoch [36/100]
+[2026-02-25 00:13:46] [INFO] [DEF]: Train Loss: 5.0387
+[2026-02-25 00:13:46] [INFO] [DEF]: Train Acc: 0.9843
+[2026-02-25 00:13:46] [INFO] [DEF]: Val Loss: 8.7300
+[2026-02-25 00:13:46] [INFO] [DEF]: Val Acc: 0.9347
+[2026-02-25 00:13:47] [INFO] [DEF]: Epoch [37/100]
+[2026-02-25 00:13:47] [INFO] [DEF]: Train Loss: 6.4639
+[2026-02-25 00:13:47] [INFO] [DEF]: Train Acc: 0.9815
+[2026-02-25 00:13:47] [INFO] [DEF]: Val Loss: 8.5788
+[2026-02-25 00:13:47] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:13:49] [INFO] [DEF]: Epoch [38/100]
+[2026-02-25 00:13:49] [INFO] [DEF]: Train Loss: 7.1893
+[2026-02-25 00:13:49] [INFO] [DEF]: Train Acc: 0.9783
+[2026-02-25 00:13:49] [INFO] [DEF]: Val Loss: 72.4036
+[2026-02-25 00:13:49] [INFO] [DEF]: Val Acc: 0.7307
+[2026-02-25 00:13:51] [INFO] [DEF]: Epoch [39/100]
+[2026-02-25 00:13:51] [INFO] [DEF]: Train Loss: 6.8700
+[2026-02-25 00:13:51] [INFO] [DEF]: Train Acc: 0.9817
+[2026-02-25 00:13:51] [INFO] [DEF]: Val Loss: 10.2243
+[2026-02-25 00:13:51] [INFO] [DEF]: Val Acc: 0.9116
+[2026-02-25 00:13:53] [INFO] [DEF]: Epoch [40/100]
+[2026-02-25 00:13:53] [INFO] [DEF]: Train Loss: 8.2850
+[2026-02-25 00:13:53] [INFO] [DEF]: Train Acc: 0.9782
+[2026-02-25 00:13:53] [INFO] [DEF]: Val Loss: 12.6187
+[2026-02-25 00:13:53] [INFO] [DEF]: Val Acc: 0.8663
+[2026-02-25 00:13:54] [INFO] [DEF]: Epoch [41/100]
+[2026-02-25 00:13:54] [INFO] [DEF]: Train Loss: 5.4085
+[2026-02-25 00:13:54] [INFO] [DEF]: Train Acc: 0.9833
+[2026-02-25 00:13:54] [INFO] [DEF]: Val Loss: 77.2862
+[2026-02-25 00:13:54] [INFO] [DEF]: Val Acc: 0.5588
+[2026-02-25 00:13:56] [INFO] [DEF]: Epoch [42/100]
+[2026-02-25 00:13:56] [INFO] [DEF]: Train Loss: 5.3138
+[2026-02-25 00:13:56] [INFO] [DEF]: Train Acc: 0.9853
+[2026-02-25 00:13:56] [INFO] [DEF]: Val Loss: 21.3432
+[2026-02-25 00:13:56] [INFO] [DEF]: Val Acc: 0.8714
+[2026-02-25 00:13:58] [INFO] [DEF]: Epoch [43/100]
+[2026-02-25 00:13:58] [INFO] [DEF]: Train Loss: 4.8952
+[2026-02-25 00:13:58] [INFO] [DEF]: Train Acc: 0.9858
+[2026-02-25 00:13:58] [INFO] [DEF]: Val Loss: 9.9488
+[2026-02-25 00:13:58] [INFO] [DEF]: Val Acc: 0.9337
+[2026-02-25 00:14:00] [INFO] [DEF]: Epoch [44/100]
+[2026-02-25 00:14:00] [INFO] [DEF]: Train Loss: 4.1097
+[2026-02-25 00:14:00] [INFO] [DEF]: Train Acc: 0.9873
+[2026-02-25 00:14:00] [INFO] [DEF]: Val Loss: 7.1430
+[2026-02-25 00:14:00] [INFO] [DEF]: Val Acc: 0.9497
+[2026-02-25 00:14:02] [INFO] [DEF]: Epoch [45/100]
+[2026-02-25 00:14:02] [INFO] [DEF]: Train Loss: 4.4326
+[2026-02-25 00:14:02] [INFO] [DEF]: Train Acc: 0.9882
+[2026-02-25 00:14:02] [INFO] [DEF]: Val Loss: 11.4235
+[2026-02-25 00:14:02] [INFO] [DEF]: Val Acc: 0.9407
+[2026-02-25 00:14:03] [INFO] [DEF]: Epoch [46/100]
+[2026-02-25 00:14:03] [INFO] [DEF]: Train Loss: 5.7941
+[2026-02-25 00:14:03] [INFO] [DEF]: Train Acc: 0.9834
+[2026-02-25 00:14:03] [INFO] [DEF]: Val Loss: 8.1566
+[2026-02-25 00:14:03] [INFO] [DEF]: Val Acc: 0.9447
+[2026-02-25 00:14:05] [INFO] [DEF]: Epoch [47/100]
+[2026-02-25 00:14:05] [INFO] [DEF]: Train Loss: 5.9536
+[2026-02-25 00:14:05] [INFO] [DEF]: Train Acc: 0.9839
+[2026-02-25 00:14:05] [INFO] [DEF]: Val Loss: 32.9190
+[2026-02-25 00:14:05] [INFO] [DEF]: Val Acc: 0.8151
+[2026-02-25 00:14:07] [INFO] [DEF]: Epoch [48/100]
+[2026-02-25 00:14:07] [INFO] [DEF]: Train Loss: 6.5408
+[2026-02-25 00:14:07] [INFO] [DEF]: Train Acc: 0.9839
+[2026-02-25 00:14:07] [INFO] [DEF]: Val Loss: 6.8850
+[2026-02-25 00:14:07] [INFO] [DEF]: Val Acc: 0.9528
+[2026-02-25 00:14:09] [INFO] [DEF]: Epoch [49/100]
+[2026-02-25 00:14:09] [INFO] [DEF]: Train Loss: 4.9817
+[2026-02-25 00:14:09] [INFO] [DEF]: Train Acc: 0.9865
+[2026-02-25 00:14:09] [INFO] [DEF]: Val Loss: 148.2590
+[2026-02-25 00:14:09] [INFO] [DEF]: Val Acc: 0.6261
+[2026-02-25 00:14:11] [INFO] [DEF]: Epoch [50/100]
+[2026-02-25 00:14:11] [INFO] [DEF]: Train Loss: 5.2238
+[2026-02-25 00:14:11] [INFO] [DEF]: Train Acc: 0.9865
+[2026-02-25 00:14:11] [INFO] [DEF]: Val Loss: 30.9246
+[2026-02-25 00:14:11] [INFO] [DEF]: Val Acc: 0.7980
+[2026-02-25 00:14:12] [INFO] [DEF]: Epoch [51/100]
+[2026-02-25 00:14:12] [INFO] [DEF]: Train Loss: 4.6489
+[2026-02-25 00:14:12] [INFO] [DEF]: Train Acc: 0.9866
+[2026-02-25 00:14:12] [INFO] [DEF]: Val Loss: 57.9986
+[2026-02-25 00:14:12] [INFO] [DEF]: Val Acc: 0.8080
+[2026-02-25 00:14:14] [INFO] [DEF]: Epoch [52/100]
+[2026-02-25 00:14:14] [INFO] [DEF]: Train Loss: 4.2976
+[2026-02-25 00:14:14] [INFO] [DEF]: Train Acc: 0.9870
+[2026-02-25 00:14:14] [INFO] [DEF]: Val Loss: 74.6810
+[2026-02-25 00:14:14] [INFO] [DEF]: Val Acc: 0.7598
+[2026-02-25 00:14:16] [INFO] [DEF]: Epoch [53/100]
+[2026-02-25 00:14:16] [INFO] [DEF]: Train Loss: 4.2580
+[2026-02-25 00:14:16] [INFO] [DEF]: Train Acc: 0.9894
+[2026-02-25 00:14:16] [INFO] [DEF]: Val Loss: 15.5347
+[2026-02-25 00:14:16] [INFO] [DEF]: Val Acc: 0.9116
+[2026-02-25 00:14:18] [INFO] [DEF]: Epoch [54/100]
+[2026-02-25 00:14:18] [INFO] [DEF]: Train Loss: 3.4681
+[2026-02-25 00:14:18] [INFO] [DEF]: Train Acc: 0.9897
+[2026-02-25 00:14:18] [INFO] [DEF]: Val Loss: 21.7216
+[2026-02-25 00:14:18] [INFO] [DEF]: Val Acc: 0.8553
+[2026-02-25 00:14:20] [INFO] [DEF]: Epoch [55/100]
+[2026-02-25 00:14:20] [INFO] [DEF]: Train Loss: 3.3638
+[2026-02-25 00:14:20] [INFO] [DEF]: Train Acc: 0.9910
+[2026-02-25 00:14:20] [INFO] [DEF]: Val Loss: 48.6866
+[2026-02-25 00:14:20] [INFO] [DEF]: Val Acc: 0.8020
+[2026-02-25 00:14:22] [INFO] [DEF]: Epoch [56/100]
+[2026-02-25 00:14:22] [INFO] [DEF]: Train Loss: 3.1335
+[2026-02-25 00:14:22] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:14:22] [INFO] [DEF]: Val Loss: 107.1054
+[2026-02-25 00:14:22] [INFO] [DEF]: Val Acc: 0.7347
+[2026-02-25 00:14:24] [INFO] [DEF]: Epoch [57/100]
+[2026-02-25 00:14:24] [INFO] [DEF]: Train Loss: 3.8516
+[2026-02-25 00:14:24] [INFO] [DEF]: Train Acc: 0.9891
+[2026-02-25 00:14:24] [INFO] [DEF]: Val Loss: 51.4776
+[2026-02-25 00:14:24] [INFO] [DEF]: Val Acc: 0.7688
+[2026-02-25 00:14:25] [INFO] [DEF]: Epoch [58/100]
+[2026-02-25 00:14:25] [INFO] [DEF]: Train Loss: 5.1918
+[2026-02-25 00:14:25] [INFO] [DEF]: Train Acc: 0.9852
+[2026-02-25 00:14:25] [INFO] [DEF]: Val Loss: 4.7296
+[2026-02-25 00:14:25] [INFO] [DEF]: Val Acc: 0.9497
+[2026-02-25 00:14:27] [INFO] [DEF]: Epoch [59/100]
+[2026-02-25 00:14:27] [INFO] [DEF]: Train Loss: 4.7388
+[2026-02-25 00:14:27] [INFO] [DEF]: Train Acc: 0.9891
+[2026-02-25 00:14:27] [INFO] [DEF]: Val Loss: 288.2573
+[2026-02-25 00:14:27] [INFO] [DEF]: Val Acc: 0.4352
+[2026-02-25 00:14:29] [INFO] [DEF]: Epoch [60/100]
+[2026-02-25 00:14:29] [INFO] [DEF]: Train Loss: 9.0608
+[2026-02-25 00:14:29] [INFO] [DEF]: Train Acc: 0.9765
+[2026-02-25 00:14:29] [INFO] [DEF]: Val Loss: 7.6167
+[2026-02-25 00:14:29] [INFO] [DEF]: Val Acc: 0.9327
+[2026-02-25 00:14:31] [INFO] [DEF]: Epoch [61/100]
+[2026-02-25 00:14:31] [INFO] [DEF]: Train Loss: 4.4724
+[2026-02-25 00:14:31] [INFO] [DEF]: Train Acc: 0.9882
+[2026-02-25 00:14:31] [INFO] [DEF]: Val Loss: 15.0462
+[2026-02-25 00:14:31] [INFO] [DEF]: Val Acc: 0.9266
+[2026-02-25 00:14:33] [INFO] [DEF]: Epoch [62/100]
+[2026-02-25 00:14:33] [INFO] [DEF]: Train Loss: 3.2862
+[2026-02-25 00:14:33] [INFO] [DEF]: Train Acc: 0.9915
+[2026-02-25 00:14:33] [INFO] [DEF]: Val Loss: 21.1910
+[2026-02-25 00:14:33] [INFO] [DEF]: Val Acc: 0.8734
+[2026-02-25 00:14:35] [INFO] [DEF]: Epoch [63/100]
+[2026-02-25 00:14:35] [INFO] [DEF]: Train Loss: 2.7987
+[2026-02-25 00:14:35] [INFO] [DEF]: Train Acc: 0.9933
+[2026-02-25 00:14:35] [INFO] [DEF]: Val Loss: 60.1072
+[2026-02-25 00:14:35] [INFO] [DEF]: Val Acc: 0.7508
+[2026-02-25 00:14:37] [INFO] [DEF]: Epoch [64/100]
+[2026-02-25 00:14:37] [INFO] [DEF]: Train Loss: 2.0158
+[2026-02-25 00:14:37] [INFO] [DEF]: Train Acc: 0.9944
+[2026-02-25 00:14:37] [INFO] [DEF]: Val Loss: 15.1255
+[2026-02-25 00:14:37] [INFO] [DEF]: Val Acc: 0.9116
+[2026-02-25 00:14:39] [INFO] [DEF]: Epoch [65/100]
+[2026-02-25 00:14:39] [INFO] [DEF]: Train Loss: 2.8776
+[2026-02-25 00:14:39] [INFO] [DEF]: Train Acc: 0.9916
+[2026-02-25 00:14:39] [INFO] [DEF]: Val Loss: 8.4964
+[2026-02-25 00:14:39] [INFO] [DEF]: Val Acc: 0.9477
+[2026-02-25 00:14:41] [INFO] [DEF]: Epoch [66/100]
+[2026-02-25 00:14:41] [INFO] [DEF]: Train Loss: 2.3596
+[2026-02-25 00:14:41] [INFO] [DEF]: Train Acc: 0.9940
+[2026-02-25 00:14:41] [INFO] [DEF]: Val Loss: 56.1426
+[2026-02-25 00:14:41] [INFO] [DEF]: Val Acc: 0.8302
+[2026-02-25 00:14:43] [INFO] [DEF]: Epoch [67/100]
+[2026-02-25 00:14:43] [INFO] [DEF]: Train Loss: 2.4323
+[2026-02-25 00:14:43] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:14:43] [INFO] [DEF]: Val Loss: 11.2090
+[2026-02-25 00:14:43] [INFO] [DEF]: Val Acc: 0.9457
+[2026-02-25 00:14:44] [INFO] [DEF]: Epoch [68/100]
+[2026-02-25 00:14:44] [INFO] [DEF]: Train Loss: 2.0580
+[2026-02-25 00:14:44] [INFO] [DEF]: Train Acc: 0.9947
+[2026-02-25 00:14:44] [INFO] [DEF]: Val Loss: 19.4618
+[2026-02-25 00:14:44] [INFO] [DEF]: Val Acc: 0.8965
+[2026-02-25 00:14:46] [INFO] [DEF]: Epoch [69/100]
+[2026-02-25 00:14:46] [INFO] [DEF]: Train Loss: 2.2371
+[2026-02-25 00:14:46] [INFO] [DEF]: Train Acc: 0.9935
+[2026-02-25 00:14:46] [INFO] [DEF]: Val Loss: 12.4744
+[2026-02-25 00:14:46] [INFO] [DEF]: Val Acc: 0.9497
+[2026-02-25 00:14:48] [INFO] [DEF]: Epoch [70/100]
+[2026-02-25 00:14:48] [INFO] [DEF]: Train Loss: 3.5265
+[2026-02-25 00:14:48] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:14:48] [INFO] [DEF]: Val Loss: 7.8783
+[2026-02-25 00:14:48] [INFO] [DEF]: Val Acc: 0.9729
+[2026-02-25 00:14:50] [INFO] [DEF]: Epoch [71/100]
+[2026-02-25 00:14:50] [INFO] [DEF]: Train Loss: 3.8514
+[2026-02-25 00:14:50] [INFO] [DEF]: Train Acc: 0.9903
+[2026-02-25 00:14:50] [INFO] [DEF]: Val Loss: 81.5179
+[2026-02-25 00:14:50] [INFO] [DEF]: Val Acc: 0.7246
+[2026-02-25 00:14:52] [INFO] [DEF]: Epoch [72/100]
+[2026-02-25 00:14:52] [INFO] [DEF]: Train Loss: 5.4178
+[2026-02-25 00:14:52] [INFO] [DEF]: Train Acc: 0.9867
+[2026-02-25 00:14:52] [INFO] [DEF]: Val Loss: 11.3927
+[2026-02-25 00:14:52] [INFO] [DEF]: Val Acc: 0.9337
+[2026-02-25 00:14:55] [INFO] [DEF]: Epoch [73/100]
+[2026-02-25 00:14:55] [INFO] [DEF]: Train Loss: 3.9952
+[2026-02-25 00:14:55] [INFO] [DEF]: Train Acc: 0.9895
+[2026-02-25 00:14:55] [INFO] [DEF]: Val Loss: 21.2714
+[2026-02-25 00:14:55] [INFO] [DEF]: Val Acc: 0.8784
+[2026-02-25 00:14:57] [INFO] [DEF]: Epoch [74/100]
+[2026-02-25 00:14:57] [INFO] [DEF]: Train Loss: 3.1142
+[2026-02-25 00:14:57] [INFO] [DEF]: Train Acc: 0.9913
+[2026-02-25 00:14:57] [INFO] [DEF]: Val Loss: 10.2343
+[2026-02-25 00:14:57] [INFO] [DEF]: Val Acc: 0.9347
+[2026-02-25 00:14:59] [INFO] [DEF]: Epoch [75/100]
+[2026-02-25 00:14:59] [INFO] [DEF]: Train Loss: 1.3943
+[2026-02-25 00:14:59] [INFO] [DEF]: Train Acc: 0.9965
+[2026-02-25 00:14:59] [INFO] [DEF]: Val Loss: 8.4688
+[2026-02-25 00:14:59] [INFO] [DEF]: Val Acc: 0.9568
+[2026-02-25 00:15:01] [INFO] [DEF]: Epoch [76/100]
+[2026-02-25 00:15:01] [INFO] [DEF]: Train Loss: 3.5594
+[2026-02-25 00:15:01] [INFO] [DEF]: Train Acc: 0.9903
+[2026-02-25 00:15:01] [INFO] [DEF]: Val Loss: 12.2309
+[2026-02-25 00:15:01] [INFO] [DEF]: Val Acc: 0.8975
+[2026-02-25 00:15:03] [INFO] [DEF]: Epoch [77/100]
+[2026-02-25 00:15:03] [INFO] [DEF]: Train Loss: 2.1640
+[2026-02-25 00:15:03] [INFO] [DEF]: Train Acc: 0.9940
+[2026-02-25 00:15:03] [INFO] [DEF]: Val Loss: 21.2033
+[2026-02-25 00:15:03] [INFO] [DEF]: Val Acc: 0.9005
+[2026-02-25 00:15:05] [INFO] [DEF]: Epoch [78/100]
+[2026-02-25 00:15:05] [INFO] [DEF]: Train Loss: 2.2208
+[2026-02-25 00:15:05] [INFO] [DEF]: Train Acc: 0.9941
+[2026-02-25 00:15:05] [INFO] [DEF]: Val Loss: 11.3290
+[2026-02-25 00:15:05] [INFO] [DEF]: Val Acc: 0.9528
+[2026-02-25 00:15:07] [INFO] [DEF]: Epoch [79/100]
+[2026-02-25 00:15:07] [INFO] [DEF]: Train Loss: 2.9261
+[2026-02-25 00:15:07] [INFO] [DEF]: Train Acc: 0.9931
+[2026-02-25 00:15:07] [INFO] [DEF]: Val Loss: 54.5133
+[2026-02-25 00:15:07] [INFO] [DEF]: Val Acc: 0.8523
+[2026-02-25 00:15:09] [INFO] [DEF]: Epoch [80/100]
+[2026-02-25 00:15:09] [INFO] [DEF]: Train Loss: 4.3363
+[2026-02-25 00:15:09] [INFO] [DEF]: Train Acc: 0.9894
+[2026-02-25 00:15:09] [INFO] [DEF]: Val Loss: 27.3614
+[2026-02-25 00:15:09] [INFO] [DEF]: Val Acc: 0.7628
+[2026-02-25 00:15:11] [INFO] [DEF]: Epoch [81/100]
+[2026-02-25 00:15:11] [INFO] [DEF]: Train Loss: 4.1349
+[2026-02-25 00:15:11] [INFO] [DEF]: Train Acc: 0.9881
+[2026-02-25 00:15:11] [INFO] [DEF]: Val Loss: 6.3468
+[2026-02-25 00:15:11] [INFO] [DEF]: Val Acc: 0.9558
+[2026-02-25 00:15:13] [INFO] [DEF]: Epoch [82/100]
+[2026-02-25 00:15:13] [INFO] [DEF]: Train Loss: 2.5655
+[2026-02-25 00:15:13] [INFO] [DEF]: Train Acc: 0.9927
+[2026-02-25 00:15:13] [INFO] [DEF]: Val Loss: 84.1635
+[2026-02-25 00:15:13] [INFO] [DEF]: Val Acc: 0.7407
+[2026-02-25 00:15:15] [INFO] [DEF]: Epoch [83/100]
+[2026-02-25 00:15:15] [INFO] [DEF]: Train Loss: 3.0717
+[2026-02-25 00:15:15] [INFO] [DEF]: Train Acc: 0.9922
+[2026-02-25 00:15:15] [INFO] [DEF]: Val Loss: 9.6777
+[2026-02-25 00:15:15] [INFO] [DEF]: Val Acc: 0.9457
+[2026-02-25 00:15:17] [INFO] [DEF]: Epoch [84/100]
+[2026-02-25 00:15:17] [INFO] [DEF]: Train Loss: 2.8641
+[2026-02-25 00:15:17] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:15:17] [INFO] [DEF]: Val Loss: 191.9705
+[2026-02-25 00:15:17] [INFO] [DEF]: Val Acc: 0.7869
+[2026-02-25 00:15:19] [INFO] [DEF]: Epoch [85/100]
+[2026-02-25 00:15:19] [INFO] [DEF]: Train Loss: 3.4021
+[2026-02-25 00:15:19] [INFO] [DEF]: Train Acc: 0.9906
+[2026-02-25 00:15:19] [INFO] [DEF]: Val Loss: 25.1326
+[2026-02-25 00:15:19] [INFO] [DEF]: Val Acc: 0.9126
+[2026-02-25 00:15:21] [INFO] [DEF]: Epoch [86/100]
+[2026-02-25 00:15:21] [INFO] [DEF]: Train Loss: 2.9708
+[2026-02-25 00:15:21] [INFO] [DEF]: Train Acc: 0.9927
+[2026-02-25 00:15:21] [INFO] [DEF]: Val Loss: 81.9725
+[2026-02-25 00:15:21] [INFO] [DEF]: Val Acc: 0.7628
+[2026-02-25 00:15:23] [INFO] [DEF]: Epoch [87/100]
+[2026-02-25 00:15:23] [INFO] [DEF]: Train Loss: 1.5662
+[2026-02-25 00:15:23] [INFO] [DEF]: Train Acc: 0.9955
+[2026-02-25 00:15:23] [INFO] [DEF]: Val Loss: 12.1962
+[2026-02-25 00:15:23] [INFO] [DEF]: Val Acc: 0.9005
+[2026-02-25 00:15:25] [INFO] [DEF]: Epoch [88/100]
+[2026-02-25 00:15:25] [INFO] [DEF]: Train Loss: 1.7590
+[2026-02-25 00:15:25] [INFO] [DEF]: Train Acc: 0.9948
+[2026-02-25 00:15:25] [INFO] [DEF]: Val Loss: 20.2967
+[2026-02-25 00:15:25] [INFO] [DEF]: Val Acc: 0.8754
+[2026-02-25 00:15:27] [INFO] [DEF]: Epoch [89/100]
+[2026-02-25 00:15:27] [INFO] [DEF]: Train Loss: 4.6220
+[2026-02-25 00:15:27] [INFO] [DEF]: Train Acc: 0.9885
+[2026-02-25 00:15:27] [INFO] [DEF]: Val Loss: 27.8614
+[2026-02-25 00:15:27] [INFO] [DEF]: Val Acc: 0.8784
+[2026-02-25 00:15:29] [INFO] [DEF]: Epoch [90/100]
+[2026-02-25 00:15:29] [INFO] [DEF]: Train Loss: 2.3040
+[2026-02-25 00:15:29] [INFO] [DEF]: Train Acc: 0.9940
+[2026-02-25 00:15:29] [INFO] [DEF]: Val Loss: 49.1109
+[2026-02-25 00:15:29] [INFO] [DEF]: Val Acc: 0.8342
+[2026-02-25 00:15:31] [INFO] [DEF]: Epoch [91/100]
+[2026-02-25 00:15:31] [INFO] [DEF]: Train Loss: 1.9471
+[2026-02-25 00:15:31] [INFO] [DEF]: Train Acc: 0.9948
+[2026-02-25 00:15:31] [INFO] [DEF]: Val Loss: 19.7378
+[2026-02-25 00:15:31] [INFO] [DEF]: Val Acc: 0.9025
+[2026-02-25 00:15:33] [INFO] [DEF]: Epoch [92/100]
+[2026-02-25 00:15:33] [INFO] [DEF]: Train Loss: 2.6501
+[2026-02-25 00:15:33] [INFO] [DEF]: Train Acc: 0.9938
+[2026-02-25 00:15:33] [INFO] [DEF]: Val Loss: 10.6711
+[2026-02-25 00:15:33] [INFO] [DEF]: Val Acc: 0.9417
+[2026-02-25 00:15:35] [INFO] [DEF]: Epoch [93/100]
+[2026-02-25 00:15:35] [INFO] [DEF]: Train Loss: 2.0553
+[2026-02-25 00:15:35] [INFO] [DEF]: Train Acc: 0.9950
+[2026-02-25 00:15:35] [INFO] [DEF]: Val Loss: 59.0058
+[2026-02-25 00:15:35] [INFO] [DEF]: Val Acc: 0.8362
+[2026-02-25 00:15:37] [INFO] [DEF]: Epoch [94/100]
+[2026-02-25 00:15:37] [INFO] [DEF]: Train Loss: 2.9546
+[2026-02-25 00:15:37] [INFO] [DEF]: Train Acc: 0.9921
+[2026-02-25 00:15:37] [INFO] [DEF]: Val Loss: 9.1395
+[2026-02-25 00:15:37] [INFO] [DEF]: Val Acc: 0.9487
+[2026-02-25 00:15:40] [INFO] [DEF]: Epoch [95/100]
+[2026-02-25 00:15:40] [INFO] [DEF]: Train Loss: 3.1675
+[2026-02-25 00:15:40] [INFO] [DEF]: Train Acc: 0.9915
+[2026-02-25 00:15:40] [INFO] [DEF]: Val Loss: 12.2024
+[2026-02-25 00:15:40] [INFO] [DEF]: Val Acc: 0.9106
+[2026-02-25 00:15:42] [INFO] [DEF]: Epoch [96/100]
+[2026-02-25 00:15:42] [INFO] [DEF]: Train Loss: 2.6588
+[2026-02-25 00:15:42] [INFO] [DEF]: Train Acc: 0.9925
+[2026-02-25 00:15:42] [INFO] [DEF]: Val Loss: 9.2898
+[2026-02-25 00:15:42] [INFO] [DEF]: Val Acc: 0.9377
+[2026-02-25 00:15:44] [INFO] [DEF]: Epoch [97/100]
+[2026-02-25 00:15:44] [INFO] [DEF]: Train Loss: 3.5419
+[2026-02-25 00:15:44] [INFO] [DEF]: Train Acc: 0.9913
+[2026-02-25 00:15:44] [INFO] [DEF]: Val Loss: 11.9900
+[2026-02-25 00:15:44] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:15:46] [INFO] [DEF]: Epoch [98/100]
+[2026-02-25 00:15:46] [INFO] [DEF]: Train Loss: 2.5596
+[2026-02-25 00:15:46] [INFO] [DEF]: Train Acc: 0.9938
+[2026-02-25 00:15:46] [INFO] [DEF]: Val Loss: 22.4367
+[2026-02-25 00:15:46] [INFO] [DEF]: Val Acc: 0.8744
+[2026-02-25 00:15:48] [INFO] [DEF]: Epoch [99/100]
+[2026-02-25 00:15:48] [INFO] [DEF]: Train Loss: 1.8752
+[2026-02-25 00:15:48] [INFO] [DEF]: Train Acc: 0.9950
+[2026-02-25 00:15:48] [INFO] [DEF]: Val Loss: 20.3689
+[2026-02-25 00:15:48] [INFO] [DEF]: Val Acc: 0.8291
+[2026-02-25 00:15:50] [INFO] [DEF]: Epoch [100/100]
+[2026-02-25 00:15:50] [INFO] [DEF]: Train Loss: 1.6322
+[2026-02-25 00:15:50] [INFO] [DEF]: Train Acc: 0.9954
+[2026-02-25 00:15:50] [INFO] [DEF]: Val Loss: 13.7632
+[2026-02-25 00:15:50] [INFO] [DEF]: Val Acc: 0.9256
+[2026-02-25 00:15:50] [INFO] [DEF]: Training Complete.
+[2026-02-25 00:15:50] [INFO] [DEF]: Best Val Accuracy: 0.9728643216080402
+[2026-02-25 00:15:51] [INFO] [DEF]: Test Accuracy: 0.9693396226415094
+[2026-02-25 00:15:51] [INFO] [FIN]: Execution Complete.
+[2026-02-25 00:15:51] [INFO] [MET]: END Session 8
+[2026-02-25 00:22:58] [INFO] [MET]: START Session 9
+[2026-02-25 00:22:58] [INFO] [DEF]: ============================================================
+[2026-02-25 00:22:58] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:22:58] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz', 'timestamp': '2026-02-24 22:41:20', 'size': '0.1485 GB'}
+[2026-02-25 00:22:58] [INFO] [DEF]: ============================================================
+[2026-02-25 00:22:59] [INFO] [MET]: Train: (8931, 1, 32, 256)
+[2026-02-25 00:22:59] [INFO] [MET]: Val  : (995, 1, 32, 256)
+[2026-02-25 00:22:59] [INFO] [MET]: Test : (1272, 1, 32, 256)
+[2026-02-25 00:22:59] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:22:59] [INFO] [DEF]: ============================================================
+[2026-02-25 00:22:59] [INFO] [BEG]: Starting Training...
+[2026-02-25 00:23:01] [INFO] [DEF]: Epoch [1/100]
+[2026-02-25 00:23:01] [INFO] [DEF]: Train Loss: 118.0481
+[2026-02-25 00:23:01] [INFO] [DEF]: Train Acc: 0.6463
+[2026-02-25 00:23:01] [INFO] [DEF]: Val Loss: 16.6557
+[2026-02-25 00:23:01] [INFO] [DEF]: Val Acc: 0.5106
+[2026-02-25 00:23:03] [INFO] [DEF]: Epoch [2/100]
+[2026-02-25 00:23:03] [INFO] [DEF]: Train Loss: 66.3878
+[2026-02-25 00:23:03] [INFO] [DEF]: Train Acc: 0.8062
+[2026-02-25 00:23:03] [INFO] [DEF]: Val Loss: 29.7390
+[2026-02-25 00:23:03] [INFO] [DEF]: Val Acc: 0.5307
+[2026-02-25 00:23:04] [INFO] [DEF]: Epoch [3/100]
+[2026-02-25 00:23:04] [INFO] [DEF]: Train Loss: 51.8697
+[2026-02-25 00:23:04] [INFO] [DEF]: Train Acc: 0.8549
+[2026-02-25 00:23:04] [INFO] [DEF]: Val Loss: 24.2760
+[2026-02-25 00:23:04] [INFO] [DEF]: Val Acc: 0.6583
+[2026-02-25 00:23:06] [INFO] [DEF]: Epoch [4/100]
+[2026-02-25 00:23:06] [INFO] [DEF]: Train Loss: 44.5972
+[2026-02-25 00:23:06] [INFO] [DEF]: Train Acc: 0.8729
+[2026-02-25 00:23:06] [INFO] [DEF]: Val Loss: 5.7127
+[2026-02-25 00:23:06] [INFO] [DEF]: Val Acc: 0.9065
+[2026-02-25 00:23:08] [INFO] [DEF]: Epoch [5/100]
+[2026-02-25 00:23:08] [INFO] [DEF]: Train Loss: 39.7319
+[2026-02-25 00:23:08] [INFO] [DEF]: Train Acc: 0.8885
+[2026-02-25 00:23:08] [INFO] [DEF]: Val Loss: 22.7739
+[2026-02-25 00:23:08] [INFO] [DEF]: Val Acc: 0.7085
+[2026-02-25 00:23:09] [INFO] [DEF]: Epoch [6/100]
+[2026-02-25 00:23:09] [INFO] [DEF]: Train Loss: 35.0312
+[2026-02-25 00:23:09] [INFO] [DEF]: Train Acc: 0.9000
+[2026-02-25 00:23:09] [INFO] [DEF]: Val Loss: 11.2252
+[2026-02-25 00:23:09] [INFO] [DEF]: Val Acc: 0.8141
+[2026-02-25 00:23:11] [INFO] [DEF]: Epoch [7/100]
+[2026-02-25 00:23:11] [INFO] [DEF]: Train Loss: 33.8046
+[2026-02-25 00:23:11] [INFO] [DEF]: Train Acc: 0.9011
+[2026-02-25 00:23:11] [INFO] [DEF]: Val Loss: 4.1178
+[2026-02-25 00:23:11] [INFO] [DEF]: Val Acc: 0.9497
+[2026-02-25 00:23:13] [INFO] [DEF]: Epoch [8/100]
+[2026-02-25 00:23:13] [INFO] [DEF]: Train Loss: 31.1560
+[2026-02-25 00:23:13] [INFO] [DEF]: Train Acc: 0.9118
+[2026-02-25 00:23:13] [INFO] [DEF]: Val Loss: 12.5597
+[2026-02-25 00:23:13] [INFO] [DEF]: Val Acc: 0.7417
+[2026-02-25 00:23:14] [INFO] [DEF]: Epoch [9/100]
+[2026-02-25 00:23:14] [INFO] [DEF]: Train Loss: 29.7854
+[2026-02-25 00:23:14] [INFO] [DEF]: Train Acc: 0.9150
+[2026-02-25 00:23:14] [INFO] [DEF]: Val Loss: 6.5151
+[2026-02-25 00:23:14] [INFO] [DEF]: Val Acc: 0.9327
+[2026-02-25 00:23:16] [INFO] [DEF]: Epoch [10/100]
+[2026-02-25 00:23:16] [INFO] [DEF]: Train Loss: 29.9116
+[2026-02-25 00:23:16] [INFO] [DEF]: Train Acc: 0.9105
+[2026-02-25 00:23:16] [INFO] [DEF]: Val Loss: 5.3143
+[2026-02-25 00:23:16] [INFO] [DEF]: Val Acc: 0.9437
+[2026-02-25 00:23:17] [INFO] [DEF]: Epoch [11/100]
+[2026-02-25 00:23:17] [INFO] [DEF]: Train Loss: 25.8680
+[2026-02-25 00:23:17] [INFO] [DEF]: Train Acc: 0.9263
+[2026-02-25 00:23:17] [INFO] [DEF]: Val Loss: 5.0072
+[2026-02-25 00:23:17] [INFO] [DEF]: Val Acc: 0.9206
+[2026-02-25 00:23:19] [INFO] [DEF]: Epoch [12/100]
+[2026-02-25 00:23:19] [INFO] [DEF]: Train Loss: 23.2485
+[2026-02-25 00:23:19] [INFO] [DEF]: Train Acc: 0.9327
+[2026-02-25 00:23:19] [INFO] [DEF]: Val Loss: 19.3654
+[2026-02-25 00:23:19] [INFO] [DEF]: Val Acc: 0.7276
+[2026-02-25 00:23:20] [INFO] [DEF]: Epoch [13/100]
+[2026-02-25 00:23:20] [INFO] [DEF]: Train Loss: 22.5637
+[2026-02-25 00:23:20] [INFO] [DEF]: Train Acc: 0.9347
+[2026-02-25 00:23:20] [INFO] [DEF]: Val Loss: 26.2022
+[2026-02-25 00:23:20] [INFO] [DEF]: Val Acc: 0.6794
+[2026-02-25 00:23:22] [INFO] [DEF]: Epoch [14/100]
+[2026-02-25 00:23:22] [INFO] [DEF]: Train Loss: 21.1777
+[2026-02-25 00:23:22] [INFO] [DEF]: Train Acc: 0.9386
+[2026-02-25 00:23:22] [INFO] [DEF]: Val Loss: 7.8702
+[2026-02-25 00:23:22] [INFO] [DEF]: Val Acc: 0.8603
+[2026-02-25 00:23:24] [INFO] [DEF]: Epoch [15/100]
+[2026-02-25 00:23:24] [INFO] [DEF]: Train Loss: 20.4649
+[2026-02-25 00:23:24] [INFO] [DEF]: Train Acc: 0.9432
+[2026-02-25 00:23:24] [INFO] [DEF]: Val Loss: 40.7373
+[2026-02-25 00:23:24] [INFO] [DEF]: Val Acc: 0.7709
+[2026-02-25 00:23:25] [INFO] [DEF]: Epoch [16/100]
+[2026-02-25 00:23:25] [INFO] [DEF]: Train Loss: 17.0998
+[2026-02-25 00:23:25] [INFO] [DEF]: Train Acc: 0.9534
+[2026-02-25 00:23:25] [INFO] [DEF]: Val Loss: 27.4862
+[2026-02-25 00:23:25] [INFO] [DEF]: Val Acc: 0.7327
+[2026-02-25 00:23:27] [INFO] [DEF]: Epoch [17/100]
+[2026-02-25 00:23:27] [INFO] [DEF]: Train Loss: 17.3393
+[2026-02-25 00:23:27] [INFO] [DEF]: Train Acc: 0.9467
+[2026-02-25 00:23:27] [INFO] [DEF]: Val Loss: 5.0165
+[2026-02-25 00:23:27] [INFO] [DEF]: Val Acc: 0.9598
+[2026-02-25 00:23:28] [INFO] [DEF]: Epoch [18/100]
+[2026-02-25 00:23:28] [INFO] [DEF]: Train Loss: 16.1270
+[2026-02-25 00:23:28] [INFO] [DEF]: Train Acc: 0.9524
+[2026-02-25 00:23:28] [INFO] [DEF]: Val Loss: 36.4151
+[2026-02-25 00:23:28] [INFO] [DEF]: Val Acc: 0.7819
+[2026-02-25 00:23:30] [INFO] [DEF]: Epoch [19/100]
+[2026-02-25 00:23:30] [INFO] [DEF]: Train Loss: 16.8128
+[2026-02-25 00:23:30] [INFO] [DEF]: Train Acc: 0.9504
+[2026-02-25 00:23:30] [INFO] [DEF]: Val Loss: 6.2652
+[2026-02-25 00:23:30] [INFO] [DEF]: Val Acc: 0.9367
+[2026-02-25 00:23:31] [INFO] [DEF]: Epoch [20/100]
+[2026-02-25 00:23:31] [INFO] [DEF]: Train Loss: 13.8460
+[2026-02-25 00:23:31] [INFO] [DEF]: Train Acc: 0.9577
+[2026-02-25 00:23:31] [INFO] [DEF]: Val Loss: 7.4921
+[2026-02-25 00:23:31] [INFO] [DEF]: Val Acc: 0.9166
+[2026-02-25 00:23:33] [INFO] [DEF]: Epoch [21/100]
+[2026-02-25 00:23:33] [INFO] [DEF]: Train Loss: 13.3735
+[2026-02-25 00:23:33] [INFO] [DEF]: Train Acc: 0.9599
+[2026-02-25 00:23:33] [INFO] [DEF]: Val Loss: 11.0011
+[2026-02-25 00:23:33] [INFO] [DEF]: Val Acc: 0.8734
+[2026-02-25 00:23:34] [INFO] [DEF]: Epoch [22/100]
+[2026-02-25 00:23:34] [INFO] [DEF]: Train Loss: 12.8298
+[2026-02-25 00:23:34] [INFO] [DEF]: Train Acc: 0.9618
+[2026-02-25 00:23:34] [INFO] [DEF]: Val Loss: 42.9089
+[2026-02-25 00:23:34] [INFO] [DEF]: Val Acc: 0.7286
+[2026-02-25 00:23:36] [INFO] [DEF]: Epoch [23/100]
+[2026-02-25 00:23:36] [INFO] [DEF]: Train Loss: 16.1730
+[2026-02-25 00:23:36] [INFO] [DEF]: Train Acc: 0.9527
+[2026-02-25 00:23:36] [INFO] [DEF]: Val Loss: 8.8422
+[2026-02-25 00:23:36] [INFO] [DEF]: Val Acc: 0.8874
+[2026-02-25 00:23:37] [INFO] [DEF]: Epoch [24/100]
+[2026-02-25 00:23:37] [INFO] [DEF]: Train Loss: 13.1782
+[2026-02-25 00:23:37] [INFO] [DEF]: Train Acc: 0.9625
+[2026-02-25 00:23:37] [INFO] [DEF]: Val Loss: 16.2221
+[2026-02-25 00:23:37] [INFO] [DEF]: Val Acc: 0.8533
+[2026-02-25 00:23:39] [INFO] [DEF]: Epoch [25/100]
+[2026-02-25 00:23:39] [INFO] [DEF]: Train Loss: 9.0025
+[2026-02-25 00:23:39] [INFO] [DEF]: Train Acc: 0.9719
+[2026-02-25 00:23:39] [INFO] [DEF]: Val Loss: 31.6085
+[2026-02-25 00:23:39] [INFO] [DEF]: Val Acc: 0.8211
+[2026-02-25 00:23:40] [INFO] [DEF]: Epoch [26/100]
+[2026-02-25 00:23:40] [INFO] [DEF]: Train Loss: 12.9854
+[2026-02-25 00:23:40] [INFO] [DEF]: Train Acc: 0.9637
+[2026-02-25 00:23:40] [INFO] [DEF]: Val Loss: 54.4814
+[2026-02-25 00:23:40] [INFO] [DEF]: Val Acc: 0.8211
+[2026-02-25 00:23:42] [INFO] [DEF]: Epoch [27/100]
+[2026-02-25 00:23:42] [INFO] [DEF]: Train Loss: 10.1672
+[2026-02-25 00:23:42] [INFO] [DEF]: Train Acc: 0.9698
+[2026-02-25 00:23:42] [INFO] [DEF]: Val Loss: 12.3767
+[2026-02-25 00:23:42] [INFO] [DEF]: Val Acc: 0.9116
+[2026-02-25 00:23:44] [INFO] [DEF]: Epoch [28/100]
+[2026-02-25 00:23:44] [INFO] [DEF]: Train Loss: 9.5831
+[2026-02-25 00:23:44] [INFO] [DEF]: Train Acc: 0.9720
+[2026-02-25 00:23:44] [INFO] [DEF]: Val Loss: 42.4607
+[2026-02-25 00:23:44] [INFO] [DEF]: Val Acc: 0.7055
+[2026-02-25 00:23:45] [INFO] [DEF]: Epoch [29/100]
+[2026-02-25 00:23:45] [INFO] [DEF]: Train Loss: 8.0548
+[2026-02-25 00:23:45] [INFO] [DEF]: Train Acc: 0.9759
+[2026-02-25 00:23:45] [INFO] [DEF]: Val Loss: 77.6008
+[2026-02-25 00:23:45] [INFO] [DEF]: Val Acc: 0.6111
+[2026-02-25 00:23:47] [INFO] [DEF]: Epoch [30/100]
+[2026-02-25 00:23:47] [INFO] [DEF]: Train Loss: 8.8362
+[2026-02-25 00:23:47] [INFO] [DEF]: Train Acc: 0.9741
+[2026-02-25 00:23:47] [INFO] [DEF]: Val Loss: 88.2895
+[2026-02-25 00:23:47] [INFO] [DEF]: Val Acc: 0.5829
+[2026-02-25 00:23:48] [INFO] [DEF]: Epoch [31/100]
+[2026-02-25 00:23:48] [INFO] [DEF]: Train Loss: 9.0847
+[2026-02-25 00:23:48] [INFO] [DEF]: Train Acc: 0.9745
+[2026-02-25 00:23:48] [INFO] [DEF]: Val Loss: 8.3705
+[2026-02-25 00:23:48] [INFO] [DEF]: Val Acc: 0.9367
+[2026-02-25 00:23:50] [INFO] [DEF]: Epoch [32/100]
+[2026-02-25 00:23:50] [INFO] [DEF]: Train Loss: 8.3735
+[2026-02-25 00:23:50] [INFO] [DEF]: Train Acc: 0.9760
+[2026-02-25 00:23:50] [INFO] [DEF]: Val Loss: 9.2044
+[2026-02-25 00:23:50] [INFO] [DEF]: Val Acc: 0.9166
+[2026-02-25 00:23:52] [INFO] [DEF]: Epoch [33/100]
+[2026-02-25 00:23:52] [INFO] [DEF]: Train Loss: 6.7092
+[2026-02-25 00:23:52] [INFO] [DEF]: Train Acc: 0.9800
+[2026-02-25 00:23:52] [INFO] [DEF]: Val Loss: 17.2048
+[2026-02-25 00:23:52] [INFO] [DEF]: Val Acc: 0.8452
+[2026-02-25 00:23:53] [INFO] [DEF]: Epoch [34/100]
+[2026-02-25 00:23:53] [INFO] [DEF]: Train Loss: 7.0729
+[2026-02-25 00:23:53] [INFO] [DEF]: Train Acc: 0.9798
+[2026-02-25 00:23:53] [INFO] [DEF]: Val Loss: 18.1346
+[2026-02-25 00:23:53] [INFO] [DEF]: Val Acc: 0.9025
+[2026-02-25 00:23:55] [INFO] [DEF]: Epoch [35/100]
+[2026-02-25 00:23:55] [INFO] [DEF]: Train Loss: 8.9109
+[2026-02-25 00:23:55] [INFO] [DEF]: Train Acc: 0.9744
+[2026-02-25 00:23:55] [INFO] [DEF]: Val Loss: 8.3822
+[2026-02-25 00:23:55] [INFO] [DEF]: Val Acc: 0.9317
+[2026-02-25 00:23:56] [INFO] [DEF]: Epoch [36/100]
+[2026-02-25 00:23:56] [INFO] [DEF]: Train Loss: 7.6715
+[2026-02-25 00:23:56] [INFO] [DEF]: Train Acc: 0.9773
+[2026-02-25 00:23:56] [INFO] [DEF]: Val Loss: 17.0132
+[2026-02-25 00:23:56] [INFO] [DEF]: Val Acc: 0.8462
+[2026-02-25 00:23:58] [INFO] [DEF]: Epoch [37/100]
+[2026-02-25 00:23:58] [INFO] [DEF]: Train Loss: 8.5178
+[2026-02-25 00:23:58] [INFO] [DEF]: Train Acc: 0.9770
+[2026-02-25 00:23:58] [INFO] [DEF]: Val Loss: 6.1266
+[2026-02-25 00:23:58] [INFO] [DEF]: Val Acc: 0.9387
+[2026-02-25 00:24:00] [INFO] [DEF]: Epoch [38/100]
+[2026-02-25 00:24:00] [INFO] [DEF]: Train Loss: 6.9291
+[2026-02-25 00:24:00] [INFO] [DEF]: Train Acc: 0.9795
+[2026-02-25 00:24:00] [INFO] [DEF]: Val Loss: 9.4035
+[2026-02-25 00:24:00] [INFO] [DEF]: Val Acc: 0.9256
+[2026-02-25 00:24:01] [INFO] [DEF]: Epoch [39/100]
+[2026-02-25 00:24:01] [INFO] [DEF]: Train Loss: 5.2911
+[2026-02-25 00:24:01] [INFO] [DEF]: Train Acc: 0.9857
+[2026-02-25 00:24:01] [INFO] [DEF]: Val Loss: 53.4439
+[2026-02-25 00:24:01] [INFO] [DEF]: Val Acc: 0.7327
+[2026-02-25 00:24:03] [INFO] [DEF]: Epoch [40/100]
+[2026-02-25 00:24:03] [INFO] [DEF]: Train Loss: 6.2204
+[2026-02-25 00:24:03] [INFO] [DEF]: Train Acc: 0.9833
+[2026-02-25 00:24:03] [INFO] [DEF]: Val Loss: 64.4154
+[2026-02-25 00:24:03] [INFO] [DEF]: Val Acc: 0.7025
+[2026-02-25 00:24:05] [INFO] [DEF]: Epoch [41/100]
+[2026-02-25 00:24:05] [INFO] [DEF]: Train Loss: 10.3700
+[2026-02-25 00:24:05] [INFO] [DEF]: Train Acc: 0.9704
+[2026-02-25 00:24:05] [INFO] [DEF]: Val Loss: 70.3228
+[2026-02-25 00:24:05] [INFO] [DEF]: Val Acc: 0.7779
+[2026-02-25 00:24:06] [INFO] [DEF]: Epoch [42/100]
+[2026-02-25 00:24:06] [INFO] [DEF]: Train Loss: 5.2376
+[2026-02-25 00:24:06] [INFO] [DEF]: Train Acc: 0.9876
+[2026-02-25 00:24:06] [INFO] [DEF]: Val Loss: 22.3638
+[2026-02-25 00:24:06] [INFO] [DEF]: Val Acc: 0.8945
+[2026-02-25 00:24:08] [INFO] [DEF]: Epoch [43/100]
+[2026-02-25 00:24:08] [INFO] [DEF]: Train Loss: 5.3507
+[2026-02-25 00:24:08] [INFO] [DEF]: Train Acc: 0.9853
+[2026-02-25 00:24:08] [INFO] [DEF]: Val Loss: 10.1232
+[2026-02-25 00:24:08] [INFO] [DEF]: Val Acc: 0.9407
+[2026-02-25 00:24:10] [INFO] [DEF]: Epoch [44/100]
+[2026-02-25 00:24:10] [INFO] [DEF]: Train Loss: 4.3382
+[2026-02-25 00:24:10] [INFO] [DEF]: Train Acc: 0.9880
+[2026-02-25 00:24:10] [INFO] [DEF]: Val Loss: 16.8817
+[2026-02-25 00:24:10] [INFO] [DEF]: Val Acc: 0.8814
+[2026-02-25 00:24:11] [INFO] [DEF]: Epoch [45/100]
+[2026-02-25 00:24:11] [INFO] [DEF]: Train Loss: 4.0634
+[2026-02-25 00:24:11] [INFO] [DEF]: Train Acc: 0.9877
+[2026-02-25 00:24:11] [INFO] [DEF]: Val Loss: 9.7930
+[2026-02-25 00:24:11] [INFO] [DEF]: Val Acc: 0.9457
+[2026-02-25 00:24:13] [INFO] [DEF]: Epoch [46/100]
+[2026-02-25 00:24:13] [INFO] [DEF]: Train Loss: 4.7492
+[2026-02-25 00:24:13] [INFO] [DEF]: Train Acc: 0.9870
+[2026-02-25 00:24:13] [INFO] [DEF]: Val Loss: 14.4186
+[2026-02-25 00:24:13] [INFO] [DEF]: Val Acc: 0.8975
+[2026-02-25 00:24:15] [INFO] [DEF]: Epoch [47/100]
+[2026-02-25 00:24:15] [INFO] [DEF]: Train Loss: 6.2640
+[2026-02-25 00:24:15] [INFO] [DEF]: Train Acc: 0.9810
+[2026-02-25 00:24:15] [INFO] [DEF]: Val Loss: 118.6245
+[2026-02-25 00:24:15] [INFO] [DEF]: Val Acc: 0.5055
+[2026-02-25 00:24:16] [INFO] [DEF]: Epoch [48/100]
+[2026-02-25 00:24:16] [INFO] [DEF]: Train Loss: 6.2292
+[2026-02-25 00:24:16] [INFO] [DEF]: Train Acc: 0.9829
+[2026-02-25 00:24:16] [INFO] [DEF]: Val Loss: 8.2187
+[2026-02-25 00:24:16] [INFO] [DEF]: Val Acc: 0.9528
+[2026-02-25 00:24:18] [INFO] [DEF]: Epoch [49/100]
+[2026-02-25 00:24:18] [INFO] [DEF]: Train Loss: 6.6156
+[2026-02-25 00:24:18] [INFO] [DEF]: Train Acc: 0.9817
+[2026-02-25 00:24:18] [INFO] [DEF]: Val Loss: 82.0245
+[2026-02-25 00:24:18] [INFO] [DEF]: Val Acc: 0.6402
+[2026-02-25 00:24:20] [INFO] [DEF]: Epoch [50/100]
+[2026-02-25 00:24:20] [INFO] [DEF]: Train Loss: 5.9318
+[2026-02-25 00:24:20] [INFO] [DEF]: Train Acc: 0.9826
+[2026-02-25 00:24:20] [INFO] [DEF]: Val Loss: 29.2052
+[2026-02-25 00:24:20] [INFO] [DEF]: Val Acc: 0.8503
+[2026-02-25 00:24:22] [INFO] [DEF]: Epoch [51/100]
+[2026-02-25 00:24:22] [INFO] [DEF]: Train Loss: 5.7009
+[2026-02-25 00:24:22] [INFO] [DEF]: Train Acc: 0.9842
+[2026-02-25 00:24:22] [INFO] [DEF]: Val Loss: 14.2895
+[2026-02-25 00:24:22] [INFO] [DEF]: Val Acc: 0.8905
+[2026-02-25 00:24:23] [INFO] [DEF]: Epoch [52/100]
+[2026-02-25 00:24:23] [INFO] [DEF]: Train Loss: 3.6457
+[2026-02-25 00:24:23] [INFO] [DEF]: Train Acc: 0.9893
+[2026-02-25 00:24:23] [INFO] [DEF]: Val Loss: 11.4609
+[2026-02-25 00:24:23] [INFO] [DEF]: Val Acc: 0.9055
+[2026-02-25 00:24:25] [INFO] [DEF]: Epoch [53/100]
+[2026-02-25 00:24:25] [INFO] [DEF]: Train Loss: 3.6898
+[2026-02-25 00:24:25] [INFO] [DEF]: Train Acc: 0.9904
+[2026-02-25 00:24:25] [INFO] [DEF]: Val Loss: 17.0658
+[2026-02-25 00:24:25] [INFO] [DEF]: Val Acc: 0.8714
+[2026-02-25 00:24:27] [INFO] [DEF]: Epoch [54/100]
+[2026-02-25 00:24:27] [INFO] [DEF]: Train Loss: 8.1755
+[2026-02-25 00:24:27] [INFO] [DEF]: Train Acc: 0.9786
+[2026-02-25 00:24:27] [INFO] [DEF]: Val Loss: 95.8282
+[2026-02-25 00:24:27] [INFO] [DEF]: Val Acc: 0.6312
+[2026-02-25 00:24:29] [INFO] [DEF]: Epoch [55/100]
+[2026-02-25 00:24:29] [INFO] [DEF]: Train Loss: 4.8183
+[2026-02-25 00:24:29] [INFO] [DEF]: Train Acc: 0.9877
+[2026-02-25 00:24:29] [INFO] [DEF]: Val Loss: 8.7196
+[2026-02-25 00:24:29] [INFO] [DEF]: Val Acc: 0.9367
+[2026-02-25 00:24:30] [INFO] [DEF]: Epoch [56/100]
+[2026-02-25 00:24:30] [INFO] [DEF]: Train Loss: 4.3152
+[2026-02-25 00:24:30] [INFO] [DEF]: Train Acc: 0.9882
+[2026-02-25 00:24:30] [INFO] [DEF]: Val Loss: 31.4309
+[2026-02-25 00:24:30] [INFO] [DEF]: Val Acc: 0.8302
+[2026-02-25 00:24:32] [INFO] [DEF]: Epoch [57/100]
+[2026-02-25 00:24:32] [INFO] [DEF]: Train Loss: 3.0008
+[2026-02-25 00:24:32] [INFO] [DEF]: Train Acc: 0.9922
+[2026-02-25 00:24:32] [INFO] [DEF]: Val Loss: 129.4034
+[2026-02-25 00:24:32] [INFO] [DEF]: Val Acc: 0.4764
+[2026-02-25 00:24:34] [INFO] [DEF]: Epoch [58/100]
+[2026-02-25 00:24:34] [INFO] [DEF]: Train Loss: 4.0052
+[2026-02-25 00:24:34] [INFO] [DEF]: Train Acc: 0.9879
+[2026-02-25 00:24:34] [INFO] [DEF]: Val Loss: 6.2002
+[2026-02-25 00:24:34] [INFO] [DEF]: Val Acc: 0.9487
+[2026-02-25 00:24:36] [INFO] [DEF]: Epoch [59/100]
+[2026-02-25 00:24:36] [INFO] [DEF]: Train Loss: 3.5328
+[2026-02-25 00:24:36] [INFO] [DEF]: Train Acc: 0.9918
+[2026-02-25 00:24:36] [INFO] [DEF]: Val Loss: 9.8237
+[2026-02-25 00:24:36] [INFO] [DEF]: Val Acc: 0.9417
+[2026-02-25 00:24:37] [INFO] [DEF]: Epoch [60/100]
+[2026-02-25 00:24:37] [INFO] [DEF]: Train Loss: 3.6230
+[2026-02-25 00:24:37] [INFO] [DEF]: Train Acc: 0.9908
+[2026-02-25 00:24:37] [INFO] [DEF]: Val Loss: 15.1989
+[2026-02-25 00:24:37] [INFO] [DEF]: Val Acc: 0.9176
+[2026-02-25 00:24:39] [INFO] [DEF]: Epoch [61/100]
+[2026-02-25 00:24:39] [INFO] [DEF]: Train Loss: 3.9810
+[2026-02-25 00:24:39] [INFO] [DEF]: Train Acc: 0.9897
+[2026-02-25 00:24:39] [INFO] [DEF]: Val Loss: 13.4059
+[2026-02-25 00:24:39] [INFO] [DEF]: Val Acc: 0.8834
+[2026-02-25 00:24:41] [INFO] [DEF]: Epoch [62/100]
+[2026-02-25 00:24:41] [INFO] [DEF]: Train Loss: 4.2332
+[2026-02-25 00:24:41] [INFO] [DEF]: Train Acc: 0.9881
+[2026-02-25 00:24:41] [INFO] [DEF]: Val Loss: 83.8803
+[2026-02-25 00:24:41] [INFO] [DEF]: Val Acc: 0.7568
+[2026-02-25 00:24:43] [INFO] [DEF]: Epoch [63/100]
+[2026-02-25 00:24:43] [INFO] [DEF]: Train Loss: 2.8194
+[2026-02-25 00:24:43] [INFO] [DEF]: Train Acc: 0.9926
+[2026-02-25 00:24:43] [INFO] [DEF]: Val Loss: 32.9672
+[2026-02-25 00:24:43] [INFO] [DEF]: Val Acc: 0.8191
+[2026-02-25 00:24:45] [INFO] [DEF]: Epoch [64/100]
+[2026-02-25 00:24:45] [INFO] [DEF]: Train Loss: 4.2261
+[2026-02-25 00:24:45] [INFO] [DEF]: Train Acc: 0.9886
+[2026-02-25 00:24:45] [INFO] [DEF]: Val Loss: 44.7398
+[2026-02-25 00:24:45] [INFO] [DEF]: Val Acc: 0.7980
+[2026-02-25 00:24:46] [INFO] [DEF]: Epoch [65/100]
+[2026-02-25 00:24:46] [INFO] [DEF]: Train Loss: 4.2879
+[2026-02-25 00:24:46] [INFO] [DEF]: Train Acc: 0.9887
+[2026-02-25 00:24:46] [INFO] [DEF]: Val Loss: 8.4936
+[2026-02-25 00:24:46] [INFO] [DEF]: Val Acc: 0.9598
+[2026-02-25 00:24:48] [INFO] [DEF]: Epoch [66/100]
+[2026-02-25 00:24:48] [INFO] [DEF]: Train Loss: 4.1919
+[2026-02-25 00:24:48] [INFO] [DEF]: Train Acc: 0.9881
+[2026-02-25 00:24:48] [INFO] [DEF]: Val Loss: 18.2701
+[2026-02-25 00:24:48] [INFO] [DEF]: Val Acc: 0.8794
+[2026-02-25 00:24:50] [INFO] [DEF]: Epoch [67/100]
+[2026-02-25 00:24:50] [INFO] [DEF]: Train Loss: 4.5815
+[2026-02-25 00:24:50] [INFO] [DEF]: Train Acc: 0.9888
+[2026-02-25 00:24:50] [INFO] [DEF]: Val Loss: 7.1057
+[2026-02-25 00:24:50] [INFO] [DEF]: Val Acc: 0.9518
+[2026-02-25 00:24:52] [INFO] [DEF]: Epoch [68/100]
+[2026-02-25 00:24:52] [INFO] [DEF]: Train Loss: 4.8902
+[2026-02-25 00:24:52] [INFO] [DEF]: Train Acc: 0.9878
+[2026-02-25 00:24:52] [INFO] [DEF]: Val Loss: 24.9714
+[2026-02-25 00:24:52] [INFO] [DEF]: Val Acc: 0.8623
+[2026-02-25 00:24:53] [INFO] [DEF]: Epoch [69/100]
+[2026-02-25 00:24:53] [INFO] [DEF]: Train Loss: 4.3312
+[2026-02-25 00:24:53] [INFO] [DEF]: Train Acc: 0.9896
+[2026-02-25 00:24:53] [INFO] [DEF]: Val Loss: 11.0206
+[2026-02-25 00:24:53] [INFO] [DEF]: Val Acc: 0.9447
+[2026-02-25 00:24:55] [INFO] [DEF]: Epoch [70/100]
+[2026-02-25 00:24:55] [INFO] [DEF]: Train Loss: 3.0438
+[2026-02-25 00:24:55] [INFO] [DEF]: Train Acc: 0.9933
+[2026-02-25 00:24:55] [INFO] [DEF]: Val Loss: 7.4212
+[2026-02-25 00:24:55] [INFO] [DEF]: Val Acc: 0.9648
+[2026-02-25 00:24:57] [INFO] [DEF]: Epoch [71/100]
+[2026-02-25 00:24:57] [INFO] [DEF]: Train Loss: 3.6969
+[2026-02-25 00:24:57] [INFO] [DEF]: Train Acc: 0.9910
+[2026-02-25 00:24:57] [INFO] [DEF]: Val Loss: 13.4263
+[2026-02-25 00:24:57] [INFO] [DEF]: Val Acc: 0.8864
+[2026-02-25 00:24:59] [INFO] [DEF]: Epoch [72/100]
+[2026-02-25 00:24:59] [INFO] [DEF]: Train Loss: 2.8410
+[2026-02-25 00:24:59] [INFO] [DEF]: Train Acc: 0.9910
+[2026-02-25 00:24:59] [INFO] [DEF]: Val Loss: 16.9680
+[2026-02-25 00:24:59] [INFO] [DEF]: Val Acc: 0.8764
+[2026-02-25 00:25:01] [INFO] [DEF]: Epoch [73/100]
+[2026-02-25 00:25:01] [INFO] [DEF]: Train Loss: 1.6751
+[2026-02-25 00:25:01] [INFO] [DEF]: Train Acc: 0.9953
+[2026-02-25 00:25:01] [INFO] [DEF]: Val Loss: 9.7343
+[2026-02-25 00:25:01] [INFO] [DEF]: Val Acc: 0.9558
+[2026-02-25 00:25:03] [INFO] [DEF]: Epoch [74/100]
+[2026-02-25 00:25:03] [INFO] [DEF]: Train Loss: 3.1467
+[2026-02-25 00:25:03] [INFO] [DEF]: Train Acc: 0.9908
+[2026-02-25 00:25:03] [INFO] [DEF]: Val Loss: 21.3388
+[2026-02-25 00:25:03] [INFO] [DEF]: Val Acc: 0.8583
+[2026-02-25 00:25:04] [INFO] [DEF]: Epoch [75/100]
+[2026-02-25 00:25:04] [INFO] [DEF]: Train Loss: 1.8311
+[2026-02-25 00:25:04] [INFO] [DEF]: Train Acc: 0.9944
+[2026-02-25 00:25:04] [INFO] [DEF]: Val Loss: 45.9296
+[2026-02-25 00:25:04] [INFO] [DEF]: Val Acc: 0.8382
+[2026-02-25 00:25:06] [INFO] [DEF]: Epoch [76/100]
+[2026-02-25 00:25:06] [INFO] [DEF]: Train Loss: 5.9747
+[2026-02-25 00:25:06] [INFO] [DEF]: Train Acc: 0.9865
+[2026-02-25 00:25:06] [INFO] [DEF]: Val Loss: 130.9185
+[2026-02-25 00:25:06] [INFO] [DEF]: Val Acc: 0.7990
+[2026-02-25 00:25:08] [INFO] [DEF]: Epoch [77/100]
+[2026-02-25 00:25:08] [INFO] [DEF]: Train Loss: 5.6095
+[2026-02-25 00:25:08] [INFO] [DEF]: Train Acc: 0.9861
+[2026-02-25 00:25:08] [INFO] [DEF]: Val Loss: 47.7027
+[2026-02-25 00:25:08] [INFO] [DEF]: Val Acc: 0.6935
+[2026-02-25 00:25:10] [INFO] [DEF]: Epoch [78/100]
+[2026-02-25 00:25:10] [INFO] [DEF]: Train Loss: 2.6579
+[2026-02-25 00:25:10] [INFO] [DEF]: Train Acc: 0.9942
+[2026-02-25 00:25:10] [INFO] [DEF]: Val Loss: 101.4307
+[2026-02-25 00:25:10] [INFO] [DEF]: Val Acc: 0.6673
+[2026-02-25 00:25:12] [INFO] [DEF]: Epoch [79/100]
+[2026-02-25 00:25:12] [INFO] [DEF]: Train Loss: 2.2700
+[2026-02-25 00:25:12] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:25:12] [INFO] [DEF]: Val Loss: 31.1533
+[2026-02-25 00:25:12] [INFO] [DEF]: Val Acc: 0.8090
+[2026-02-25 00:25:14] [INFO] [DEF]: Epoch [80/100]
+[2026-02-25 00:25:14] [INFO] [DEF]: Train Loss: 3.6963
+[2026-02-25 00:25:14] [INFO] [DEF]: Train Acc: 0.9893
+[2026-02-25 00:25:14] [INFO] [DEF]: Val Loss: 16.0040
+[2026-02-25 00:25:14] [INFO] [DEF]: Val Acc: 0.8774
+[2026-02-25 00:25:16] [INFO] [DEF]: Epoch [81/100]
+[2026-02-25 00:25:16] [INFO] [DEF]: Train Loss: 4.0785
+[2026-02-25 00:25:16] [INFO] [DEF]: Train Acc: 0.9889
+[2026-02-25 00:25:16] [INFO] [DEF]: Val Loss: 9.2020
+[2026-02-25 00:25:16] [INFO] [DEF]: Val Acc: 0.9467
+[2026-02-25 00:25:18] [INFO] [DEF]: Epoch [82/100]
+[2026-02-25 00:25:18] [INFO] [DEF]: Train Loss: 2.6279
+[2026-02-25 00:25:18] [INFO] [DEF]: Train Acc: 0.9935
+[2026-02-25 00:25:18] [INFO] [DEF]: Val Loss: 10.2829
+[2026-02-25 00:25:18] [INFO] [DEF]: Val Acc: 0.9628
+[2026-02-25 00:25:19] [INFO] [DEF]: Epoch [83/100]
+[2026-02-25 00:25:19] [INFO] [DEF]: Train Loss: 2.1252
+[2026-02-25 00:25:19] [INFO] [DEF]: Train Acc: 0.9955
+[2026-02-25 00:25:19] [INFO] [DEF]: Val Loss: 24.2312
+[2026-02-25 00:25:19] [INFO] [DEF]: Val Acc: 0.8734
+[2026-02-25 00:25:21] [INFO] [DEF]: Epoch [84/100]
+[2026-02-25 00:25:21] [INFO] [DEF]: Train Loss: 2.8007
+[2026-02-25 00:25:21] [INFO] [DEF]: Train Acc: 0.9919
+[2026-02-25 00:25:21] [INFO] [DEF]: Val Loss: 42.4131
+[2026-02-25 00:25:21] [INFO] [DEF]: Val Acc: 0.7618
+[2026-02-25 00:25:23] [INFO] [DEF]: Epoch [85/100]
+[2026-02-25 00:25:23] [INFO] [DEF]: Train Loss: 3.5263
+[2026-02-25 00:25:23] [INFO] [DEF]: Train Acc: 0.9914
+[2026-02-25 00:25:23] [INFO] [DEF]: Val Loss: 16.7148
+[2026-02-25 00:25:23] [INFO] [DEF]: Val Acc: 0.9166
+[2026-02-25 00:25:25] [INFO] [DEF]: Epoch [86/100]
+[2026-02-25 00:25:25] [INFO] [DEF]: Train Loss: 2.7204
+[2026-02-25 00:25:25] [INFO] [DEF]: Train Acc: 0.9933
+[2026-02-25 00:25:25] [INFO] [DEF]: Val Loss: 26.5755
+[2026-02-25 00:25:25] [INFO] [DEF]: Val Acc: 0.8171
+[2026-02-25 00:25:27] [INFO] [DEF]: Epoch [87/100]
+[2026-02-25 00:25:27] [INFO] [DEF]: Train Loss: 2.2635
+[2026-02-25 00:25:27] [INFO] [DEF]: Train Acc: 0.9937
+[2026-02-25 00:25:27] [INFO] [DEF]: Val Loss: 11.1234
+[2026-02-25 00:25:27] [INFO] [DEF]: Val Acc: 0.9427
+[2026-02-25 00:25:29] [INFO] [DEF]: Epoch [88/100]
+[2026-02-25 00:25:29] [INFO] [DEF]: Train Loss: 5.2334
+[2026-02-25 00:25:29] [INFO] [DEF]: Train Acc: 0.9862
+[2026-02-25 00:25:29] [INFO] [DEF]: Val Loss: 26.0946
+[2026-02-25 00:25:29] [INFO] [DEF]: Val Acc: 0.8513
+[2026-02-25 00:25:31] [INFO] [DEF]: Epoch [89/100]
+[2026-02-25 00:25:31] [INFO] [DEF]: Train Loss: 2.9935
+[2026-02-25 00:25:31] [INFO] [DEF]: Train Acc: 0.9933
+[2026-02-25 00:25:31] [INFO] [DEF]: Val Loss: 9.6247
+[2026-02-25 00:25:31] [INFO] [DEF]: Val Acc: 0.9377
+[2026-02-25 00:25:33] [INFO] [DEF]: Epoch [90/100]
+[2026-02-25 00:25:33] [INFO] [DEF]: Train Loss: 2.7693
+[2026-02-25 00:25:33] [INFO] [DEF]: Train Acc: 0.9927
+[2026-02-25 00:25:33] [INFO] [DEF]: Val Loss: 11.9224
+[2026-02-25 00:25:33] [INFO] [DEF]: Val Acc: 0.9337
+[2026-02-25 00:25:35] [INFO] [DEF]: Epoch [91/100]
+[2026-02-25 00:25:35] [INFO] [DEF]: Train Loss: 4.0445
+[2026-02-25 00:25:35] [INFO] [DEF]: Train Acc: 0.9893
+[2026-02-25 00:25:35] [INFO] [DEF]: Val Loss: 43.3905
+[2026-02-25 00:25:35] [INFO] [DEF]: Val Acc: 0.8322
+[2026-02-25 00:25:37] [INFO] [DEF]: Epoch [92/100]
+[2026-02-25 00:25:37] [INFO] [DEF]: Train Loss: 2.2046
+[2026-02-25 00:25:37] [INFO] [DEF]: Train Acc: 0.9941
+[2026-02-25 00:25:37] [INFO] [DEF]: Val Loss: 9.4525
+[2026-02-25 00:25:37] [INFO] [DEF]: Val Acc: 0.9598
+[2026-02-25 00:25:39] [INFO] [DEF]: Epoch [93/100]
+[2026-02-25 00:25:39] [INFO] [DEF]: Train Loss: 2.3509
+[2026-02-25 00:25:39] [INFO] [DEF]: Train Acc: 0.9940
+[2026-02-25 00:25:39] [INFO] [DEF]: Val Loss: 32.7535
+[2026-02-25 00:25:39] [INFO] [DEF]: Val Acc: 0.8683
+[2026-02-25 00:25:41] [INFO] [DEF]: Epoch [94/100]
+[2026-02-25 00:25:41] [INFO] [DEF]: Train Loss: 2.3699
+[2026-02-25 00:25:41] [INFO] [DEF]: Train Acc: 0.9936
+[2026-02-25 00:25:41] [INFO] [DEF]: Val Loss: 8.0336
+[2026-02-25 00:25:41] [INFO] [DEF]: Val Acc: 0.9628
+[2026-02-25 00:25:43] [INFO] [DEF]: Epoch [95/100]
+[2026-02-25 00:25:43] [INFO] [DEF]: Train Loss: 1.4002
+[2026-02-25 00:25:43] [INFO] [DEF]: Train Acc: 0.9966
+[2026-02-25 00:25:43] [INFO] [DEF]: Val Loss: 25.5147
+[2026-02-25 00:25:43] [INFO] [DEF]: Val Acc: 0.8864
+[2026-02-25 00:25:45] [INFO] [DEF]: Epoch [96/100]
+[2026-02-25 00:25:45] [INFO] [DEF]: Train Loss: 1.4484
+[2026-02-25 00:25:45] [INFO] [DEF]: Train Acc: 0.9962
+[2026-02-25 00:25:45] [INFO] [DEF]: Val Loss: 97.0169
+[2026-02-25 00:25:45] [INFO] [DEF]: Val Acc: 0.7045
+[2026-02-25 00:25:47] [INFO] [DEF]: Epoch [97/100]
+[2026-02-25 00:25:47] [INFO] [DEF]: Train Loss: 1.9524
+[2026-02-25 00:25:47] [INFO] [DEF]: Train Acc: 0.9950
+[2026-02-25 00:25:47] [INFO] [DEF]: Val Loss: 82.4843
+[2026-02-25 00:25:47] [INFO] [DEF]: Val Acc: 0.8111
+[2026-02-25 00:25:49] [INFO] [DEF]: Epoch [98/100]
+[2026-02-25 00:25:49] [INFO] [DEF]: Train Loss: 4.3819
+[2026-02-25 00:25:49] [INFO] [DEF]: Train Acc: 0.9908
+[2026-02-25 00:25:49] [INFO] [DEF]: Val Loss: 167.6522
+[2026-02-25 00:25:49] [INFO] [DEF]: Val Acc: 0.5327
+[2026-02-25 00:25:51] [INFO] [DEF]: Epoch [99/100]
+[2026-02-25 00:25:51] [INFO] [DEF]: Train Loss: 4.1968
+[2026-02-25 00:25:51] [INFO] [DEF]: Train Acc: 0.9915
+[2026-02-25 00:25:51] [INFO] [DEF]: Val Loss: 40.9756
+[2026-02-25 00:25:51] [INFO] [DEF]: Val Acc: 0.8271
+[2026-02-25 00:25:53] [INFO] [DEF]: Epoch [100/100]
+[2026-02-25 00:25:53] [INFO] [DEF]: Train Loss: 2.5848
+[2026-02-25 00:25:53] [INFO] [DEF]: Train Acc: 0.9919
+[2026-02-25 00:25:53] [INFO] [DEF]: Val Loss: 12.2152
+[2026-02-25 00:25:53] [INFO] [DEF]: Val Acc: 0.9377
+[2026-02-25 00:25:53] [INFO] [DEF]: Training Complete.
+[2026-02-25 00:25:53] [INFO] [DEF]: Best Val Accuracy: 0.964824120603015
+[2026-02-25 00:25:53] [INFO] [DEF]: Test Accuracy: 0.9622641509433962
+[2026-02-25 00:25:53] [INFO] [FIN]: Execution Complete.
+[2026-02-25 00:30:13] [WARN] [MET]: END Session 9
+[2026-02-25 00:30:13] [WARN] [MET]: Auto-repairing incomplete sessions: [9]
+[2026-02-25 00:34:27] [INFO] [MET]: START Session 10
+[2026-02-25 00:34:27] [INFO] [DEF]: ============================================================
+[2026-02-25 00:34:27] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:34:27] [INFO] [MET]: {'window_size': 32, 'stride': 32, 'correlation_threshold': 0.25, 'doppler_bins': 256, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S32_DB256.npz', 'timestamp': '2026-02-25 00:33:58', 'size': '0.1445 GB'}
+[2026-02-25 00:34:27] [INFO] [DEF]: ============================================================
+[2026-02-25 00:34:28] [INFO] [MET]: Train: (4540, 1, 32, 256)
+[2026-02-25 00:34:28] [INFO] [MET]: Val  : (506, 1, 32, 256)
+[2026-02-25 00:34:28] [INFO] [MET]: Test : (644, 1, 32, 256)
+[2026-02-25 00:34:28] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:34:28] [INFO] [DEF]: ============================================================
+[2026-02-25 00:34:28] [INFO] [BEG]: Starting Training...
+[2026-02-25 00:34:29] [INFO] [DEF]: Epoch [1/100]
+[2026-02-25 00:34:29] [INFO] [DEF]: Train Loss: 65.9642
+[2026-02-25 00:34:29] [INFO] [DEF]: Train Acc: 0.6141
+[2026-02-25 00:34:29] [INFO] [DEF]: Val Loss: 9.3723
+[2026-02-25 00:34:29] [INFO] [DEF]: Val Acc: 0.5000
+[2026-02-25 00:34:30] [INFO] [DEF]: Epoch [2/100]
+[2026-02-25 00:34:30] [INFO] [DEF]: Train Loss: 44.6507
+[2026-02-25 00:34:30] [INFO] [DEF]: Train Acc: 0.7308
+[2026-02-25 00:34:30] [INFO] [DEF]: Val Loss: 12.5701
+[2026-02-25 00:34:30] [INFO] [DEF]: Val Acc: 0.3854
+[2026-02-25 00:34:31] [INFO] [DEF]: Epoch [3/100]
+[2026-02-25 00:34:31] [INFO] [DEF]: Train Loss: 34.4674
+[2026-02-25 00:34:31] [INFO] [DEF]: Train Acc: 0.7996
+[2026-02-25 00:34:31] [INFO] [DEF]: Val Loss: 8.3192
+[2026-02-25 00:34:31] [INFO] [DEF]: Val Acc: 0.6581
+[2026-02-25 00:34:32] [INFO] [DEF]: Epoch [4/100]
+[2026-02-25 00:34:32] [INFO] [DEF]: Train Loss: 29.3250
+[2026-02-25 00:34:32] [INFO] [DEF]: Train Acc: 0.8293
+[2026-02-25 00:34:32] [INFO] [DEF]: Val Loss: 5.9519
+[2026-02-25 00:34:32] [INFO] [DEF]: Val Acc: 0.7115
+[2026-02-25 00:34:33] [INFO] [DEF]: Epoch [5/100]
+[2026-02-25 00:34:33] [INFO] [DEF]: Train Loss: 24.1175
+[2026-02-25 00:34:33] [INFO] [DEF]: Train Acc: 0.8608
+[2026-02-25 00:34:33] [INFO] [DEF]: Val Loss: 3.2062
+[2026-02-25 00:34:33] [INFO] [DEF]: Val Acc: 0.8636
+[2026-02-25 00:34:34] [INFO] [DEF]: Epoch [6/100]
+[2026-02-25 00:34:34] [INFO] [DEF]: Train Loss: 21.6926
+[2026-02-25 00:34:34] [INFO] [DEF]: Train Acc: 0.8756
+[2026-02-25 00:34:34] [INFO] [DEF]: Val Loss: 2.8395
+[2026-02-25 00:34:34] [INFO] [DEF]: Val Acc: 0.9130
+[2026-02-25 00:34:35] [INFO] [DEF]: Epoch [7/100]
+[2026-02-25 00:34:35] [INFO] [DEF]: Train Loss: 22.1530
+[2026-02-25 00:34:35] [INFO] [DEF]: Train Acc: 0.8685
+[2026-02-25 00:34:35] [INFO] [DEF]: Val Loss: 5.2983
+[2026-02-25 00:34:35] [INFO] [DEF]: Val Acc: 0.8063
+[2026-02-25 00:34:35] [INFO] [DEF]: Epoch [8/100]
+[2026-02-25 00:34:35] [INFO] [DEF]: Train Loss: 19.0749
+[2026-02-25 00:34:35] [INFO] [DEF]: Train Acc: 0.8822
+[2026-02-25 00:34:35] [INFO] [DEF]: Val Loss: 3.2754
+[2026-02-25 00:34:35] [INFO] [DEF]: Val Acc: 0.9190
+[2026-02-25 00:34:36] [INFO] [DEF]: Epoch [9/100]
+[2026-02-25 00:34:36] [INFO] [DEF]: Train Loss: 17.6781
+[2026-02-25 00:34:36] [INFO] [DEF]: Train Acc: 0.8952
+[2026-02-25 00:34:36] [INFO] [DEF]: Val Loss: 14.7310
+[2026-02-25 00:34:36] [INFO] [DEF]: Val Acc: 0.4684
+[2026-02-25 00:34:37] [INFO] [DEF]: Epoch [10/100]
+[2026-02-25 00:34:37] [INFO] [DEF]: Train Loss: 16.1783
+[2026-02-25 00:34:37] [INFO] [DEF]: Train Acc: 0.9073
+[2026-02-25 00:34:37] [INFO] [DEF]: Val Loss: 2.6442
+[2026-02-25 00:34:37] [INFO] [DEF]: Val Acc: 0.9308
+[2026-02-25 00:34:38] [INFO] [DEF]: Epoch [11/100]
+[2026-02-25 00:34:38] [INFO] [DEF]: Train Loss: 14.9446
+[2026-02-25 00:34:38] [INFO] [DEF]: Train Acc: 0.9156
+[2026-02-25 00:34:38] [INFO] [DEF]: Val Loss: 13.0425
+[2026-02-25 00:34:38] [INFO] [DEF]: Val Acc: 0.7174
+[2026-02-25 00:34:39] [INFO] [DEF]: Epoch [12/100]
+[2026-02-25 00:34:39] [INFO] [DEF]: Train Loss: 14.4630
+[2026-02-25 00:34:39] [INFO] [DEF]: Train Acc: 0.9156
+[2026-02-25 00:34:39] [INFO] [DEF]: Val Loss: 9.4878
+[2026-02-25 00:34:39] [INFO] [DEF]: Val Acc: 0.7451
+[2026-02-25 00:34:40] [INFO] [DEF]: Epoch [13/100]
+[2026-02-25 00:34:40] [INFO] [DEF]: Train Loss: 13.0109
+[2026-02-25 00:34:40] [INFO] [DEF]: Train Acc: 0.9247
+[2026-02-25 00:34:40] [INFO] [DEF]: Val Loss: 15.2324
+[2026-02-25 00:34:40] [INFO] [DEF]: Val Acc: 0.6818
+[2026-02-25 00:34:41] [INFO] [DEF]: Epoch [14/100]
+[2026-02-25 00:34:41] [INFO] [DEF]: Train Loss: 11.3735
+[2026-02-25 00:34:41] [INFO] [DEF]: Train Acc: 0.9330
+[2026-02-25 00:34:41] [INFO] [DEF]: Val Loss: 6.3888
+[2026-02-25 00:34:41] [INFO] [DEF]: Val Acc: 0.8004
+[2026-02-25 00:34:43] [INFO] [DEF]: Epoch [15/100]
+[2026-02-25 00:34:43] [INFO] [DEF]: Train Loss: 11.8355
+[2026-02-25 00:34:43] [INFO] [DEF]: Train Acc: 0.9330
+[2026-02-25 00:34:43] [INFO] [DEF]: Val Loss: 15.2744
+[2026-02-25 00:34:43] [INFO] [DEF]: Val Acc: 0.4763
+[2026-02-25 00:34:44] [INFO] [DEF]: Epoch [16/100]
+[2026-02-25 00:34:44] [INFO] [DEF]: Train Loss: 12.3915
+[2026-02-25 00:34:44] [INFO] [DEF]: Train Acc: 0.9326
+[2026-02-25 00:34:44] [INFO] [DEF]: Val Loss: 11.3994
+[2026-02-25 00:34:44] [INFO] [DEF]: Val Acc: 0.7569
+[2026-02-25 00:34:45] [INFO] [DEF]: Epoch [17/100]
+[2026-02-25 00:34:45] [INFO] [DEF]: Train Loss: 9.7200
+[2026-02-25 00:34:45] [INFO] [DEF]: Train Acc: 0.9471
+[2026-02-25 00:34:45] [INFO] [DEF]: Val Loss: 6.8651
+[2026-02-25 00:34:45] [INFO] [DEF]: Val Acc: 0.8162
+[2026-02-25 00:34:46] [INFO] [DEF]: Epoch [18/100]
+[2026-02-25 00:34:46] [INFO] [DEF]: Train Loss: 8.0763
+[2026-02-25 00:34:46] [INFO] [DEF]: Train Acc: 0.9544
+[2026-02-25 00:34:46] [INFO] [DEF]: Val Loss: 5.2021
+[2026-02-25 00:34:46] [INFO] [DEF]: Val Acc: 0.8202
+[2026-02-25 00:34:47] [INFO] [DEF]: Epoch [19/100]
+[2026-02-25 00:34:47] [INFO] [DEF]: Train Loss: 8.8302
+[2026-02-25 00:34:47] [INFO] [DEF]: Train Acc: 0.9496
+[2026-02-25 00:34:47] [INFO] [DEF]: Val Loss: 24.0912
+[2026-02-25 00:34:47] [INFO] [DEF]: Val Acc: 0.5395
+[2026-02-25 00:34:48] [INFO] [DEF]: Epoch [20/100]
+[2026-02-25 00:34:48] [INFO] [DEF]: Train Loss: 7.6805
+[2026-02-25 00:34:48] [INFO] [DEF]: Train Acc: 0.9593
+[2026-02-25 00:34:48] [INFO] [DEF]: Val Loss: 18.9752
+[2026-02-25 00:34:48] [INFO] [DEF]: Val Acc: 0.6383
+[2026-02-25 00:34:49] [INFO] [DEF]: Epoch [21/100]
+[2026-02-25 00:34:49] [INFO] [DEF]: Train Loss: 7.8853
+[2026-02-25 00:34:49] [INFO] [DEF]: Train Acc: 0.9540
+[2026-02-25 00:34:49] [INFO] [DEF]: Val Loss: 29.3430
+[2026-02-25 00:34:49] [INFO] [DEF]: Val Acc: 0.7292
+[2026-02-25 00:34:49] [INFO] [DEF]: Epoch [22/100]
+[2026-02-25 00:34:49] [INFO] [DEF]: Train Loss: 9.2415
+[2026-02-25 00:34:49] [INFO] [DEF]: Train Acc: 0.9438
+[2026-02-25 00:34:49] [INFO] [DEF]: Val Loss: 35.6818
+[2026-02-25 00:34:49] [INFO] [DEF]: Val Acc: 0.6838
+[2026-02-25 00:34:50] [INFO] [DEF]: Epoch [23/100]
+[2026-02-25 00:34:50] [INFO] [DEF]: Train Loss: 6.2009
+[2026-02-25 00:34:50] [INFO] [DEF]: Train Acc: 0.9678
+[2026-02-25 00:34:50] [INFO] [DEF]: Val Loss: 2.8188
+[2026-02-25 00:34:50] [INFO] [DEF]: Val Acc: 0.9308
+[2026-02-25 00:34:51] [INFO] [DEF]: Epoch [24/100]
+[2026-02-25 00:34:51] [INFO] [DEF]: Train Loss: 5.1684
+[2026-02-25 00:34:51] [INFO] [DEF]: Train Acc: 0.9727
+[2026-02-25 00:34:51] [INFO] [DEF]: Val Loss: 4.1693
+[2026-02-25 00:34:51] [INFO] [DEF]: Val Acc: 0.9229
+[2026-02-25 00:34:52] [INFO] [DEF]: Epoch [25/100]
+[2026-02-25 00:34:52] [INFO] [DEF]: Train Loss: 6.1933
+[2026-02-25 00:34:52] [INFO] [DEF]: Train Acc: 0.9656
+[2026-02-25 00:34:52] [INFO] [DEF]: Val Loss: 26.9467
+[2026-02-25 00:34:52] [INFO] [DEF]: Val Acc: 0.8024
+[2026-02-25 00:34:53] [INFO] [DEF]: Epoch [26/100]
+[2026-02-25 00:34:53] [INFO] [DEF]: Train Loss: 4.7939
+[2026-02-25 00:34:53] [INFO] [DEF]: Train Acc: 0.9725
+[2026-02-25 00:34:53] [INFO] [DEF]: Val Loss: 3.1408
+[2026-02-25 00:34:53] [INFO] [DEF]: Val Acc: 0.9249
+[2026-02-25 00:34:54] [INFO] [DEF]: Epoch [27/100]
+[2026-02-25 00:34:54] [INFO] [DEF]: Train Loss: 5.5474
+[2026-02-25 00:34:54] [INFO] [DEF]: Train Acc: 0.9711
+[2026-02-25 00:34:54] [INFO] [DEF]: Val Loss: 4.8336
+[2026-02-25 00:34:54] [INFO] [DEF]: Val Acc: 0.8538
+[2026-02-25 00:34:54] [INFO] [DEF]: Epoch [28/100]
+[2026-02-25 00:34:54] [INFO] [DEF]: Train Loss: 6.1246
+[2026-02-25 00:34:54] [INFO] [DEF]: Train Acc: 0.9650
+[2026-02-25 00:34:54] [INFO] [DEF]: Val Loss: 6.5189
+[2026-02-25 00:34:54] [INFO] [DEF]: Val Acc: 0.8676
+[2026-02-25 00:34:55] [INFO] [DEF]: Epoch [29/100]
+[2026-02-25 00:34:55] [INFO] [DEF]: Train Loss: 5.5549
+[2026-02-25 00:34:55] [INFO] [DEF]: Train Acc: 0.9676
+[2026-02-25 00:34:55] [INFO] [DEF]: Val Loss: 6.1422
+[2026-02-25 00:34:55] [INFO] [DEF]: Val Acc: 0.8775
+[2026-02-25 00:34:56] [INFO] [DEF]: Epoch [30/100]
+[2026-02-25 00:34:56] [INFO] [DEF]: Train Loss: 5.2977
+[2026-02-25 00:34:56] [INFO] [DEF]: Train Acc: 0.9685
+[2026-02-25 00:34:56] [INFO] [DEF]: Val Loss: 23.9437
+[2026-02-25 00:34:56] [INFO] [DEF]: Val Acc: 0.6403
+[2026-02-25 00:34:57] [INFO] [DEF]: Epoch [31/100]
+[2026-02-25 00:34:57] [INFO] [DEF]: Train Loss: 3.2073
+[2026-02-25 00:34:57] [INFO] [DEF]: Train Acc: 0.9835
+[2026-02-25 00:34:57] [INFO] [DEF]: Val Loss: 40.1255
+[2026-02-25 00:34:57] [INFO] [DEF]: Val Acc: 0.7372
+[2026-02-25 00:34:58] [INFO] [DEF]: Epoch [32/100]
+[2026-02-25 00:34:58] [INFO] [DEF]: Train Loss: 4.2577
+[2026-02-25 00:34:58] [INFO] [DEF]: Train Acc: 0.9771
+[2026-02-25 00:34:58] [INFO] [DEF]: Val Loss: 20.4715
+[2026-02-25 00:34:58] [INFO] [DEF]: Val Acc: 0.7787
+[2026-02-25 00:34:58] [INFO] [DEF]: Epoch [33/100]
+[2026-02-25 00:34:58] [INFO] [DEF]: Train Loss: 2.7338
+[2026-02-25 00:34:58] [INFO] [DEF]: Train Acc: 0.9863
+[2026-02-25 00:34:58] [INFO] [DEF]: Val Loss: 3.8071
+[2026-02-25 00:34:58] [INFO] [DEF]: Val Acc: 0.9308
+[2026-02-25 00:34:59] [INFO] [DEF]: Epoch [34/100]
+[2026-02-25 00:34:59] [INFO] [DEF]: Train Loss: 2.7814
+[2026-02-25 00:34:59] [INFO] [DEF]: Train Acc: 0.9839
+[2026-02-25 00:34:59] [INFO] [DEF]: Val Loss: 18.1054
+[2026-02-25 00:34:59] [INFO] [DEF]: Val Acc: 0.7688
+[2026-02-25 00:35:00] [INFO] [DEF]: Epoch [35/100]
+[2026-02-25 00:35:00] [INFO] [DEF]: Train Loss: 3.1497
+[2026-02-25 00:35:00] [INFO] [DEF]: Train Acc: 0.9815
+[2026-02-25 00:35:00] [INFO] [DEF]: Val Loss: 8.0383
+[2026-02-25 00:35:00] [INFO] [DEF]: Val Acc: 0.8202
+[2026-02-25 00:35:01] [INFO] [DEF]: Epoch [36/100]
+[2026-02-25 00:35:01] [INFO] [DEF]: Train Loss: 3.2340
+[2026-02-25 00:35:01] [INFO] [DEF]: Train Acc: 0.9804
+[2026-02-25 00:35:01] [INFO] [DEF]: Val Loss: 7.6772
+[2026-02-25 00:35:01] [INFO] [DEF]: Val Acc: 0.9190
+[2026-02-25 00:35:02] [INFO] [DEF]: Epoch [37/100]
+[2026-02-25 00:35:02] [INFO] [DEF]: Train Loss: 3.0547
+[2026-02-25 00:35:02] [INFO] [DEF]: Train Acc: 0.9830
+[2026-02-25 00:35:02] [INFO] [DEF]: Val Loss: 12.4078
+[2026-02-25 00:35:02] [INFO] [DEF]: Val Acc: 0.8379
+[2026-02-25 00:35:03] [INFO] [DEF]: Epoch [38/100]
+[2026-02-25 00:35:03] [INFO] [DEF]: Train Loss: 3.9227
+[2026-02-25 00:35:03] [INFO] [DEF]: Train Acc: 0.9773
+[2026-02-25 00:35:03] [INFO] [DEF]: Val Loss: 14.9516
+[2026-02-25 00:35:03] [INFO] [DEF]: Val Acc: 0.8083
+[2026-02-25 00:35:03] [INFO] [DEF]: Epoch [39/100]
+[2026-02-25 00:35:03] [INFO] [DEF]: Train Loss: 3.9836
+[2026-02-25 00:35:03] [INFO] [DEF]: Train Acc: 0.9786
+[2026-02-25 00:35:03] [INFO] [DEF]: Val Loss: 5.0063
+[2026-02-25 00:35:03] [INFO] [DEF]: Val Acc: 0.9170
+[2026-02-25 00:35:04] [INFO] [DEF]: Epoch [40/100]
+[2026-02-25 00:35:04] [INFO] [DEF]: Train Loss: 5.5257
+[2026-02-25 00:35:04] [INFO] [DEF]: Train Acc: 0.9692
+[2026-02-25 00:35:04] [INFO] [DEF]: Val Loss: 4.1430
+[2026-02-25 00:35:04] [INFO] [DEF]: Val Acc: 0.9209
+[2026-02-25 00:35:05] [INFO] [DEF]: Epoch [41/100]
+[2026-02-25 00:35:05] [INFO] [DEF]: Train Loss: 4.0479
+[2026-02-25 00:35:05] [INFO] [DEF]: Train Acc: 0.9753
+[2026-02-25 00:35:05] [INFO] [DEF]: Val Loss: 22.6252
+[2026-02-25 00:35:05] [INFO] [DEF]: Val Acc: 0.6917
+[2026-02-25 00:35:06] [INFO] [DEF]: Epoch [42/100]
+[2026-02-25 00:35:06] [INFO] [DEF]: Train Loss: 4.8101
+[2026-02-25 00:35:06] [INFO] [DEF]: Train Acc: 0.9738
+[2026-02-25 00:35:06] [INFO] [DEF]: Val Loss: 27.6870
+[2026-02-25 00:35:06] [INFO] [DEF]: Val Acc: 0.8004
+[2026-02-25 00:35:07] [INFO] [DEF]: Epoch [43/100]
+[2026-02-25 00:35:07] [INFO] [DEF]: Train Loss: 3.6140
+[2026-02-25 00:35:07] [INFO] [DEF]: Train Acc: 0.9778
+[2026-02-25 00:35:07] [INFO] [DEF]: Val Loss: 11.3451
+[2026-02-25 00:35:07] [INFO] [DEF]: Val Acc: 0.7866
+[2026-02-25 00:35:07] [INFO] [DEF]: Epoch [44/100]
+[2026-02-25 00:35:07] [INFO] [DEF]: Train Loss: 4.4304
+[2026-02-25 00:35:07] [INFO] [DEF]: Train Acc: 0.9753
+[2026-02-25 00:35:07] [INFO] [DEF]: Val Loss: 24.1274
+[2026-02-25 00:35:07] [INFO] [DEF]: Val Acc: 0.6996
+[2026-02-25 00:35:08] [INFO] [DEF]: Epoch [45/100]
+[2026-02-25 00:35:08] [INFO] [DEF]: Train Loss: 2.4327
+[2026-02-25 00:35:08] [INFO] [DEF]: Train Acc: 0.9863
+[2026-02-25 00:35:08] [INFO] [DEF]: Val Loss: 7.1846
+[2026-02-25 00:35:08] [INFO] [DEF]: Val Acc: 0.9269
+[2026-02-25 00:35:09] [INFO] [DEF]: Epoch [46/100]
+[2026-02-25 00:35:09] [INFO] [DEF]: Train Loss: 2.4866
+[2026-02-25 00:35:09] [INFO] [DEF]: Train Acc: 0.9852
+[2026-02-25 00:35:09] [INFO] [DEF]: Val Loss: 11.2967
+[2026-02-25 00:35:09] [INFO] [DEF]: Val Acc: 0.8103
+[2026-02-25 00:35:10] [INFO] [DEF]: Epoch [47/100]
+[2026-02-25 00:35:10] [INFO] [DEF]: Train Loss: 2.6312
+[2026-02-25 00:35:10] [INFO] [DEF]: Train Acc: 0.9846
+[2026-02-25 00:35:10] [INFO] [DEF]: Val Loss: 5.5273
+[2026-02-25 00:35:10] [INFO] [DEF]: Val Acc: 0.8893
+[2026-02-25 00:35:11] [INFO] [DEF]: Epoch [48/100]
+[2026-02-25 00:35:11] [INFO] [DEF]: Train Loss: 2.9197
+[2026-02-25 00:35:11] [INFO] [DEF]: Train Acc: 0.9833
+[2026-02-25 00:35:11] [INFO] [DEF]: Val Loss: 7.6974
+[2026-02-25 00:35:11] [INFO] [DEF]: Val Acc: 0.8696
+[2026-02-25 00:35:11] [INFO] [DEF]: Epoch [49/100]
+[2026-02-25 00:35:11] [INFO] [DEF]: Train Loss: 2.1411
+[2026-02-25 00:35:11] [INFO] [DEF]: Train Acc: 0.9874
+[2026-02-25 00:35:11] [INFO] [DEF]: Val Loss: 42.9220
+[2026-02-25 00:35:11] [INFO] [DEF]: Val Acc: 0.6423
+[2026-02-25 00:35:12] [INFO] [DEF]: Epoch [50/100]
+[2026-02-25 00:35:12] [INFO] [DEF]: Train Loss: 2.7412
+[2026-02-25 00:35:12] [INFO] [DEF]: Train Acc: 0.9835
+[2026-02-25 00:35:12] [INFO] [DEF]: Val Loss: 13.1714
+[2026-02-25 00:35:12] [INFO] [DEF]: Val Acc: 0.7233
+[2026-02-25 00:35:13] [INFO] [DEF]: Epoch [51/100]
+[2026-02-25 00:35:13] [INFO] [DEF]: Train Loss: 2.7752
+[2026-02-25 00:35:13] [INFO] [DEF]: Train Acc: 0.9879
+[2026-02-25 00:35:13] [INFO] [DEF]: Val Loss: 13.1084
+[2026-02-25 00:35:13] [INFO] [DEF]: Val Acc: 0.8320
+[2026-02-25 00:35:14] [INFO] [DEF]: Epoch [52/100]
+[2026-02-25 00:35:14] [INFO] [DEF]: Train Loss: 3.1891
+[2026-02-25 00:35:14] [INFO] [DEF]: Train Acc: 0.9833
+[2026-02-25 00:35:14] [INFO] [DEF]: Val Loss: 8.0193
+[2026-02-25 00:35:14] [INFO] [DEF]: Val Acc: 0.8735
+[2026-02-25 00:35:15] [INFO] [DEF]: Epoch [53/100]
+[2026-02-25 00:35:15] [INFO] [DEF]: Train Loss: 3.9758
+[2026-02-25 00:35:15] [INFO] [DEF]: Train Acc: 0.9791
+[2026-02-25 00:35:15] [INFO] [DEF]: Val Loss: 12.1001
+[2026-02-25 00:35:15] [INFO] [DEF]: Val Acc: 0.8340
+[2026-02-25 00:35:15] [INFO] [DEF]: Epoch [54/100]
+[2026-02-25 00:35:15] [INFO] [DEF]: Train Loss: 3.2169
+[2026-02-25 00:35:15] [INFO] [DEF]: Train Acc: 0.9815
+[2026-02-25 00:35:15] [INFO] [DEF]: Val Loss: 7.6313
+[2026-02-25 00:35:15] [INFO] [DEF]: Val Acc: 0.8063
+[2026-02-25 00:35:16] [INFO] [DEF]: Epoch [55/100]
+[2026-02-25 00:35:16] [INFO] [DEF]: Train Loss: 4.7130
+[2026-02-25 00:35:16] [INFO] [DEF]: Train Acc: 0.9744
+[2026-02-25 00:35:16] [INFO] [DEF]: Val Loss: 17.9561
+[2026-02-25 00:35:16] [INFO] [DEF]: Val Acc: 0.7549
+[2026-02-25 00:35:17] [INFO] [DEF]: Epoch [56/100]
+[2026-02-25 00:35:17] [INFO] [DEF]: Train Loss: 1.9494
+[2026-02-25 00:35:17] [INFO] [DEF]: Train Acc: 0.9903
+[2026-02-25 00:35:17] [INFO] [DEF]: Val Loss: 11.8293
+[2026-02-25 00:35:17] [INFO] [DEF]: Val Acc: 0.8340
+[2026-02-25 00:35:18] [INFO] [DEF]: Epoch [57/100]
+[2026-02-25 00:35:18] [INFO] [DEF]: Train Loss: 3.4390
+[2026-02-25 00:35:18] [INFO] [DEF]: Train Acc: 0.9839
+[2026-02-25 00:35:18] [INFO] [DEF]: Val Loss: 5.2218
+[2026-02-25 00:35:18] [INFO] [DEF]: Val Acc: 0.9170
+[2026-02-25 00:35:19] [INFO] [DEF]: Epoch [58/100]
+[2026-02-25 00:35:19] [INFO] [DEF]: Train Loss: 1.7960
+[2026-02-25 00:35:19] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:35:19] [INFO] [DEF]: Val Loss: 10.2734
+[2026-02-25 00:35:19] [INFO] [DEF]: Val Acc: 0.8063
+[2026-02-25 00:35:20] [INFO] [DEF]: Epoch [59/100]
+[2026-02-25 00:35:20] [INFO] [DEF]: Train Loss: 1.3589
+[2026-02-25 00:35:20] [INFO] [DEF]: Train Acc: 0.9943
+[2026-02-25 00:35:20] [INFO] [DEF]: Val Loss: 36.9397
+[2026-02-25 00:35:20] [INFO] [DEF]: Val Acc: 0.6858
+[2026-02-25 00:35:20] [INFO] [DEF]: Epoch [60/100]
+[2026-02-25 00:35:20] [INFO] [DEF]: Train Loss: 1.5852
+[2026-02-25 00:35:20] [INFO] [DEF]: Train Acc: 0.9919
+[2026-02-25 00:35:20] [INFO] [DEF]: Val Loss: 4.1210
+[2026-02-25 00:35:20] [INFO] [DEF]: Val Acc: 0.9545
+[2026-02-25 00:35:21] [INFO] [DEF]: Epoch [61/100]
+[2026-02-25 00:35:21] [INFO] [DEF]: Train Loss: 1.3085
+[2026-02-25 00:35:21] [INFO] [DEF]: Train Acc: 0.9916
+[2026-02-25 00:35:21] [INFO] [DEF]: Val Loss: 4.3624
+[2026-02-25 00:35:21] [INFO] [DEF]: Val Acc: 0.9328
+[2026-02-25 00:35:22] [INFO] [DEF]: Epoch [62/100]
+[2026-02-25 00:35:22] [INFO] [DEF]: Train Loss: 1.2466
+[2026-02-25 00:35:22] [INFO] [DEF]: Train Acc: 0.9923
+[2026-02-25 00:35:22] [INFO] [DEF]: Val Loss: 6.9115
+[2026-02-25 00:35:22] [INFO] [DEF]: Val Acc: 0.9051
+[2026-02-25 00:35:23] [INFO] [DEF]: Epoch [63/100]
+[2026-02-25 00:35:23] [INFO] [DEF]: Train Loss: 2.7057
+[2026-02-25 00:35:23] [INFO] [DEF]: Train Acc: 0.9846
+[2026-02-25 00:35:23] [INFO] [DEF]: Val Loss: 48.2725
+[2026-02-25 00:35:23] [INFO] [DEF]: Val Acc: 0.4881
+[2026-02-25 00:35:24] [INFO] [DEF]: Epoch [64/100]
+[2026-02-25 00:35:24] [INFO] [DEF]: Train Loss: 3.1600
+[2026-02-25 00:35:24] [INFO] [DEF]: Train Acc: 0.9850
+[2026-02-25 00:35:24] [INFO] [DEF]: Val Loss: 11.2778
+[2026-02-25 00:35:24] [INFO] [DEF]: Val Acc: 0.8933
+[2026-02-25 00:35:25] [INFO] [DEF]: Epoch [65/100]
+[2026-02-25 00:35:25] [INFO] [DEF]: Train Loss: 3.4411
+[2026-02-25 00:35:25] [INFO] [DEF]: Train Acc: 0.9808
+[2026-02-25 00:35:25] [INFO] [DEF]: Val Loss: 3.9963
+[2026-02-25 00:35:25] [INFO] [DEF]: Val Acc: 0.9526
+[2026-02-25 00:35:25] [INFO] [DEF]: Epoch [66/100]
+[2026-02-25 00:35:25] [INFO] [DEF]: Train Loss: 2.5955
+[2026-02-25 00:35:25] [INFO] [DEF]: Train Acc: 0.9859
+[2026-02-25 00:35:25] [INFO] [DEF]: Val Loss: 10.3611
+[2026-02-25 00:35:25] [INFO] [DEF]: Val Acc: 0.8083
+[2026-02-25 00:35:26] [INFO] [DEF]: Epoch [67/100]
+[2026-02-25 00:35:26] [INFO] [DEF]: Train Loss: 1.2230
+[2026-02-25 00:35:26] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:35:26] [INFO] [DEF]: Val Loss: 8.1174
+[2026-02-25 00:35:26] [INFO] [DEF]: Val Acc: 0.9130
+[2026-02-25 00:35:27] [INFO] [DEF]: Epoch [68/100]
+[2026-02-25 00:35:27] [INFO] [DEF]: Train Loss: 2.9167
+[2026-02-25 00:35:27] [INFO] [DEF]: Train Acc: 0.9859
+[2026-02-25 00:35:27] [INFO] [DEF]: Val Loss: 3.7982
+[2026-02-25 00:35:27] [INFO] [DEF]: Val Acc: 0.9328
+[2026-02-25 00:35:28] [INFO] [DEF]: Epoch [69/100]
+[2026-02-25 00:35:28] [INFO] [DEF]: Train Loss: 1.7779
+[2026-02-25 00:35:28] [INFO] [DEF]: Train Acc: 0.9896
+[2026-02-25 00:35:28] [INFO] [DEF]: Val Loss: 9.2980
+[2026-02-25 00:35:28] [INFO] [DEF]: Val Acc: 0.8696
+[2026-02-25 00:35:29] [INFO] [DEF]: Epoch [70/100]
+[2026-02-25 00:35:29] [INFO] [DEF]: Train Loss: 1.8374
+[2026-02-25 00:35:29] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:35:29] [INFO] [DEF]: Val Loss: 6.1633
+[2026-02-25 00:35:29] [INFO] [DEF]: Val Acc: 0.8953
+[2026-02-25 00:35:30] [INFO] [DEF]: Epoch [71/100]
+[2026-02-25 00:35:30] [INFO] [DEF]: Train Loss: 1.0133
+[2026-02-25 00:35:30] [INFO] [DEF]: Train Acc: 0.9949
+[2026-02-25 00:35:30] [INFO] [DEF]: Val Loss: 39.6819
+[2026-02-25 00:35:30] [INFO] [DEF]: Val Acc: 0.7075
+[2026-02-25 00:35:31] [INFO] [DEF]: Epoch [72/100]
+[2026-02-25 00:35:31] [INFO] [DEF]: Train Loss: 1.1639
+[2026-02-25 00:35:31] [INFO] [DEF]: Train Acc: 0.9941
+[2026-02-25 00:35:31] [INFO] [DEF]: Val Loss: 29.2937
+[2026-02-25 00:35:31] [INFO] [DEF]: Val Acc: 0.7411
+[2026-02-25 00:35:32] [INFO] [DEF]: Epoch [73/100]
+[2026-02-25 00:35:32] [INFO] [DEF]: Train Loss: 1.3207
+[2026-02-25 00:35:32] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:35:32] [INFO] [DEF]: Val Loss: 4.6596
+[2026-02-25 00:35:32] [INFO] [DEF]: Val Acc: 0.9348
+[2026-02-25 00:35:33] [INFO] [DEF]: Epoch [74/100]
+[2026-02-25 00:35:33] [INFO] [DEF]: Train Loss: 0.7480
+[2026-02-25 00:35:33] [INFO] [DEF]: Train Acc: 0.9965
+[2026-02-25 00:35:33] [INFO] [DEF]: Val Loss: 4.8236
+[2026-02-25 00:35:33] [INFO] [DEF]: Val Acc: 0.9387
+[2026-02-25 00:35:34] [INFO] [DEF]: Epoch [75/100]
+[2026-02-25 00:35:34] [INFO] [DEF]: Train Loss: 0.9480
+[2026-02-25 00:35:34] [INFO] [DEF]: Train Acc: 0.9947
+[2026-02-25 00:35:34] [INFO] [DEF]: Val Loss: 25.6425
+[2026-02-25 00:35:34] [INFO] [DEF]: Val Acc: 0.7411
+[2026-02-25 00:35:35] [INFO] [DEF]: Epoch [76/100]
+[2026-02-25 00:35:35] [INFO] [DEF]: Train Loss: 2.1996
+[2026-02-25 00:35:35] [INFO] [DEF]: Train Acc: 0.9899
+[2026-02-25 00:35:35] [INFO] [DEF]: Val Loss: 2.9435
+[2026-02-25 00:35:35] [INFO] [DEF]: Val Acc: 0.9328
+[2026-02-25 00:35:36] [INFO] [DEF]: Epoch [77/100]
+[2026-02-25 00:35:36] [INFO] [DEF]: Train Loss: 1.6378
+[2026-02-25 00:35:36] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:35:36] [INFO] [DEF]: Val Loss: 34.3294
+[2026-02-25 00:35:36] [INFO] [DEF]: Val Acc: 0.7036
+[2026-02-25 00:35:37] [INFO] [DEF]: Epoch [78/100]
+[2026-02-25 00:35:37] [INFO] [DEF]: Train Loss: 3.7716
+[2026-02-25 00:35:37] [INFO] [DEF]: Train Acc: 0.9800
+[2026-02-25 00:35:37] [INFO] [DEF]: Val Loss: 53.6647
+[2026-02-25 00:35:37] [INFO] [DEF]: Val Acc: 0.5474
+[2026-02-25 00:35:37] [INFO] [DEF]: Epoch [79/100]
+[2026-02-25 00:35:37] [INFO] [DEF]: Train Loss: 2.1387
+[2026-02-25 00:35:37] [INFO] [DEF]: Train Acc: 0.9870
+[2026-02-25 00:35:37] [INFO] [DEF]: Val Loss: 32.2295
+[2026-02-25 00:35:37] [INFO] [DEF]: Val Acc: 0.6206
+[2026-02-25 00:35:38] [INFO] [DEF]: Epoch [80/100]
+[2026-02-25 00:35:38] [INFO] [DEF]: Train Loss: 1.6801
+[2026-02-25 00:35:38] [INFO] [DEF]: Train Acc: 0.9912
+[2026-02-25 00:35:38] [INFO] [DEF]: Val Loss: 5.6587
+[2026-02-25 00:35:38] [INFO] [DEF]: Val Acc: 0.9209
+[2026-02-25 00:35:39] [INFO] [DEF]: Epoch [81/100]
+[2026-02-25 00:35:39] [INFO] [DEF]: Train Loss: 2.1780
+[2026-02-25 00:35:39] [INFO] [DEF]: Train Acc: 0.9890
+[2026-02-25 00:35:39] [INFO] [DEF]: Val Loss: 10.3752
+[2026-02-25 00:35:39] [INFO] [DEF]: Val Acc: 0.8419
+[2026-02-25 00:35:40] [INFO] [DEF]: Epoch [82/100]
+[2026-02-25 00:35:40] [INFO] [DEF]: Train Loss: 2.1106
+[2026-02-25 00:35:40] [INFO] [DEF]: Train Acc: 0.9879
+[2026-02-25 00:35:40] [INFO] [DEF]: Val Loss: 13.1543
+[2026-02-25 00:35:40] [INFO] [DEF]: Val Acc: 0.8419
+[2026-02-25 00:35:41] [INFO] [DEF]: Epoch [83/100]
+[2026-02-25 00:35:41] [INFO] [DEF]: Train Loss: 0.8389
+[2026-02-25 00:35:41] [INFO] [DEF]: Train Acc: 0.9956
+[2026-02-25 00:35:41] [INFO] [DEF]: Val Loss: 5.2962
+[2026-02-25 00:35:41] [INFO] [DEF]: Val Acc: 0.9427
+[2026-02-25 00:35:42] [INFO] [DEF]: Epoch [84/100]
+[2026-02-25 00:35:42] [INFO] [DEF]: Train Loss: 0.3771
+[2026-02-25 00:35:42] [INFO] [DEF]: Train Acc: 0.9980
+[2026-02-25 00:35:42] [INFO] [DEF]: Val Loss: 16.3744
+[2026-02-25 00:35:42] [INFO] [DEF]: Val Acc: 0.8557
+[2026-02-25 00:35:43] [INFO] [DEF]: Epoch [85/100]
+[2026-02-25 00:35:43] [INFO] [DEF]: Train Loss: 0.9675
+[2026-02-25 00:35:43] [INFO] [DEF]: Train Acc: 0.9938
+[2026-02-25 00:35:43] [INFO] [DEF]: Val Loss: 6.6193
+[2026-02-25 00:35:43] [INFO] [DEF]: Val Acc: 0.9111
+[2026-02-25 00:35:44] [INFO] [DEF]: Epoch [86/100]
+[2026-02-25 00:35:44] [INFO] [DEF]: Train Loss: 0.9672
+[2026-02-25 00:35:44] [INFO] [DEF]: Train Acc: 0.9954
+[2026-02-25 00:35:44] [INFO] [DEF]: Val Loss: 5.1923
+[2026-02-25 00:35:44] [INFO] [DEF]: Val Acc: 0.9407
+[2026-02-25 00:35:45] [INFO] [DEF]: Epoch [87/100]
+[2026-02-25 00:35:45] [INFO] [DEF]: Train Loss: 1.3676
+[2026-02-25 00:35:45] [INFO] [DEF]: Train Acc: 0.9919
+[2026-02-25 00:35:45] [INFO] [DEF]: Val Loss: 41.9234
+[2026-02-25 00:35:45] [INFO] [DEF]: Val Acc: 0.6798
+[2026-02-25 00:35:46] [INFO] [DEF]: Epoch [88/100]
+[2026-02-25 00:35:46] [INFO] [DEF]: Train Loss: 1.3944
+[2026-02-25 00:35:46] [INFO] [DEF]: Train Acc: 0.9930
+[2026-02-25 00:35:46] [INFO] [DEF]: Val Loss: 5.0303
+[2026-02-25 00:35:46] [INFO] [DEF]: Val Acc: 0.9506
+[2026-02-25 00:35:46] [INFO] [DEF]: Epoch [89/100]
+[2026-02-25 00:35:46] [INFO] [DEF]: Train Loss: 0.5131
+[2026-02-25 00:35:46] [INFO] [DEF]: Train Acc: 0.9971
+[2026-02-25 00:35:46] [INFO] [DEF]: Val Loss: 17.0520
+[2026-02-25 00:35:46] [INFO] [DEF]: Val Acc: 0.8419
+[2026-02-25 00:35:47] [INFO] [DEF]: Epoch [90/100]
+[2026-02-25 00:35:47] [INFO] [DEF]: Train Loss: 1.7405
+[2026-02-25 00:35:47] [INFO] [DEF]: Train Acc: 0.9890
+[2026-02-25 00:35:47] [INFO] [DEF]: Val Loss: 33.1813
+[2026-02-25 00:35:47] [INFO] [DEF]: Val Acc: 0.6779
+[2026-02-25 00:35:48] [INFO] [DEF]: Epoch [91/100]
+[2026-02-25 00:35:48] [INFO] [DEF]: Train Loss: 1.7115
+[2026-02-25 00:35:48] [INFO] [DEF]: Train Acc: 0.9901
+[2026-02-25 00:35:48] [INFO] [DEF]: Val Loss: 39.1542
+[2026-02-25 00:35:48] [INFO] [DEF]: Val Acc: 0.6897
+[2026-02-25 00:35:49] [INFO] [DEF]: Epoch [92/100]
+[2026-02-25 00:35:49] [INFO] [DEF]: Train Loss: 1.5680
+[2026-02-25 00:35:49] [INFO] [DEF]: Train Acc: 0.9921
+[2026-02-25 00:35:49] [INFO] [DEF]: Val Loss: 7.7361
+[2026-02-25 00:35:49] [INFO] [DEF]: Val Acc: 0.8893
+[2026-02-25 00:35:50] [INFO] [DEF]: Epoch [93/100]
+[2026-02-25 00:35:50] [INFO] [DEF]: Train Loss: 1.9495
+[2026-02-25 00:35:50] [INFO] [DEF]: Train Acc: 0.9896
+[2026-02-25 00:35:50] [INFO] [DEF]: Val Loss: 5.9093
+[2026-02-25 00:35:50] [INFO] [DEF]: Val Acc: 0.8834
+[2026-02-25 00:35:51] [INFO] [DEF]: Epoch [94/100]
+[2026-02-25 00:35:51] [INFO] [DEF]: Train Loss: 0.9117
+[2026-02-25 00:35:51] [INFO] [DEF]: Train Acc: 0.9945
+[2026-02-25 00:35:51] [INFO] [DEF]: Val Loss: 5.8321
+[2026-02-25 00:35:51] [INFO] [DEF]: Val Acc: 0.9407
+[2026-02-25 00:35:52] [INFO] [DEF]: Epoch [95/100]
+[2026-02-25 00:35:52] [INFO] [DEF]: Train Loss: 0.8579
+[2026-02-25 00:35:52] [INFO] [DEF]: Train Acc: 0.9947
+[2026-02-25 00:35:52] [INFO] [DEF]: Val Loss: 5.4906
+[2026-02-25 00:35:52] [INFO] [DEF]: Val Acc: 0.9506
+[2026-02-25 00:35:53] [INFO] [DEF]: Epoch [96/100]
+[2026-02-25 00:35:53] [INFO] [DEF]: Train Loss: 1.1955
+[2026-02-25 00:35:53] [INFO] [DEF]: Train Acc: 0.9958
+[2026-02-25 00:35:53] [INFO] [DEF]: Val Loss: 57.9587
+[2026-02-25 00:35:53] [INFO] [DEF]: Val Acc: 0.6324
+[2026-02-25 00:35:54] [INFO] [DEF]: Epoch [97/100]
+[2026-02-25 00:35:54] [INFO] [DEF]: Train Loss: 1.1997
+[2026-02-25 00:35:54] [INFO] [DEF]: Train Acc: 0.9932
+[2026-02-25 00:35:54] [INFO] [DEF]: Val Loss: 7.2754
+[2026-02-25 00:35:54] [INFO] [DEF]: Val Acc: 0.9130
+[2026-02-25 00:35:55] [INFO] [DEF]: Epoch [98/100]
+[2026-02-25 00:35:55] [INFO] [DEF]: Train Loss: 0.5479
+[2026-02-25 00:35:55] [INFO] [DEF]: Train Acc: 0.9969
+[2026-02-25 00:35:55] [INFO] [DEF]: Val Loss: 7.4879
+[2026-02-25 00:35:55] [INFO] [DEF]: Val Acc: 0.9348
+[2026-02-25 00:35:56] [INFO] [DEF]: Epoch [99/100]
+[2026-02-25 00:35:56] [INFO] [DEF]: Train Loss: 0.5753
+[2026-02-25 00:35:56] [INFO] [DEF]: Train Acc: 0.9974
+[2026-02-25 00:35:56] [INFO] [DEF]: Val Loss: 6.3272
+[2026-02-25 00:35:56] [INFO] [DEF]: Val Acc: 0.9368
+[2026-02-25 00:35:57] [INFO] [DEF]: Epoch [100/100]
+[2026-02-25 00:35:57] [INFO] [DEF]: Train Loss: 1.0648
+[2026-02-25 00:35:57] [INFO] [DEF]: Train Acc: 0.9949
+[2026-02-25 00:35:57] [INFO] [DEF]: Val Loss: 26.2820
+[2026-02-25 00:35:57] [INFO] [DEF]: Val Acc: 0.7273
+[2026-02-25 00:35:57] [INFO] [DEF]: Training Complete.
+[2026-02-25 00:35:57] [INFO] [DEF]: Best Val Accuracy: 0.9545454545454546
+[2026-02-25 00:35:57] [INFO] [DEF]: Test Accuracy: 0.9503105590062112
+[2026-02-25 00:35:57] [INFO] [FIN]: Execution Complete.
+[2026-02-25 00:35:57] [INFO] [MET]: END Session 10
+[2026-02-25 00:38:06] [INFO] [MET]: START Session 11
+[2026-02-25 00:38:06] [INFO] [DEF]: ============================================================
+[2026-02-25 00:38:06] [INFO] [DEF]: Loading dataset...
+[2026-02-25 00:38:06] [INFO] [MET]: {'window_size': 32, 'stride': 16, 'correlation_threshold': 0.25, 'doppler_bins': 512, 'max_lag': 512, 'test_size': 0.1, 'val_size': 0.1, 'random_seed': 0, 'dataset_name': 'radar_windows_corr_stride', 'file_name': 'dataset', 'file_path': 'D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB512.npz', 'timestamp': '2026-02-25 00:37:19', 'size': '0.5766 GB'}
+[2026-02-25 00:38:06] [INFO] [DEF]: ============================================================
+[2026-02-25 00:38:09] [INFO] [MET]: Train: (8931, 1, 32, 512)
+[2026-02-25 00:38:09] [INFO] [MET]: Val  : (995, 1, 32, 512)
+[2026-02-25 00:38:09] [INFO] [MET]: Test : (1272, 1, 32, 512)
+[2026-02-25 00:38:09] [INFO] [MET]: Num Classes: 4
+[2026-02-25 00:38:09] [INFO] [DEF]: ============================================================
+[2026-02-25 00:38:09] [INFO] [BEG]: Starting Training...
+[2026-02-25 00:38:13] [INFO] [DEF]: Epoch [1/100]
+[2026-02-25 00:38:13] [INFO] [DEF]: Train Loss: 147.9454
+[2026-02-25 00:38:13] [INFO] [DEF]: Train Acc: 0.6182
+[2026-02-25 00:38:13] [INFO] [DEF]: Val Loss: 8.5446
+[2026-02-25 00:38:13] [INFO] [DEF]: Val Acc: 0.8040
+[2026-02-25 00:38:16] [INFO] [DEF]: Epoch [2/100]
+[2026-02-25 00:38:16] [INFO] [DEF]: Train Loss: 86.0636
+[2026-02-25 00:38:16] [INFO] [DEF]: Train Acc: 0.7343
+[2026-02-25 00:38:16] [INFO] [DEF]: Val Loss: 8.3643
+[2026-02-25 00:38:16] [INFO] [DEF]: Val Acc: 0.8040
+[2026-02-25 00:38:19] [INFO] [DEF]: Epoch [3/100]
+[2026-02-25 00:38:19] [INFO] [DEF]: Train Loss: 67.0399
+[2026-02-25 00:38:19] [INFO] [DEF]: Train Acc: 0.7967
+[2026-02-25 00:38:19] [INFO] [DEF]: Val Loss: 7.2842
+[2026-02-25 00:38:19] [INFO] [DEF]: Val Acc: 0.8744
+[2026-02-25 00:38:22] [INFO] [DEF]: Epoch [4/100]
+[2026-02-25 00:38:22] [INFO] [DEF]: Train Loss: 58.8550
+[2026-02-25 00:38:22] [INFO] [DEF]: Train Acc: 0.8240
+[2026-02-25 00:38:22] [INFO] [DEF]: Val Loss: 30.6902
+[2026-02-25 00:38:22] [INFO] [DEF]: Val Acc: 0.5307
+[2026-02-25 00:38:25] [INFO] [DEF]: Epoch [5/100]
+[2026-02-25 00:38:25] [INFO] [DEF]: Train Loss: 50.6598
+[2026-02-25 00:38:25] [INFO] [DEF]: Train Acc: 0.8516
+[2026-02-25 00:38:25] [INFO] [DEF]: Val Loss: 23.8047
+[2026-02-25 00:38:25] [INFO] [DEF]: Val Acc: 0.6211
+[2026-02-25 00:38:28] [INFO] [DEF]: Epoch [6/100]
+[2026-02-25 00:38:28] [INFO] [DEF]: Train Loss: 47.6121
+[2026-02-25 00:38:28] [INFO] [DEF]: Train Acc: 0.8633
+[2026-02-25 00:38:28] [INFO] [DEF]: Val Loss: 12.5896
+[2026-02-25 00:38:28] [INFO] [DEF]: Val Acc: 0.7980
+[2026-02-25 00:38:31] [INFO] [DEF]: Epoch [7/100]
+[2026-02-25 00:38:31] [INFO] [DEF]: Train Loss: 44.2742
+[2026-02-25 00:38:31] [INFO] [DEF]: Train Acc: 0.8717
+[2026-02-25 00:38:31] [INFO] [DEF]: Val Loss: 16.4063
+[2026-02-25 00:38:31] [INFO] [DEF]: Val Acc: 0.6995
+[2026-02-25 00:38:34] [INFO] [DEF]: Epoch [8/100]
+[2026-02-25 00:38:34] [INFO] [DEF]: Train Loss: 39.0984
+[2026-02-25 00:38:34] [INFO] [DEF]: Train Acc: 0.8813
+[2026-02-25 00:38:34] [INFO] [DEF]: Val Loss: 11.9192
+[2026-02-25 00:38:34] [INFO] [DEF]: Val Acc: 0.7638
+[2026-02-25 00:38:36] [INFO] [DEF]: Epoch [9/100]
+[2026-02-25 00:38:36] [INFO] [DEF]: Train Loss: 37.7229
+[2026-02-25 00:38:36] [INFO] [DEF]: Train Acc: 0.8911
+[2026-02-25 00:38:36] [INFO] [DEF]: Val Loss: 33.7395
+[2026-02-25 00:38:36] [INFO] [DEF]: Val Acc: 0.5759
+[2026-02-25 00:38:39] [INFO] [DEF]: Epoch [10/100]
+[2026-02-25 00:38:39] [INFO] [DEF]: Train Loss: 34.2664
+[2026-02-25 00:38:39] [INFO] [DEF]: Train Acc: 0.8978
+[2026-02-25 00:38:39] [INFO] [DEF]: Val Loss: 44.9525
+[2026-02-25 00:38:39] [INFO] [DEF]: Val Acc: 0.5266
+[2026-02-25 00:38:43] [INFO] [DEF]: Epoch [11/100]
+[2026-02-25 00:38:43] [INFO] [DEF]: Train Loss: 32.4185
+[2026-02-25 00:38:43] [INFO] [DEF]: Train Acc: 0.9019
+[2026-02-25 00:38:43] [INFO] [DEF]: Val Loss: 14.4742
+[2026-02-25 00:38:43] [INFO] [DEF]: Val Acc: 0.7960
+[2026-02-25 00:38:46] [INFO] [DEF]: Epoch [12/100]
+[2026-02-25 00:38:46] [INFO] [DEF]: Train Loss: 29.4607
+[2026-02-25 00:38:46] [INFO] [DEF]: Train Acc: 0.9159
+[2026-02-25 00:38:46] [INFO] [DEF]: Val Loss: 61.2184
+[2026-02-25 00:38:46] [INFO] [DEF]: Val Acc: 0.7980
+[2026-02-25 00:38:49] [INFO] [DEF]: Epoch [13/100]
+[2026-02-25 00:38:49] [INFO] [DEF]: Train Loss: 29.9571
+[2026-02-25 00:38:49] [INFO] [DEF]: Train Acc: 0.9123
+[2026-02-25 00:38:49] [INFO] [DEF]: Val Loss: 28.2662
+[2026-02-25 00:38:49] [INFO] [DEF]: Val Acc: 0.8553
+[2026-02-25 00:38:52] [INFO] [DEF]: Epoch [14/100]
+[2026-02-25 00:38:52] [INFO] [DEF]: Train Loss: 28.8206
+[2026-02-25 00:38:52] [INFO] [DEF]: Train Acc: 0.9182
+[2026-02-25 00:38:52] [INFO] [DEF]: Val Loss: 49.8269
+[2026-02-25 00:38:52] [INFO] [DEF]: Val Acc: 0.7166
+[2026-02-25 00:38:55] [INFO] [DEF]: Epoch [15/100]
+[2026-02-25 00:38:55] [INFO] [DEF]: Train Loss: 26.8143
+[2026-02-25 00:38:55] [INFO] [DEF]: Train Acc: 0.9214
+[2026-02-25 00:38:55] [INFO] [DEF]: Val Loss: 21.2666
+[2026-02-25 00:38:55] [INFO] [DEF]: Val Acc: 0.7327
+[2026-02-25 00:38:59] [INFO] [DEF]: Epoch [16/100]
+[2026-02-25 00:38:59] [INFO] [DEF]: Train Loss: 26.5121
+[2026-02-25 00:38:59] [INFO] [DEF]: Train Acc: 0.9205
+[2026-02-25 00:38:59] [INFO] [DEF]: Val Loss: 12.0335
+[2026-02-25 00:38:59] [INFO] [DEF]: Val Acc: 0.8171
+[2026-02-25 00:39:02] [INFO] [DEF]: Epoch [17/100]
+[2026-02-25 00:39:02] [INFO] [DEF]: Train Loss: 22.7914
+[2026-02-25 00:39:02] [INFO] [DEF]: Train Acc: 0.9342
+[2026-02-25 00:39:02] [INFO] [DEF]: Val Loss: 11.7517
+[2026-02-25 00:39:02] [INFO] [DEF]: Val Acc: 0.8010
+[2026-02-25 00:39:06] [INFO] [DEF]: Epoch [18/100]
+[2026-02-25 00:39:06] [INFO] [DEF]: Train Loss: 21.8463
+[2026-02-25 00:39:06] [INFO] [DEF]: Train Acc: 0.9342
+[2026-02-25 00:39:06] [INFO] [DEF]: Val Loss: 57.7249
+[2026-02-25 00:39:06] [INFO] [DEF]: Val Acc: 0.7739
+[2026-02-25 00:39:10] [INFO] [DEF]: Epoch [19/100]
+[2026-02-25 00:39:10] [INFO] [DEF]: Train Loss: 23.1339
+[2026-02-25 00:39:10] [INFO] [DEF]: Train Acc: 0.9304
+[2026-02-25 00:39:10] [INFO] [DEF]: Val Loss: 5.3740
+[2026-02-25 00:39:10] [INFO] [DEF]: Val Acc: 0.9116
+[2026-02-25 00:39:13] [INFO] [DEF]: Epoch [20/100]
+[2026-02-25 00:39:13] [INFO] [DEF]: Train Loss: 20.6856
+[2026-02-25 00:39:13] [INFO] [DEF]: Train Acc: 0.9399
+[2026-02-25 00:39:13] [INFO] [DEF]: Val Loss: 19.3423
+[2026-02-25 00:39:13] [INFO] [DEF]: Val Acc: 0.7548
+[2026-02-25 00:39:17] [INFO] [DEF]: Epoch [21/100]
+[2026-02-25 00:39:17] [INFO] [DEF]: Train Loss: 21.8373
+[2026-02-25 00:39:17] [INFO] [DEF]: Train Acc: 0.9380
+[2026-02-25 00:39:17] [INFO] [DEF]: Val Loss: 12.3556
+[2026-02-25 00:39:17] [INFO] [DEF]: Val Acc: 0.8884
+[2026-02-25 00:39:21] [INFO] [DEF]: Epoch [22/100]
+[2026-02-25 00:39:21] [INFO] [DEF]: Train Loss: 18.7064
+[2026-02-25 00:39:21] [INFO] [DEF]: Train Acc: 0.9457
+[2026-02-25 00:39:21] [INFO] [DEF]: Val Loss: 6.6382
+[2026-02-25 00:39:21] [INFO] [DEF]: Val Acc: 0.9578
+[2026-02-25 00:39:25] [INFO] [DEF]: Epoch [23/100]
+[2026-02-25 00:39:25] [INFO] [DEF]: Train Loss: 19.7793
+[2026-02-25 00:39:25] [INFO] [DEF]: Train Acc: 0.9421
+[2026-02-25 00:39:25] [INFO] [DEF]: Val Loss: 5.8128
+[2026-02-25 00:39:25] [INFO] [DEF]: Val Acc: 0.9447
+[2026-02-25 00:39:29] [INFO] [DEF]: Epoch [24/100]
+[2026-02-25 00:39:29] [INFO] [DEF]: Train Loss: 17.4497
+[2026-02-25 00:39:29] [INFO] [DEF]: Train Acc: 0.9496
+[2026-02-25 00:39:29] [INFO] [DEF]: Val Loss: 15.6541
+[2026-02-25 00:39:29] [INFO] [DEF]: Val Acc: 0.9055
+[2026-02-25 00:39:33] [INFO] [DEF]: Epoch [25/100]
+[2026-02-25 00:39:33] [INFO] [DEF]: Train Loss: 14.9708
+[2026-02-25 00:39:33] [INFO] [DEF]: Train Acc: 0.9549
+[2026-02-25 00:39:33] [INFO] [DEF]: Val Loss: 18.1590
+[2026-02-25 00:39:33] [INFO] [DEF]: Val Acc: 0.7709
+[2026-02-25 00:39:37] [INFO] [DEF]: Epoch [26/100]
+[2026-02-25 00:39:37] [INFO] [DEF]: Train Loss: 16.3131
+[2026-02-25 00:39:37] [INFO] [DEF]: Train Acc: 0.9501
+[2026-02-25 00:39:37] [INFO] [DEF]: Val Loss: 25.0884
+[2026-02-25 00:39:37] [INFO] [DEF]: Val Acc: 0.7698
+[2026-02-25 00:39:41] [INFO] [DEF]: Epoch [27/100]
+[2026-02-25 00:39:41] [INFO] [DEF]: Train Loss: 15.2576
+[2026-02-25 00:39:41] [INFO] [DEF]: Train Acc: 0.9545
+[2026-02-25 00:39:41] [INFO] [DEF]: Val Loss: 22.6982
+[2026-02-25 00:39:41] [INFO] [DEF]: Val Acc: 0.8955
+[2026-02-25 00:39:45] [INFO] [DEF]: Epoch [28/100]
+[2026-02-25 00:39:45] [INFO] [DEF]: Train Loss: 15.7261
+[2026-02-25 00:39:45] [INFO] [DEF]: Train Acc: 0.9543
+[2026-02-25 00:39:45] [INFO] [DEF]: Val Loss: 4.2982
+[2026-02-25 00:39:45] [INFO] [DEF]: Val Acc: 0.9548
+[2026-02-25 00:39:49] [INFO] [DEF]: Epoch [29/100]
+[2026-02-25 00:39:49] [INFO] [DEF]: Train Loss: 14.7875
+[2026-02-25 00:39:49] [INFO] [DEF]: Train Acc: 0.9561
+[2026-02-25 00:39:49] [INFO] [DEF]: Val Loss: 16.5069
+[2026-02-25 00:39:49] [INFO] [DEF]: Val Acc: 0.8211
+[2026-02-25 00:39:53] [INFO] [DEF]: Epoch [30/100]
+[2026-02-25 00:39:53] [INFO] [DEF]: Train Loss: 15.7845
+[2026-02-25 00:39:53] [INFO] [DEF]: Train Acc: 0.9542
+[2026-02-25 00:39:53] [INFO] [DEF]: Val Loss: 13.8751
+[2026-02-25 00:39:53] [INFO] [DEF]: Val Acc: 0.8271
+[2026-02-25 00:39:57] [INFO] [DEF]: Epoch [31/100]
+[2026-02-25 00:39:57] [INFO] [DEF]: Train Loss: 12.5292
+[2026-02-25 00:39:57] [INFO] [DEF]: Train Acc: 0.9641
+[2026-02-25 00:39:57] [INFO] [DEF]: Val Loss: 21.9982
+[2026-02-25 00:39:57] [INFO] [DEF]: Val Acc: 0.7869
+[2026-02-25 00:40:02] [INFO] [DEF]: Epoch [32/100]
+[2026-02-25 00:40:02] [INFO] [DEF]: Train Loss: 10.8156
+[2026-02-25 00:40:02] [INFO] [DEF]: Train Acc: 0.9678
+[2026-02-25 00:40:02] [INFO] [DEF]: Val Loss: 50.3084
+[2026-02-25 00:40:02] [INFO] [DEF]: Val Acc: 0.7930
+[2026-02-25 00:40:06] [INFO] [DEF]: Epoch [33/100]
+[2026-02-25 00:40:06] [INFO] [DEF]: Train Loss: 12.9804
+[2026-02-25 00:40:06] [INFO] [DEF]: Train Acc: 0.9633
+[2026-02-25 00:40:06] [INFO] [DEF]: Val Loss: 12.2675
+[2026-02-25 00:40:06] [INFO] [DEF]: Val Acc: 0.9367
+[2026-02-25 00:40:10] [INFO] [DEF]: Epoch [34/100]
+[2026-02-25 00:40:10] [INFO] [DEF]: Train Loss: 13.4301
+[2026-02-25 00:40:10] [INFO] [DEF]: Train Acc: 0.9611
+[2026-02-25 00:40:10] [INFO] [DEF]: Val Loss: 7.1396
+[2026-02-25 00:40:10] [INFO] [DEF]: Val Acc: 0.9357
+[2026-02-25 00:40:15] [INFO] [DEF]: Epoch [35/100]
+[2026-02-25 00:40:15] [INFO] [DEF]: Train Loss: 14.3392
+[2026-02-25 00:40:15] [INFO] [DEF]: Train Acc: 0.9592
+[2026-02-25 00:40:15] [INFO] [DEF]: Val Loss: 16.9907
+[2026-02-25 00:40:15] [INFO] [DEF]: Val Acc: 0.8543
+[2026-02-25 00:40:19] [INFO] [DEF]: Epoch [36/100]
+[2026-02-25 00:40:19] [INFO] [DEF]: Train Loss: 12.9099
+[2026-02-25 00:40:19] [INFO] [DEF]: Train Acc: 0.9636
+[2026-02-25 00:40:19] [INFO] [DEF]: Val Loss: 13.0665
+[2026-02-25 00:40:19] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:40:23] [INFO] [DEF]: Epoch [37/100]
+[2026-02-25 00:40:23] [INFO] [DEF]: Train Loss: 10.1592
+[2026-02-25 00:40:23] [INFO] [DEF]: Train Acc: 0.9703
+[2026-02-25 00:40:23] [INFO] [DEF]: Val Loss: 32.8438
+[2026-02-25 00:40:23] [INFO] [DEF]: Val Acc: 0.7558
+[2026-02-25 00:40:28] [INFO] [DEF]: Epoch [38/100]
+[2026-02-25 00:40:28] [INFO] [DEF]: Train Loss: 10.4643
+[2026-02-25 00:40:28] [INFO] [DEF]: Train Acc: 0.9711
+[2026-02-25 00:40:28] [INFO] [DEF]: Val Loss: 9.7271
+[2026-02-25 00:40:28] [INFO] [DEF]: Val Acc: 0.8874
+[2026-02-25 00:40:32] [INFO] [DEF]: Epoch [39/100]
+[2026-02-25 00:40:32] [INFO] [DEF]: Train Loss: 11.9481
+[2026-02-25 00:40:32] [INFO] [DEF]: Train Acc: 0.9650
+[2026-02-25 00:40:32] [INFO] [DEF]: Val Loss: 17.6461
+[2026-02-25 00:40:32] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:40:36] [INFO] [DEF]: Epoch [40/100]
+[2026-02-25 00:40:36] [INFO] [DEF]: Train Loss: 13.0796
+[2026-02-25 00:40:36] [INFO] [DEF]: Train Acc: 0.9629
+[2026-02-25 00:40:36] [INFO] [DEF]: Val Loss: 62.6875
+[2026-02-25 00:40:36] [INFO] [DEF]: Val Acc: 0.6322
+[2026-02-25 00:40:40] [INFO] [DEF]: Epoch [41/100]
+[2026-02-25 00:40:40] [INFO] [DEF]: Train Loss: 12.2307
+[2026-02-25 00:40:40] [INFO] [DEF]: Train Acc: 0.9641
+[2026-02-25 00:40:40] [INFO] [DEF]: Val Loss: 10.6915
+[2026-02-25 00:40:40] [INFO] [DEF]: Val Acc: 0.8985
+[2026-02-25 00:40:45] [INFO] [DEF]: Epoch [42/100]
+[2026-02-25 00:40:45] [INFO] [DEF]: Train Loss: 11.0215
+[2026-02-25 00:40:45] [INFO] [DEF]: Train Acc: 0.9683
+[2026-02-25 00:40:45] [INFO] [DEF]: Val Loss: 9.4897
+[2026-02-25 00:40:45] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:40:49] [INFO] [DEF]: Epoch [43/100]
+[2026-02-25 00:40:49] [INFO] [DEF]: Train Loss: 10.7750
+[2026-02-25 00:40:49] [INFO] [DEF]: Train Acc: 0.9694
+[2026-02-25 00:40:49] [INFO] [DEF]: Val Loss: 19.2575
+[2026-02-25 00:40:49] [INFO] [DEF]: Val Acc: 0.8653
+[2026-02-25 00:40:53] [INFO] [DEF]: Epoch [44/100]
+[2026-02-25 00:40:53] [INFO] [DEF]: Train Loss: 10.7460
+[2026-02-25 00:40:53] [INFO] [DEF]: Train Acc: 0.9684
+[2026-02-25 00:40:53] [INFO] [DEF]: Val Loss: 26.9914
+[2026-02-25 00:40:53] [INFO] [DEF]: Val Acc: 0.8945
+[2026-02-25 00:40:58] [INFO] [DEF]: Epoch [45/100]
+[2026-02-25 00:40:58] [INFO] [DEF]: Train Loss: 10.4831
+[2026-02-25 00:40:58] [INFO] [DEF]: Train Acc: 0.9680
+[2026-02-25 00:40:58] [INFO] [DEF]: Val Loss: 23.7985
+[2026-02-25 00:40:58] [INFO] [DEF]: Val Acc: 0.8332
+[2026-02-25 00:41:02] [INFO] [DEF]: Epoch [46/100]
+[2026-02-25 00:41:02] [INFO] [DEF]: Train Loss: 11.2220
+[2026-02-25 00:41:02] [INFO] [DEF]: Train Acc: 0.9660
+[2026-02-25 00:41:02] [INFO] [DEF]: Val Loss: 22.9608
+[2026-02-25 00:41:02] [INFO] [DEF]: Val Acc: 0.9055
+[2026-02-25 00:41:06] [INFO] [DEF]: Epoch [47/100]
+[2026-02-25 00:41:06] [INFO] [DEF]: Train Loss: 11.4011
+[2026-02-25 00:41:06] [INFO] [DEF]: Train Acc: 0.9678
+[2026-02-25 00:41:06] [INFO] [DEF]: Val Loss: 36.2135
+[2026-02-25 00:41:06] [INFO] [DEF]: Val Acc: 0.7819
+[2026-02-25 00:41:10] [INFO] [DEF]: Epoch [48/100]
+[2026-02-25 00:41:10] [INFO] [DEF]: Train Loss: 10.3354
+[2026-02-25 00:41:10] [INFO] [DEF]: Train Acc: 0.9709
+[2026-02-25 00:41:10] [INFO] [DEF]: Val Loss: 29.8997
+[2026-02-25 00:41:10] [INFO] [DEF]: Val Acc: 0.7236
+[2026-02-25 00:41:14] [INFO] [DEF]: Epoch [49/100]
+[2026-02-25 00:41:14] [INFO] [DEF]: Train Loss: 8.1665
+[2026-02-25 00:41:14] [INFO] [DEF]: Train Acc: 0.9755
+[2026-02-25 00:41:14] [INFO] [DEF]: Val Loss: 49.8861
+[2026-02-25 00:41:14] [INFO] [DEF]: Val Acc: 0.7628
+[2026-02-25 00:41:18] [INFO] [DEF]: Epoch [50/100]
+[2026-02-25 00:41:18] [INFO] [DEF]: Train Loss: 7.6672
+[2026-02-25 00:41:18] [INFO] [DEF]: Train Acc: 0.9787
+[2026-02-25 00:41:18] [INFO] [DEF]: Val Loss: 9.4416
+[2026-02-25 00:41:18] [INFO] [DEF]: Val Acc: 0.9417
+[2026-02-25 00:41:22] [INFO] [DEF]: Epoch [51/100]
+[2026-02-25 00:41:22] [INFO] [DEF]: Train Loss: 10.8505
+[2026-02-25 00:41:22] [INFO] [DEF]: Train Acc: 0.9699
+[2026-02-25 00:41:22] [INFO] [DEF]: Val Loss: 19.9748
+[2026-02-25 00:41:22] [INFO] [DEF]: Val Acc: 0.8804
+[2026-02-25 00:41:25] [INFO] [DEF]: Epoch [52/100]
+[2026-02-25 00:41:25] [INFO] [DEF]: Train Loss: 8.3552
+[2026-02-25 00:41:25] [INFO] [DEF]: Train Acc: 0.9766
+[2026-02-25 00:41:25] [INFO] [DEF]: Val Loss: 9.2407
+[2026-02-25 00:41:25] [INFO] [DEF]: Val Acc: 0.9538
+[2026-02-25 00:41:30] [INFO] [DEF]: Epoch [53/100]
+[2026-02-25 00:41:30] [INFO] [DEF]: Train Loss: 6.9968
+[2026-02-25 00:41:30] [INFO] [DEF]: Train Acc: 0.9809
+[2026-02-25 00:41:30] [INFO] [DEF]: Val Loss: 16.6681
+[2026-02-25 00:41:30] [INFO] [DEF]: Val Acc: 0.8342
+[2026-02-25 00:41:34] [INFO] [DEF]: Epoch [54/100]
+[2026-02-25 00:41:34] [INFO] [DEF]: Train Loss: 7.4763
+[2026-02-25 00:41:34] [INFO] [DEF]: Train Acc: 0.9778
+[2026-02-25 00:41:34] [INFO] [DEF]: Val Loss: 7.6180
+[2026-02-25 00:41:34] [INFO] [DEF]: Val Acc: 0.9307
+[2026-02-25 00:41:38] [INFO] [DEF]: Epoch [55/100]
+[2026-02-25 00:41:38] [INFO] [DEF]: Train Loss: 6.5296
+[2026-02-25 00:41:38] [INFO] [DEF]: Train Acc: 0.9831
+[2026-02-25 00:41:38] [INFO] [DEF]: Val Loss: 17.2817
+[2026-02-25 00:41:38] [INFO] [DEF]: Val Acc: 0.8181
+[2026-02-25 00:41:42] [INFO] [DEF]: Epoch [56/100]
+[2026-02-25 00:41:42] [INFO] [DEF]: Train Loss: 7.2056
+[2026-02-25 00:41:42] [INFO] [DEF]: Train Acc: 0.9801
+[2026-02-25 00:41:42] [INFO] [DEF]: Val Loss: 41.5624
+[2026-02-25 00:41:42] [INFO] [DEF]: Val Acc: 0.7206
+[2026-02-25 00:41:46] [INFO] [DEF]: Epoch [57/100]
+[2026-02-25 00:41:46] [INFO] [DEF]: Train Loss: 8.5829
+[2026-02-25 00:41:46] [INFO] [DEF]: Train Acc: 0.9736
+[2026-02-25 00:41:46] [INFO] [DEF]: Val Loss: 10.9881
+[2026-02-25 00:41:46] [INFO] [DEF]: Val Acc: 0.8834
+[2026-02-25 00:41:50] [INFO] [DEF]: Epoch [58/100]
+[2026-02-25 00:41:50] [INFO] [DEF]: Train Loss: 9.1595
+[2026-02-25 00:41:50] [INFO] [DEF]: Train Acc: 0.9766
+[2026-02-25 00:41:50] [INFO] [DEF]: Val Loss: 14.6514
+[2026-02-25 00:41:50] [INFO] [DEF]: Val Acc: 0.7869
+[2026-02-25 00:41:54] [INFO] [DEF]: Epoch [59/100]
+[2026-02-25 00:41:54] [INFO] [DEF]: Train Loss: 8.5885
+[2026-02-25 00:41:54] [INFO] [DEF]: Train Acc: 0.9755
+[2026-02-25 00:41:54] [INFO] [DEF]: Val Loss: 12.2915
+[2026-02-25 00:41:54] [INFO] [DEF]: Val Acc: 0.8955
+[2026-02-25 00:41:58] [INFO] [DEF]: Epoch [60/100]
+[2026-02-25 00:41:58] [INFO] [DEF]: Train Loss: 8.8960
+[2026-02-25 00:41:58] [INFO] [DEF]: Train Acc: 0.9741
+[2026-02-25 00:41:58] [INFO] [DEF]: Val Loss: 54.3086
+[2026-02-25 00:41:58] [INFO] [DEF]: Val Acc: 0.6181
+[2026-02-25 00:42:03] [INFO] [DEF]: Epoch [61/100]
+[2026-02-25 00:42:03] [INFO] [DEF]: Train Loss: 7.0054
+[2026-02-25 00:42:03] [INFO] [DEF]: Train Acc: 0.9817
+[2026-02-25 00:42:03] [INFO] [DEF]: Val Loss: 44.1522
+[2026-02-25 00:42:03] [INFO] [DEF]: Val Acc: 0.7226
+[2026-02-25 00:42:08] [INFO] [DEF]: Epoch [62/100]
+[2026-02-25 00:42:08] [INFO] [DEF]: Train Loss: 6.4708
+[2026-02-25 00:42:08] [INFO] [DEF]: Train Acc: 0.9807
+[2026-02-25 00:42:08] [INFO] [DEF]: Val Loss: 68.9130
+[2026-02-25 00:42:08] [INFO] [DEF]: Val Acc: 0.7136
+[2026-02-25 00:42:12] [INFO] [DEF]: Epoch [63/100]
+[2026-02-25 00:42:12] [INFO] [DEF]: Train Loss: 6.0554
+[2026-02-25 00:42:12] [INFO] [DEF]: Train Acc: 0.9839
+[2026-02-25 00:42:12] [INFO] [DEF]: Val Loss: 23.6294
+[2026-02-25 00:42:12] [INFO] [DEF]: Val Acc: 0.8774
+[2026-02-25 00:42:17] [INFO] [DEF]: Epoch [64/100]
+[2026-02-25 00:42:17] [INFO] [DEF]: Train Loss: 7.1404
+[2026-02-25 00:42:17] [INFO] [DEF]: Train Acc: 0.9796
+[2026-02-25 00:42:17] [INFO] [DEF]: Val Loss: 24.0303
+[2026-02-25 00:42:17] [INFO] [DEF]: Val Acc: 0.8553
+[2026-02-25 00:42:22] [INFO] [DEF]: Epoch [65/100]
+[2026-02-25 00:42:22] [INFO] [DEF]: Train Loss: 7.9358
+[2026-02-25 00:42:22] [INFO] [DEF]: Train Acc: 0.9789
+[2026-02-25 00:42:22] [INFO] [DEF]: Val Loss: 29.4465
+[2026-02-25 00:42:22] [INFO] [DEF]: Val Acc: 0.8864
+[2026-02-25 00:42:26] [INFO] [DEF]: Epoch [66/100]
+[2026-02-25 00:42:26] [INFO] [DEF]: Train Loss: 6.6195
+[2026-02-25 00:42:26] [INFO] [DEF]: Train Acc: 0.9814
+[2026-02-25 00:42:26] [INFO] [DEF]: Val Loss: 10.6372
+[2026-02-25 00:42:26] [INFO] [DEF]: Val Acc: 0.9146
+[2026-02-25 00:42:31] [INFO] [DEF]: Epoch [67/100]
+[2026-02-25 00:42:31] [INFO] [DEF]: Train Loss: 6.6188
+[2026-02-25 00:42:31] [INFO] [DEF]: Train Acc: 0.9788
+[2026-02-25 00:42:31] [INFO] [DEF]: Val Loss: 7.6547
+[2026-02-25 00:42:31] [INFO] [DEF]: Val Acc: 0.9397
+[2026-02-25 00:42:36] [INFO] [DEF]: Epoch [68/100]
+[2026-02-25 00:42:36] [INFO] [DEF]: Train Loss: 5.5327
+[2026-02-25 00:42:36] [INFO] [DEF]: Train Acc: 0.9828
+[2026-02-25 00:42:36] [INFO] [DEF]: Val Loss: 46.1845
+[2026-02-25 00:42:36] [INFO] [DEF]: Val Acc: 0.8774
+[2026-02-25 00:42:41] [INFO] [DEF]: Epoch [69/100]
+[2026-02-25 00:42:41] [INFO] [DEF]: Train Loss: 6.2074
+[2026-02-25 00:42:41] [INFO] [DEF]: Train Acc: 0.9822
+[2026-02-25 00:42:41] [INFO] [DEF]: Val Loss: 87.3894
+[2026-02-25 00:42:41] [INFO] [DEF]: Val Acc: 0.7980
+[2026-02-25 00:42:45] [INFO] [DEF]: Epoch [70/100]
+[2026-02-25 00:42:45] [INFO] [DEF]: Train Loss: 6.6182
+[2026-02-25 00:42:45] [INFO] [DEF]: Train Acc: 0.9822
+[2026-02-25 00:42:45] [INFO] [DEF]: Val Loss: 30.3682
+[2026-02-25 00:42:45] [INFO] [DEF]: Val Acc: 0.8442
+[2026-02-25 00:42:50] [INFO] [DEF]: Epoch [71/100]
+[2026-02-25 00:42:50] [INFO] [DEF]: Train Loss: 7.5328
+[2026-02-25 00:42:50] [INFO] [DEF]: Train Acc: 0.9793
+[2026-02-25 00:42:50] [INFO] [DEF]: Val Loss: 84.8820
+[2026-02-25 00:42:50] [INFO] [DEF]: Val Acc: 0.5095
+[2026-02-25 00:42:55] [INFO] [DEF]: Epoch [72/100]
+[2026-02-25 00:42:55] [INFO] [DEF]: Train Loss: 6.3482
+[2026-02-25 00:42:55] [INFO] [DEF]: Train Acc: 0.9797
+[2026-02-25 00:42:55] [INFO] [DEF]: Val Loss: 10.1610
+[2026-02-25 00:42:55] [INFO] [DEF]: Val Acc: 0.9528
+[2026-02-25 00:42:59] [INFO] [DEF]: Epoch [73/100]
+[2026-02-25 00:42:59] [INFO] [DEF]: Train Loss: 4.8259
+[2026-02-25 00:42:59] [INFO] [DEF]: Train Acc: 0.9858
+[2026-02-25 00:42:59] [INFO] [DEF]: Val Loss: 26.9340
+[2026-02-25 00:42:59] [INFO] [DEF]: Val Acc: 0.8884
+[2026-02-25 00:43:04] [INFO] [DEF]: Epoch [74/100]
+[2026-02-25 00:43:04] [INFO] [DEF]: Train Loss: 7.5961
+[2026-02-25 00:43:04] [INFO] [DEF]: Train Acc: 0.9797
+[2026-02-25 00:43:04] [INFO] [DEF]: Val Loss: 18.7678
+[2026-02-25 00:43:04] [INFO] [DEF]: Val Acc: 0.9317
+[2026-02-25 00:43:08] [INFO] [DEF]: Epoch [75/100]
+[2026-02-25 00:43:08] [INFO] [DEF]: Train Loss: 6.2084
+[2026-02-25 00:43:08] [INFO] [DEF]: Train Acc: 0.9826
+[2026-02-25 00:43:08] [INFO] [DEF]: Val Loss: 12.3529
+[2026-02-25 00:43:08] [INFO] [DEF]: Val Acc: 0.9367
+[2026-02-25 00:43:13] [INFO] [DEF]: Epoch [76/100]
+[2026-02-25 00:43:13] [INFO] [DEF]: Train Loss: 6.3451
+[2026-02-25 00:43:13] [INFO] [DEF]: Train Acc: 0.9830
+[2026-02-25 00:43:13] [INFO] [DEF]: Val Loss: 11.8416
+[2026-02-25 00:43:13] [INFO] [DEF]: Val Acc: 0.9538
+[2026-02-25 00:43:18] [INFO] [DEF]: Epoch [77/100]
+[2026-02-25 00:43:18] [INFO] [DEF]: Train Loss: 4.4691
+[2026-02-25 00:43:18] [INFO] [DEF]: Train Acc: 0.9878
+[2026-02-25 00:43:18] [INFO] [DEF]: Val Loss: 64.3576
+[2026-02-25 00:43:18] [INFO] [DEF]: Val Acc: 0.8472
+[2026-02-25 00:43:22] [INFO] [DEF]: Epoch [78/100]
+[2026-02-25 00:43:22] [INFO] [DEF]: Train Loss: 4.7076
+[2026-02-25 00:43:22] [INFO] [DEF]: Train Acc: 0.9886
+[2026-02-25 00:43:22] [INFO] [DEF]: Val Loss: 64.2017
+[2026-02-25 00:43:22] [INFO] [DEF]: Val Acc: 0.7518
+[2026-02-25 00:43:27] [INFO] [DEF]: Epoch [79/100]
+[2026-02-25 00:43:27] [INFO] [DEF]: Train Loss: 4.7565
+[2026-02-25 00:43:27] [INFO] [DEF]: Train Acc: 0.9879
+[2026-02-25 00:43:27] [INFO] [DEF]: Val Loss: 58.3456
+[2026-02-25 00:43:27] [INFO] [DEF]: Val Acc: 0.7025
+[2026-02-25 00:43:31] [INFO] [DEF]: Epoch [80/100]
+[2026-02-25 00:43:31] [INFO] [DEF]: Train Loss: 4.1672
+[2026-02-25 00:43:31] [INFO] [DEF]: Train Acc: 0.9895
+[2026-02-25 00:43:31] [INFO] [DEF]: Val Loss: 15.3270
+[2026-02-25 00:43:31] [INFO] [DEF]: Val Acc: 0.8754
+[2026-02-25 00:43:36] [INFO] [DEF]: Epoch [81/100]
+[2026-02-25 00:43:36] [INFO] [DEF]: Train Loss: 4.5418
+[2026-02-25 00:43:36] [INFO] [DEF]: Train Acc: 0.9872
+[2026-02-25 00:43:36] [INFO] [DEF]: Val Loss: 23.3450
+[2026-02-25 00:43:36] [INFO] [DEF]: Val Acc: 0.9136
+[2026-02-25 00:43:41] [INFO] [DEF]: Epoch [82/100]
+[2026-02-25 00:43:41] [INFO] [DEF]: Train Loss: 5.2710
+[2026-02-25 00:43:41] [INFO] [DEF]: Train Acc: 0.9861
+[2026-02-25 00:43:41] [INFO] [DEF]: Val Loss: 87.2530
+[2026-02-25 00:43:41] [INFO] [DEF]: Val Acc: 0.8221
+[2026-02-25 00:43:45] [INFO] [DEF]: Epoch [83/100]
+[2026-02-25 00:43:45] [INFO] [DEF]: Train Loss: 5.8047
+[2026-02-25 00:43:45] [INFO] [DEF]: Train Acc: 0.9841
+[2026-02-25 00:43:45] [INFO] [DEF]: Val Loss: 35.9222
+[2026-02-25 00:43:45] [INFO] [DEF]: Val Acc: 0.7869
+[2026-02-25 00:43:50] [INFO] [DEF]: Epoch [84/100]
+[2026-02-25 00:43:50] [INFO] [DEF]: Train Loss: 4.8306
+[2026-02-25 00:43:50] [INFO] [DEF]: Train Acc: 0.9865
+[2026-02-25 00:43:50] [INFO] [DEF]: Val Loss: 45.3387
+[2026-02-25 00:43:50] [INFO] [DEF]: Val Acc: 0.7809
+[2026-02-25 00:43:54] [INFO] [DEF]: Epoch [85/100]
+[2026-02-25 00:43:54] [INFO] [DEF]: Train Loss: 5.1756
+[2026-02-25 00:43:54] [INFO] [DEF]: Train Acc: 0.9860
+[2026-02-25 00:43:54] [INFO] [DEF]: Val Loss: 13.2298
+[2026-02-25 00:43:54] [INFO] [DEF]: Val Acc: 0.9407
+[2026-02-25 00:43:59] [INFO] [DEF]: Epoch [86/100]
+[2026-02-25 00:43:59] [INFO] [DEF]: Train Loss: 4.1919
+[2026-02-25 00:43:59] [INFO] [DEF]: Train Acc: 0.9877
+[2026-02-25 00:43:59] [INFO] [DEF]: Val Loss: 115.7586
+[2026-02-25 00:43:59] [INFO] [DEF]: Val Acc: 0.8000
+[2026-02-25 00:44:03] [INFO] [DEF]: Epoch [87/100]
+[2026-02-25 00:44:03] [INFO] [DEF]: Train Loss: 3.9191
+[2026-02-25 00:44:03] [INFO] [DEF]: Train Acc: 0.9882
+[2026-02-25 00:44:03] [INFO] [DEF]: Val Loss: 8.6318
+[2026-02-25 00:44:03] [INFO] [DEF]: Val Acc: 0.9518
+[2026-02-25 00:44:08] [INFO] [DEF]: Epoch [88/100]
+[2026-02-25 00:44:08] [INFO] [DEF]: Train Loss: 4.5209
+[2026-02-25 00:44:08] [INFO] [DEF]: Train Acc: 0.9868
+[2026-02-25 00:44:08] [INFO] [DEF]: Val Loss: 14.2393
+[2026-02-25 00:44:08] [INFO] [DEF]: Val Acc: 0.9136
+[2026-02-25 00:44:12] [INFO] [DEF]: Epoch [89/100]
+[2026-02-25 00:44:12] [INFO] [DEF]: Train Loss: 3.9128
+[2026-02-25 00:44:12] [INFO] [DEF]: Train Acc: 0.9881
+[2026-02-25 00:44:12] [INFO] [DEF]: Val Loss: 25.3381
+[2026-02-25 00:44:12] [INFO] [DEF]: Val Acc: 0.9296
+[2026-02-25 00:44:17] [INFO] [DEF]: Epoch [90/100]
+[2026-02-25 00:44:17] [INFO] [DEF]: Train Loss: 4.1185
+[2026-02-25 00:44:17] [INFO] [DEF]: Train Acc: 0.9880
+[2026-02-25 00:44:17] [INFO] [DEF]: Val Loss: 114.2330
+[2026-02-25 00:44:17] [INFO] [DEF]: Val Acc: 0.6593
+[2026-02-25 00:44:20] [INFO] [DEF]: Epoch [91/100]
+[2026-02-25 00:44:20] [INFO] [DEF]: Train Loss: 3.4187
+[2026-02-25 00:44:20] [INFO] [DEF]: Train Acc: 0.9904
+[2026-02-25 00:44:20] [INFO] [DEF]: Val Loss: 19.7213
+[2026-02-25 00:44:20] [INFO] [DEF]: Val Acc: 0.9266
+[2026-02-25 00:44:24] [INFO] [DEF]: Epoch [92/100]
+[2026-02-25 00:44:24] [INFO] [DEF]: Train Loss: 6.3488
+[2026-02-25 00:44:24] [INFO] [DEF]: Train Acc: 0.9829
+[2026-02-25 00:44:24] [INFO] [DEF]: Val Loss: 27.7114
+[2026-02-25 00:44:24] [INFO] [DEF]: Val Acc: 0.8683
+[2026-02-25 00:44:29] [INFO] [DEF]: Epoch [93/100]
+[2026-02-25 00:44:29] [INFO] [DEF]: Train Loss: 3.4787
+[2026-02-25 00:44:29] [INFO] [DEF]: Train Acc: 0.9893
+[2026-02-25 00:44:29] [INFO] [DEF]: Val Loss: 13.0267
+[2026-02-25 00:44:29] [INFO] [DEF]: Val Acc: 0.9065
+[2026-02-25 00:44:33] [INFO] [DEF]: Epoch [94/100]
+[2026-02-25 00:44:33] [INFO] [DEF]: Train Loss: 4.3184
+[2026-02-25 00:44:33] [INFO] [DEF]: Train Acc: 0.9870
+[2026-02-25 00:44:33] [INFO] [DEF]: Val Loss: 105.2573
+[2026-02-25 00:44:33] [INFO] [DEF]: Val Acc: 0.7698
+[2026-02-25 00:44:37] [INFO] [DEF]: Epoch [95/100]
+[2026-02-25 00:44:37] [INFO] [DEF]: Train Loss: 6.1528
+[2026-02-25 00:44:37] [INFO] [DEF]: Train Acc: 0.9848
+[2026-02-25 00:44:37] [INFO] [DEF]: Val Loss: 22.3771
+[2026-02-25 00:44:37] [INFO] [DEF]: Val Acc: 0.8774
+[2026-02-25 00:44:41] [INFO] [DEF]: Epoch [96/100]
+[2026-02-25 00:44:41] [INFO] [DEF]: Train Loss: 4.8688
+[2026-02-25 00:44:41] [INFO] [DEF]: Train Acc: 0.9854
+[2026-02-25 00:44:41] [INFO] [DEF]: Val Loss: 54.4503
+[2026-02-25 00:44:41] [INFO] [DEF]: Val Acc: 0.5256
+[2026-02-25 00:44:44] [INFO] [DEF]: Epoch [97/100]
+[2026-02-25 00:44:44] [INFO] [DEF]: Train Loss: 4.7772
+[2026-02-25 00:44:44] [INFO] [DEF]: Train Acc: 0.9873
+[2026-02-25 00:44:44] [INFO] [DEF]: Val Loss: 22.6008
+[2026-02-25 00:44:44] [INFO] [DEF]: Val Acc: 0.8673
+[2026-02-25 00:44:49] [INFO] [DEF]: Epoch [98/100]
+[2026-02-25 00:44:49] [INFO] [DEF]: Train Loss: 5.0669
+[2026-02-25 00:44:49] [INFO] [DEF]: Train Acc: 0.9856
+[2026-02-25 00:44:49] [INFO] [DEF]: Val Loss: 34.5371
+[2026-02-25 00:44:49] [INFO] [DEF]: Val Acc: 0.8251
+[2026-02-25 00:44:53] [INFO] [DEF]: Epoch [99/100]
+[2026-02-25 00:44:53] [INFO] [DEF]: Train Loss: 3.0328
+[2026-02-25 00:44:53] [INFO] [DEF]: Train Acc: 0.9915
+[2026-02-25 00:44:53] [INFO] [DEF]: Val Loss: 10.6340
+[2026-02-25 00:44:53] [INFO] [DEF]: Val Acc: 0.9538
+[2026-02-25 00:44:57] [INFO] [DEF]: Epoch [100/100]
+[2026-02-25 00:44:57] [INFO] [DEF]: Train Loss: 3.1441
+[2026-02-25 00:44:57] [INFO] [DEF]: Train Acc: 0.9906
+[2026-02-25 00:44:57] [INFO] [DEF]: Val Loss: 11.7371
+[2026-02-25 00:44:57] [INFO] [DEF]: Val Acc: 0.9538
+[2026-02-25 00:44:57] [INFO] [DEF]: Training Complete.
+[2026-02-25 00:44:57] [INFO] [DEF]: Best Val Accuracy: 0.9577889447236181
+[2026-02-25 00:44:57] [INFO] [DEF]: Test Accuracy: 0.9559748427672956
+[2026-02-25 00:44:57] [INFO] [FIN]: Execution Complete.
+[2026-02-25 00:44:57] [INFO] [MET]: END Session 11

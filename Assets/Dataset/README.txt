@@ -1,6 +1,6 @@
 The dataset was too large to be pushed to the repo. 
-In case there is any executable notebooks that use this dataset,
-download the .npy file from the link below and place in this directory.
+
+Download the .npy file from the link below and place in this directory.
 
 Link: https://drive.google.com/file/d/1CJyTqtCM4kOSQt2X7n2NgWCVEqou8RCB/view?usp=sharing
 

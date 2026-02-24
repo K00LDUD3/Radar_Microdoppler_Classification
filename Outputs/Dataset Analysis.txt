@@ -1,0 +1,83 @@
+"005": {
+        "window_size": 128,
+        "correlation_threshold": 0.25,
+        "max_lag": 512,
+        "test_size": 0.1,
+        "val_size": 0.1,
+        "random_seed": 0,
+        "dataset_name": "radar_windows_corr_stride",
+        "file_name": "dataset",
+        "stride": 42,
+        "file_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K128_S42.npz",
+        "timestamp": "2026-02-24 20:17:44",
+        "size": "1.499 GB"
+    }
+
+Class to Label Mapping
+----------------------------------------
+bicycle         → 0
+person          → 1
+uav             → 2
+vehicle         → 3
+
+
+TRAIN Distribution
+----------------------------------------
+Label 0 (bicycle   ):   556 samples |  18.91%
+Label 1 (person    ):  1086 samples |  36.94%
+Label 2 (uav       ):   608 samples |  20.68%
+Label 3 (vehicle   ):   690 samples |  23.47%
+Total samples: 2940
+
+
+TRAIN Input Shape Analysis
+----------------------------------------
+Total samples: 2940
+Unique shapes found: 1
+Shape (1, 128, 1008): 2940 samples
+All input shapes are consistent.
+
+Unique dtypes: ['float32']
+All dtypes are consistent.
+
+
+VAL Distribution
+----------------------------------------
+Label 0 (bicycle   ):    32 samples |   9.76%
+Label 1 (person    ):   209 samples |  63.72%
+Label 2 (uav       ):    69 samples |  21.04%
+Label 3 (vehicle   ):    18 samples |   5.49%
+Total samples: 328
+
+
+VAL Input Shape Analysis
+----------------------------------------
+Total samples: 328
+Unique shapes found: 1
+Shape (1, 128, 1008): 328 samples
+All input shapes are consistent.
+
+Unique dtypes: ['float32']
+All dtypes are consistent.
+
+
+TEST Distribution
+----------------------------------------
+Label 0 (bicycle   ):    69 samples |  15.90%
+Label 1 (person    ):   246 samples |  56.68%
+Label 2 (uav       ):    99 samples |  22.81%
+Label 3 (vehicle   ):    20 samples |   4.61%
+Total samples: 434
+
+
+TEST Input Shape Analysis
+----------------------------------------
+Total samples: 434
+Unique shapes found: 1
+Shape (1, 128, 1008): 434 samples
+All input shapes are consistent.
+
+Unique dtypes: ['float32']
+All dtypes are consistent.
+
+

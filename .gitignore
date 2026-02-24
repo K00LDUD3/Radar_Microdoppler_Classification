@@ -4,3 +4,6 @@ Dataset/moving_target_dataset.npy
 Assets/Dataset/moving_target_dataset.npy
 /Utils/__pycache__
 Notebooks/PersonalReference.ipynb
+*.npz
+/Assets/Models/__pycache__
+*.pt

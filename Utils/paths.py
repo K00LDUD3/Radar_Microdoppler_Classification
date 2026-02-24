@@ -1,3 +1,4 @@
+
 from os import path
 
 # Parent Directory of where THIS file lives
@@ -8,11 +9,13 @@ NOTEBOOKS = path.join(BASE_DIR, "Notebooks")
 
 ASSETS = path.join(BASE_DIR, "Assets")
 DATASET = path.join(ASSETS, "Dataset")
+PROCESSED_DATASETS = path.join(DATASET, "Processed")
+
 MODELS = path.join(ASSETS, "Models")
 
 LOGS = path.join(BASE_DIR, "Logs")
-
-
+UTILS = path.join(BASE_DIR, "Utils")
+    
 PATHS = {
     name: value
     for name, value in globals().items()

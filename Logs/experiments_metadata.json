@@ -1,0 +1,67 @@
+{
+    "001": {
+        "dataset_id": "009",
+        "batch_size": 64,
+        "epochs": 100,
+        "learning_rate": 0.001,
+        "use_class_weights": true,
+        "model_name": "cnn001",
+        "dataset_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB256.npz",
+        "model_save_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Outputs\\Models",
+        "num_classes": 4,
+        "timestamp": "2026-02-25 00:30:22",
+        "size": "0.0 MB"
+    },
+    "002": {
+        "dataset_id": "011",
+        "batch_size": 64,
+        "epochs": 100,
+        "learning_rate": 0.001,
+        "use_class_weights": true,
+        "model_name": "cnn001",
+        "dataset_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S32_DB256.npz",
+        "model_save_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Outputs\\Models",
+        "num_classes": 4,
+        "timestamp": "2026-02-25 00:35:57",
+        "size": "0.0 MB"
+    },
+    "003": {
+        "dataset_id": "011",
+        "batch_size": 64,
+        "epochs": 100,
+        "learning_rate": 0.001,
+        "use_class_weights": true,
+        "model_name": "cnn001",
+        "dataset_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S32_DB256.npz",
+        "model_save_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Outputs\\Models",
+        "num_classes": 4,
+        "timestamp": "2026-02-25 00:35:57",
+        "size": "0.0 MB"
+    },
+    "004": {
+        "dataset_id": "012",
+        "batch_size": 64,
+        "epochs": 100,
+        "learning_rate": 0.001,
+        "use_class_weights": true,
+        "model_name": "cnn001",
+        "dataset_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB512.npz",
+        "model_save_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Outputs\\Models",
+        "num_classes": 4,
+        "timestamp": "2026-02-25 00:44:57",
+        "size": "0.0 MB"
+    },
+    "005": {
+        "dataset_id": "012",
+        "batch_size": 64,
+        "epochs": 100,
+        "learning_rate": 0.001,
+        "use_class_weights": true,
+        "model_name": "cnn001",
+        "dataset_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Assets\\Dataset\\Processed\\radar_windows_corr_stride_K32_S16_DB512.npz",
+        "model_save_path": "D:\\Repos\\FPGA_Radar_Microdoppler_Classification\\Outputs\\Models",
+        "num_classes": 4,
+        "timestamp": "2026-02-25 00:45:01",
+        "size": "0.0 MB"
+    }
+}
