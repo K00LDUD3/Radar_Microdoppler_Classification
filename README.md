@@ -1,8 +1,8 @@
-# Microdoppler Classification 
-
-## [Project Proposal](https://drive.google.com/file/d/1YoAMCLCedslQCgVstt3f-OPIzyf1Hi53/view?usp=sharing, "private for now...")
+# Radar Microdoppler Classification 
 
 <!---
+## [Project Proposal](https://drive.google.com/file/d/1YoAMCLCedslQCgVstt3f-OPIzyf1Hi53/view?usp=sharing, "private for now...")
+
 ## Rounds
 1. *Due 15-03-2026:* Design and train an AI/ML model for a chosen real-world Edge AI application and implement the inference stage using Verilog RTL as a hardware accelerator.
 2. *10-04-2026:* On-site deployment and real-time data interfacing using AMD/Xilinx FPGA platforms, along with expert sessions, workshops, poster presentations, and final evaluation.
@@ -12,14 +12,15 @@
 --->
 
 <!-- ## Datasets We Had Considered: -->
-## Further Radar Dataset Overviews 
+## Radar Dataset Overview
 
-### [Open Radar Datasets - **Final Selection For Round 1**](https://github.com/openradarinitiative/open_radar_datasets)
+### [Open Radar Datasets - **Final Selection**](https://github.com/openradarinitiative/open_radar_datasets)
 - Primary: Outdoor Moving Object Dataset — stationary FMCW radar, targets include persons (walking/bicycling), UAVs/drones, vehicles; .npy dict format with Doppler spectra, SNR, positions, radar params
 - Rich metadata and viewer scripts/notebooks for exploration and benchmarking micro-Doppler classification/recognition
-- Large Scale (>30,000 samples per class) - Verify
+- Large Scale (>30,000 time frames per class) 
 - **Moving** Objects in front of the radar
 
+<!-- 
 ### Other Datasets
 #### [DARPA GOTCHA (Gotcha Volumetric SAR Data Set, Version 1.0)](https://www.sdms.afrl.af.mil/index.php?collection=gotcha)
 - Real-world airborne X-band full-polarimetric spotlight SAR phase history data (raw k-space, not processed images)
@@ -39,7 +40,7 @@
 - 12 classes: passenger cars, trucks, buses, bicycles, pedestrians, animals, static environment, etc.
 - Designed for radar-based perception in diverse urban/rural scenarios
 - **Why we avoided this dataset:** Since the RadarScenes dataset offers radar point-cloud detections instead of fixed-size radar tensors, we decided not to use it. To create CNN-compatible inputs, this would necessitate extensive preprocessing (binning, gridding, multi-sensor fusion, and clutter filtering), which would increase engineering overhead and timeline risk. A dataset with pre-structured radar tensors and balanced class distributions is more compatible with fixed-dimension convolutional architectures and effective FPGA implementation, as our goal is to design and implement a hardware-accelerated CNN on FPGA. Because of its scalability and tensor-ready format, we chose the Open Radar moving-object dataset.
-
+---> 
 <!-- ## Idea Description -->
 ## Repo Structure
 
