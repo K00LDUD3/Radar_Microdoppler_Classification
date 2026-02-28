@@ -1,13 +1,15 @@
-# Microdoppler Classification FPGA Deployable
+# Microdoppler Classification 
 
 ## [Project Proposal](https://drive.google.com/file/d/1YoAMCLCedslQCgVstt3f-OPIzyf1Hi53/view?usp=sharing, "private for now...")
 
+<!---
 ## Rounds
 1. *Due 15-03-2026:* Design and train an AI/ML model for a chosen real-world Edge AI application and implement the inference stage using Verilog RTL as a hardware accelerator.
 2. *10-04-2026:* On-site deployment and real-time data interfacing using AMD/Xilinx FPGA platforms, along with expert sessions, workshops, poster presentations, and final evaluation.
 
 ## Dataset Gatherings
 [All Datasets Gathered](https://docs.google.com/document/d/1vkHs6TT6vkpA83QuUCUTUFYyGv8xxEI254Gi0cglktQ/edit?tab=t.0#heading=h.smryuagthlx9, "Private for now...")
+--->
 
 <!-- ## Datasets We Had Considered: -->
 ## Further Radar Dataset Overviews 
